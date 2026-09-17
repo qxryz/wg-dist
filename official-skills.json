@@ -1,43 +1,5476 @@
 {
-  "schemaVersion": 1,
-  "updatedAt": "2026-09-17T10:42:41.310Z",
+  "schemaVersion": 2,
+  "updatedAt": "2026-09-17T12:18:36.920Z",
+  "source": {
+    "label": "MiniMax Hub",
+    "note": "官方与社区作者技能，作者信息见各条目"
+  },
   "skills": [
     {
-      "id": "wg.workflow-architect",
-      "name": "工作流架构师",
-      "version": "1.0.0",
-      "description": "把创作目标整理成可执行、可检查且不会重复产出的画布工作流。",
-      "contentUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/workflow-architect.md",
-      "sha256": "b83f92da0184b95b9b1a305377b3e7d1683f91007dfca821ebd927b5d7ca94b3",
-      "homepage": "https://github.com/qxryz/wg-dist",
-      "capabilities": [
-        "workflow",
-        "terminal"
+      "id": "3d-animation-short-generator",
+      "name": "3D动画短片",
+      "nameEn": "Animation",
+      "version": "1.1.18",
+      "description": "根据故事创意完成角色场景设定、镜头规划、分镜生成与视频合成，输出风格统一的3D动画短片。",
+      "descriptionEn": "Create a unified 3D animated short from a story idea, covering characters, scenes, shots, storyboards, video clips, and final assembly.",
+      "author": "MiniMax Design",
+      "source": "official-featured",
+      "tags": {
+        "zh": [
+          "动画 / 计划制定",
+          "动画 / 创作生成",
+          "动画 / 后期处理"
+        ],
+        "en": [
+          "Animation / Planning",
+          "Animation / Creative Generation",
+          "Animation / Post-production"
+        ]
+      },
+      "triggerWords": [
+        "3D动画短片",
+        "动画短片",
+        "皮克斯风短片",
+        "故事转视频",
+        "卡通短片",
+        "口型安全"
       ],
-      "tags": [
-        "工作流",
-        "编排",
-        "数据流"
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/3d-animation-short-generator/",
+      "fileCount": 7,
+      "bytes": 67647,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 8542,
+          "sha256": "e0c88750cd45876fc5380ece6c1cf5efb97a6bcbc35d907a37e9fef300d66f80"
+        },
+        {
+          "path": "meta.yaml",
+          "bytes": 2940,
+          "sha256": "e529df5606c5e00a6de4b13f9f92ebe4399baab394f303f9d053a9ff6621adcd"
+        },
+        {
+          "path": "references/fallback-policy.md",
+          "bytes": 2346,
+          "sha256": "08898baeaaad27a4c5661b3f23598f5f00a318aab34dee31b664e5f8f0117c65"
+        },
+        {
+          "path": "references/model-selection.md",
+          "bytes": 3882,
+          "sha256": "cadadf8ef3bbf3fb3fb42935b5e252b9600b2d43f1d03a2adea903a023913d2b"
+        },
+        {
+          "path": "references/qc-checklist.md",
+          "bytes": 12246,
+          "sha256": "408daf454e0fbbcd2e3f1b305910131df5591f00e1863e8fba95c664779b9ff0"
+        },
+        {
+          "path": "references/shot-table-spec.md",
+          "bytes": 15892,
+          "sha256": "f88eb2aaaba36b3f7b25234b43fc26b6b9621c86adc99dc7882822cd9c245b58"
+        },
+        {
+          "path": "references/storyboard-guidelines.md",
+          "bytes": 21799,
+          "sha256": "966efe582588ec404c8e2ce370eaa06d73a3ec899f8d5f80ba5f876f421df36c"
+        }
       ]
     },
     {
-      "id": "wg.creative-director",
-      "name": "创意导演",
-      "version": "1.0.0",
-      "description": "在生成前建立方向、参考与取舍，让多模态资产保持一致。",
-      "contentUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/creative-director.md",
-      "sha256": "e579977b889eae6d1678222e17937f6f2149c47dd4e307c1351fa6a8a22c5147",
-      "homepage": "https://github.com/qxryz/wg-dist",
-      "capabilities": [
-        "writing",
-        "image",
-        "video",
-        "audio"
+      "id": "90s-cel-animation-city-pop-short",
+      "name": "复古都市赛璐璐短片",
+      "nameEn": "Animation",
+      "version": "1.0.1",
+      "description": "将剧情与视觉参考转化为统一风格、连续资产、分段分镜、音乐拟音和剪辑完整的复古都市赛璐璐动画短片。",
+      "descriptionEn": "Turns stories and visual references into connected 1990s cel-animation City Pop shorts with locked style, continuity assets, segment storyboards, music, sound design, and final editing.",
+      "author": "MiniMax Design",
+      "source": "official-featured",
+      "tags": {
+        "zh": [
+          "动画 / 创作生成"
+        ],
+        "en": [
+          "Animation / Creative Generation"
+        ]
+      },
+      "triggerWords": [
+        "90年代赛璐璐动画",
+        "复古都市动画",
+        "City Pop动画",
+        "都市记忆短片",
+        "赛璐璐动画短片",
+        "复古城市动画"
       ],
-      "tags": [
-        "创意",
-        "视觉",
-        "叙事"
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/90s-cel-animation-city-pop-short/",
+      "fileCount": 2,
+      "bytes": 14649,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 11048,
+          "sha256": "39d7df0fa63f970a4f0a67fe7c558a78bd1a3ac2af4db575d1b4dcb2eb9e809e"
+        },
+        {
+          "path": "meta.yaml",
+          "bytes": 3601,
+          "sha256": "8011382cc7e4eebeaa9e5aa26d386ca9e7a92d45374bdc41f3c6926cf7995a4e"
+        }
+      ]
+    },
+    {
+      "id": "animal-podcast",
+      "name": "动物播客",
+      "version": "0.5.1",
+      "description": "输入动物与话题，生成搞笑对话播客",
+      "descriptionEn": "Generate funny animal dialogue podcasts",
+      "author": "unknown",
+      "source": "unknown",
+      "tags": {
+        "zh": [
+          "视频",
+          "播客",
+          "喜剧",
+          "动物",
+          "AI视频"
+        ],
+        "en": [
+          "Video",
+          "Podcast",
+          "Comedy",
+          "Animal",
+          "AI-Video"
+        ]
+      },
+      "triggerWords": [],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/animal-podcast/",
+      "fileCount": 5,
+      "bytes": 44039,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 14029,
+          "sha256": "27cd808c4594362055e380a4ad5cae372d390414292ebe81234f7338e21d3e4e"
+        },
+        {
+          "path": "references/script-example.md",
+          "bytes": 2071,
+          "sha256": "040a505072a1748e5ae66b9e741188380ba470b2953a18e2251652f7ad19161f"
+        },
+        {
+          "path": "scripts/burn_subs.py",
+          "bytes": 9729,
+          "sha256": "aaf449ecd8d184d8564a272c7a11573098dc39ca9b269854f7b9a048d3a3a862"
+        },
+        {
+          "path": "scripts/review_segment.py",
+          "bytes": 7583,
+          "sha256": "a40eaf89d6370d5a78063778cac2f446ae3e9d4bdb8a2355d06d3c49074da862"
+        },
+        {
+          "path": "scripts/validate_script.py",
+          "bytes": 10627,
+          "sha256": "221122798b44cca96c2ac467b90918ecab3a8ef4abb4fa97ef10969e5b121e79"
+        }
+      ]
+    },
+    {
+      "id": "anime-game-pv",
+      "name": "二次元游戏PV",
+      "nameEn": "Animation / Full Production",
+      "version": "1.0.8",
+      "description": "为二次元游戏与漫画角色制作十五秒内的完整宣传PV，从画风锁定到成片一站完成",
+      "descriptionEn": "Create a complete anime or game character PV within 15 seconds, from visual lock to final video",
+      "author": "Official Design Team",
+      "source": "official",
+      "tags": {
+        "zh": [
+          "动画 / 成片制作"
+        ],
+        "en": [
+          "Animation / Full Production"
+        ]
+      },
+      "triggerWords": [
+        "动漫PV",
+        "游戏PV",
+        "漫画PV",
+        "角色PV",
+        "剧情预告",
+        "战斗预告",
+        "抽卡宣传",
+        "活动PV"
+      ],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/anime-game-pv/",
+      "fileCount": 5,
+      "bytes": 77785,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 41574,
+          "sha256": "5a54510cc6852ef4a1ba339ad56c3a22481f3b64b75556241640014bfa257088"
+        },
+        {
+          "path": "meta.yaml",
+          "bytes": 2553,
+          "sha256": "2be3cf144b6615348bbdbfad214a914a8284c9d53e73a26cc60bff0242f9147e"
+        },
+        {
+          "path": "references/audio-direction.md",
+          "bytes": 2509,
+          "sha256": "85bf29c04fc08148823a601495289164fff0ec2aeac230fbf203888a0d8d32d7"
+        },
+        {
+          "path": "references/prompt-rules.md",
+          "bytes": 15979,
+          "sha256": "a9509c187870d6ecfd3d7c1f384ec6c90926757911f951b3e9e0d2360e654bd4"
+        },
+        {
+          "path": "references/visual-inputs.md",
+          "bytes": 15170,
+          "sha256": "d0ecd446b982a3245c796a115de84694d08ffb6b58d54efff1c5b1ccc296eb9a"
+        }
+      ]
+    },
+    {
+      "id": "architecture-flythrough",
+      "name": "建筑空间飞行",
+      "nameEn": "Animation",
+      "version": "1.0.0",
+      "description": "主动搜集建筑与城市图片参考，制作可编辑三维场景、高清预演和一致风格飞行视频，支持地标展示与空间漫游。",
+      "descriptionEn": "Researches architectural references, builds editable scenes, designs FPV camera moves, and produces 2560×1440 previews and consistent cinematic flythrough videos using an embedded H3 prompt framework.",
+      "author": "MiniMax Design",
+      "source": "official-featured",
+      "tags": {
+        "zh": [
+          "动画 / 创作生成"
+        ],
+        "en": [
+          "Animation / Creative Generation"
+        ]
+      },
+      "triggerWords": [],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/architecture-flythrough/",
+      "fileCount": 20,
+      "bytes": 113894,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 16154,
+          "sha256": "3d0aac37cb424263dab2a4ffb46a9718a38cda64a116a26a66d9e07323a63d43"
+        },
+        {
+          "path": "meta.yaml",
+          "bytes": 3091,
+          "sha256": "e2754b823092b9dbe778ce1e9f8f97095795b1b7ee4de5f1c5a26fe37d3a1e21"
+        },
+        {
+          "path": "references/camera-design.md",
+          "bytes": 12621,
+          "sha256": "bd271baf1a85fc2b4bc9382bbab401ad0005c2fefe2d4dbff5af8161d5f0ee08"
+        },
+        {
+          "path": "references/failure-recovery.md",
+          "bytes": 24012,
+          "sha256": "2f027dcaa281ac269249cd4cb3ecb6138b2c1619bc2b48360a2274ce460052d9"
+        },
+        {
+          "path": "references/h3-prompt.md",
+          "bytes": 9851,
+          "sha256": "2e4191993fa46db5e4148fbc5b03b979225cab194ed410b16df3cf236a842390"
+        },
+        {
+          "path": "references/h3-prompt/archive/modes-fl2va.md",
+          "bytes": 1819,
+          "sha256": "fb4230af939ad1e65f71c686fc7534acee3158ff98331d895c8951cedfec8dba"
+        },
+        {
+          "path": "references/h3-prompt/archive/modes-i2va.md",
+          "bytes": 1566,
+          "sha256": "5ffd667d98bb14a9ce9adb4328f3f89b12b28edcae471190a03907504111218b"
+        },
+        {
+          "path": "references/h3-prompt/archive/modes-l2va.md",
+          "bytes": 1617,
+          "sha256": "03afa9b50323030ec0a59c64fe7558945056961c3331c4978821c3900751c84b"
+        },
+        {
+          "path": "references/h3-prompt/archive/modes-t2va.md",
+          "bytes": 1493,
+          "sha256": "abb0f0763c227537d9c5c7f51857e0fdc18ce5751c8daa3dcba2f1023baa51ad"
+        },
+        {
+          "path": "references/h3-prompt/audio-dialogue.md",
+          "bytes": 1686,
+          "sha256": "9243f8b06663443b7faba16e5c4b567d4bd8f969d5d7980adfb42f5abb8fbf85"
+        },
+        {
+          "path": "references/h3-prompt/clarification-routing.md",
+          "bytes": 1239,
+          "sha256": "2a0f02d236d25f0048924f1a86bddacdabd3599687b99f0e4ef34256b5a90a07"
+        },
+        {
+          "path": "references/h3-prompt/core-workflow.md",
+          "bytes": 1913,
+          "sha256": "9fe5d961c5917eeb501eb3bfc0db828d39d86873440170f1e54b3eccbdf2d035"
+        },
+        {
+          "path": "references/h3-prompt/editing-preservation.md",
+          "bytes": 1578,
+          "sha256": "776f1d7efc63ffe722de5e77333596ad64471126beed8bbf9db21b7d7ce5e37a"
+        },
+        {
+          "path": "references/h3-prompt/expert-framework.md",
+          "bytes": 3569,
+          "sha256": "b657cfff32203afecd995a1bfd47f1fe1f2a28107a660e596f1df65904654ce4"
+        },
+        {
+          "path": "references/h3-prompt/modes-all-purpose-reference.md",
+          "bytes": 2969,
+          "sha256": "19699dfcbc83bb9eb263ee91028b37304ff3c21828e4c76f1ee504670d10815a"
+        },
+        {
+          "path": "references/h3-prompt/pattern-grammars.md",
+          "bytes": 1575,
+          "sha256": "df9c0655db0964e77f671601256fbaf7ef87d90efef65203f7638367f9e1d281"
+        },
+        {
+          "path": "references/h3-prompt/text-ui-layout.md",
+          "bytes": 3580,
+          "sha256": "3bf98598de79091d50c65accf85d74baf650a128378876cf2c1cb9f098e0861b"
+        },
+        {
+          "path": "references/modeling.md",
+          "bytes": 15279,
+          "sha256": "908c37b7298edb42706ca5af21c9b6a51b7250fa5bffd198ea4947c0ef8cb7d4"
+        },
+        {
+          "path": "scripts/prepare_scene.py",
+          "bytes": 3407,
+          "sha256": "c44c4b560379be905079b863e1266214c4a0f14c3067236d9f80505b85cb4bfc"
+        },
+        {
+          "path": "scripts/validate_output.py",
+          "bytes": 4875,
+          "sha256": "61645e4e05a215134213cb948f2f3f474be565bcb8a8116ccdf7fda866311865"
+        }
+      ]
+    },
+    {
+      "id": "audiobook",
+      "name": "有声书",
+      "nameEn": "Audio Content / Audio Generation",
+      "version": "0.3.17",
+      "description": "把书籍转化为多角色有声书",
+      "descriptionEn": "Turn books into multi-voice audiobooks",
+      "author": "MiniMax Design",
+      "source": "official",
+      "tags": {
+        "zh": [
+          "音频音乐 / 创作生成"
+        ],
+        "en": [
+          "Sound & Music / Creative Generation"
+        ]
+      },
+      "triggerWords": [
+        "audiobook",
+        "narration",
+        "read aloud",
+        "text to audiobook",
+        "TTS book",
+        "multi-character voiceover",
+        "novel narration",
+        "book narration",
+        "voice acting",
+        "有声书",
+        "朗读",
+        "读书",
+        "多角色配音",
+        "小说朗读"
+      ],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/audiobook/",
+      "fileCount": 29,
+      "bytes": 252536,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 7258,
+          "sha256": "08518b76ed7303da808a669ec36ac5f82bc64d2d95d978741058dd116485c7d4"
+        },
+        {
+          "path": "html/preview-voice_setup.html",
+          "bytes": 22519,
+          "sha256": "577d68e78c4f0f32915e044edd45ba7778ad856366be28f1f6119e29d21216f1"
+        },
+        {
+          "path": "meta.yaml",
+          "bytes": 2224,
+          "sha256": "f5fd1ba13b18ab597d9a4d0797dd0d50938709fbd2ae60386e938bc517a57a09"
+        },
+        {
+          "path": "phases/00-import.md",
+          "bytes": 2955,
+          "sha256": "e6547ff87ca5caa4df18c2525a07d29afc709beba94155e34b23b432260a737f"
+        },
+        {
+          "path": "phases/01-analysis.md",
+          "bytes": 6187,
+          "sha256": "9d6e58a2591a54074e74ab49600ec5b8422455cc9b437182df8157a7d1e137e4"
+        },
+        {
+          "path": "phases/02-rewriting.md",
+          "bytes": 4632,
+          "sha256": "4c64fd28b19d3ad42f074f43ae724bb21b8bfae2ddb4a2f3e717188990e886db"
+        },
+        {
+          "path": "phases/03-voice-preview.md",
+          "bytes": 11113,
+          "sha256": "0917d93e94e4d24e62950842b4310718422438b04892adbed7dceb7a93c2548c"
+        },
+        {
+          "path": "phases/04-generation.md",
+          "bytes": 14941,
+          "sha256": "98640e8054b38327ed658ad554e0326c080ef9917f67616e18f6e09b37b772dc"
+        },
+        {
+          "path": "references/chapter-script-example.md",
+          "bytes": 943,
+          "sha256": "b00f1f9747103b668dd5ff84e1edae9087bb64bb8f360ba830ee254d836aeef3"
+        },
+        {
+          "path": "references/characters-example.md",
+          "bytes": 1217,
+          "sha256": "2b76b861b72439b7e4f94cbe9eaca823635124beee7b7b57c9933632ebd4f7be"
+        },
+        {
+          "path": "references/segments-example.json",
+          "bytes": 1220,
+          "sha256": "9c7001c22ec7298afe82a856acf9b664c6a91d41d5405f797ff1d44339fa2e92"
+        },
+        {
+          "path": "references/voices-backup-overseas.md",
+          "bytes": 116299,
+          "sha256": "05ea2e8e2d9ac842d205c4210962aa8d1b60bed39dfbce67e270da36f55c243c"
+        },
+        {
+          "path": "scripts/audio_check.py",
+          "bytes": 5185,
+          "sha256": "cba67dbc8c330579304da4f70e889fcb45ac622a3fb944aa03b8e0c7b23fce26"
+        },
+        {
+          "path": "scripts/build_generation_plan.py",
+          "bytes": 7176,
+          "sha256": "706fb5c62e28268f3a77eb64de52b3522cb5ef4e081f23a27a8e274915d2bd8f"
+        },
+        {
+          "path": "scripts/build_preview_data.py",
+          "bytes": 3622,
+          "sha256": "920f0b60c1a03382bdc9d24f76734b28a81e0a0ff61235e99b4ada369342af4b"
+        },
+        {
+          "path": "scripts/generate_assembly_report.py",
+          "bytes": 3180,
+          "sha256": "c6ef372d65ac14e023792f31c4ff3f65ed0d7997d3d3be116c62ae37a1517c03"
+        },
+        {
+          "path": "scripts/generate_chapter_script.py",
+          "bytes": 1344,
+          "sha256": "fea981c8dc49046920fca0a82335a36b16d6f0a1669537f7bf3c998f95dd60c1"
+        },
+        {
+          "path": "scripts/match_blobs.py",
+          "bytes": 1904,
+          "sha256": "40235a9999a5c954e34de698287e8aa6ea685ce4231dc2c41905272b3d5d0fb3"
+        },
+        {
+          "path": "scripts/match_preview_blobs.py",
+          "bytes": 2041,
+          "sha256": "21cb7e8265d243bafb3821ef4e9a595bb2736cf9a54a6f3e370004d4b2d9261e"
+        },
+        {
+          "path": "scripts/organize_preview_files.py",
+          "bytes": 2952,
+          "sha256": "5c441ae5901514408ab5a6def2aaa2e81e2bee57445b3b320e066c682a919f8b"
+        },
+        {
+          "path": "scripts/organize_segment_files.py",
+          "bytes": 2661,
+          "sha256": "1f19f2f068cadf0f2513a7dd4530688cf109ceb3a8aeaa90acd81f24c48591dd"
+        },
+        {
+          "path": "scripts/preprocess_chapter.py",
+          "bytes": 2705,
+          "sha256": "be626f6373ad749fa41a4afc5ae86841189a11c959df92af6672049e90b00dfc"
+        },
+        {
+          "path": "scripts/print_preview_calls.py",
+          "bytes": 2665,
+          "sha256": "03f6ff961cc4942056e9632010f85a7db50f91bd4cd61db8c9fc7f767edf6f1a"
+        },
+        {
+          "path": "scripts/print_retry_calls.py",
+          "bytes": 2145,
+          "sha256": "470f304bf0c505a4b89f99b8c4bc9dfe442cee9b6a4c633c5ee384ea4867c2f8"
+        },
+        {
+          "path": "scripts/render_preview.py",
+          "bytes": 12219,
+          "sha256": "de3bb0749229ed1f00f86cc6ccc6a571ba8f70424fab37f57183a6a45fdff4ba"
+        },
+        {
+          "path": "scripts/validate_pause_markers.py",
+          "bytes": 3539,
+          "sha256": "d664ac2f9f7b20092e7aacc14c2900741b97a867da25021063069e42d561a8e0"
+        },
+        {
+          "path": "scripts/validate_segments.py",
+          "bytes": 3150,
+          "sha256": "e257ebc6d57885ee477682205c467201a182f8a1a675a1baedbc3c12ac06150c"
+        },
+        {
+          "path": "scripts/verify_blobs.py",
+          "bytes": 2928,
+          "sha256": "f569b12265b732815c8f7284d8ba5e160adc249357a3c33cf76cd46162226832"
+        },
+        {
+          "path": "scripts/write_manifest.py",
+          "bytes": 1612,
+          "sha256": "88c36b83fa574211b8131237a07b8b5653ad2006671c70c1d27da1384b2b0be1"
+        }
+      ]
+    },
+    {
+      "id": "backrooms-dreamcore",
+      "name": "后室梦核",
+      "nameEn": "Visual Production / Image Generation",
+      "version": "0.2.6",
+      "description": "生成专属后室空间",
+      "descriptionEn": "Create personalized Backrooms dreamcore spaces from a reference image.",
+      "author": "Kido G",
+      "source": "community",
+      "tags": {
+        "zh": [
+          "创意实验 / 创作生成"
+        ],
+        "en": [
+          "Creative & Experimental / Creative Generation"
+        ]
+      },
+      "triggerWords": [
+        "后室测试",
+        "我的后室",
+        "梦核测试",
+        "我的异空间",
+        "固有空间",
+        "把我变成后室",
+        "把这个场景后室化",
+        "角色后室化",
+        "场景后室化",
+        "backrooms test",
+        "dreamcore test",
+        "my liminal space",
+        "liminal space"
+      ],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/backrooms-dreamcore/",
+      "fileCount": 2,
+      "bytes": 14868,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 12589,
+          "sha256": "70d335161e85a9781cd643e54a2511e3957eff29f8a450d51ad9b6b149d2e847"
+        },
+        {
+          "path": "meta.yaml",
+          "bytes": 2279,
+          "sha256": "1a404d20dc7c743944a7626353a195b1f1b3f14d947b0c266d0d9fb74d01e0af"
+        }
+      ]
+    },
+    {
+      "id": "blender-workflow",
+      "name": "Blender 建模与创作",
+      "nameEn": "Creative & Experimental / Creative Generation",
+      "version": "0.1.1",
+      "description": "根据需求、参考或已有工程制作可编辑作品，静态回传一张渲染图，动态回传渲染完成的视频到画布。",
+      "descriptionEn": "Create editable Blender work from briefs, references or existing projects, with one rendered image for static results or a finished rendered video for dynamic results returned to the canvas.",
+      "author": "MiniMax Design",
+      "source": "official",
+      "tags": {
+        "zh": [
+          "创意实验 / 创作生成"
+        ],
+        "en": [
+          "Creative & Experimental / Creative Generation"
+        ]
+      },
+      "triggerWords": [],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/blender-workflow/",
+      "fileCount": 22,
+      "bytes": 164917,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 22305,
+          "sha256": "34e7b5c25a792f2d6e7f0a4489e32b99478d56d367fe0a46f2a70d85e0dab5d0"
+        },
+        {
+          "path": "meta.yaml",
+          "bytes": 3098,
+          "sha256": "b9958f07617a4abbc58e57ceb2f264cf329e1aa1c13f6e46b3fa1572b5f28115"
+        },
+        {
+          "path": "references/modeling-knowledge.md",
+          "bytes": 41628,
+          "sha256": "8c90f71f8b535da300b52eaf46e3d7cf432b86c552ee168ead9b0907957ced08"
+        },
+        {
+          "path": "scripts/blender-console-windows.py",
+          "bytes": 9205,
+          "sha256": "6a5a70b701253a7fdb71d7d525c4408557863a3f460d91dd24ea9e6cb9d3ff44"
+        },
+        {
+          "path": "scripts/blender-host.mjs",
+          "bytes": 8978,
+          "sha256": "22588ca4ce4b606e96d5f00da0ceb1f19f007f4573c2f2f5f45dd0f70f6e0899"
+        },
+        {
+          "path": "scripts/blender-service-bootstrap.py",
+          "bytes": 3529,
+          "sha256": "24a6f7e9603c6d4fc223bda7fd906ff924cfa77bb90453935583787a75a8f747"
+        },
+        {
+          "path": "scripts/blender-service-probe.py",
+          "bytes": 2863,
+          "sha256": "5cbaf33051b951987a4f53f5f8dd70fe010058ae48ef3c3cf68b59cf81a67077"
+        },
+        {
+          "path": "scripts/blender-service.mjs",
+          "bytes": 7890,
+          "sha256": "761afbf8d4776fee27e7c5b3787f1d0f732259b179376ea63e0a2ccdf9bbb251"
+        },
+        {
+          "path": "scripts/create_clean_work.py",
+          "bytes": 2650,
+          "sha256": "dc59ee1ac12b22793b9047fd3112d1427051bcbe5e5d0a3a5609b536510a3a1a"
+        },
+        {
+          "path": "scripts/prepare-connector.mjs",
+          "bytes": 7809,
+          "sha256": "d7d870d26ebe528c60669ffbbc37bfb6b432bb20250e0a3ed76cee2f0686890d"
+        },
+        {
+          "path": "scripts/windows-dependencies.mjs",
+          "bytes": 1665,
+          "sha256": "a3524511cf75367bb1513e78dac1a08c0dd93ce4dce5a4e1022720b1e320b313"
+        },
+        {
+          "path": "scripts/windows-dependencies.py",
+          "bytes": 6778,
+          "sha256": "a5f9c5468d5a628c4eb220b9981d1ac7632f4e8cd32f59bd7fedd3fa0365ccf3"
+        },
+        {
+          "path": "tests/VALIDATION.md",
+          "bytes": 11300,
+          "sha256": "a122ea134f9a9646d77097d3d826e1b4fa513d3408dda0815ef8e263e206485e"
+        },
+        {
+          "path": "tests/preparation-recovery.test.mjs",
+          "bytes": 2816,
+          "sha256": "15118e74299bb701a701b6629a0b8c3309f04ba1c0d0cfdd34538630028a290d"
+        },
+        {
+          "path": "tests/prepare-connector.test.mjs",
+          "bytes": 4617,
+          "sha256": "a33cd63fd31ebff62bfbb311e6cdd566d0318beb7b190ca980442e497593b993"
+        },
+        {
+          "path": "tests/service-startup.test.mjs",
+          "bytes": 4864,
+          "sha256": "6a42fbf18f46b32d91acae11cef504536099aec195802989dbc4c1f6b84d556b"
+        },
+        {
+          "path": "tests/test_console_windows.py",
+          "bytes": 4831,
+          "sha256": "0e221789fd44ec6b417822b3774398999a34a735cf9a9a97e16a6545fe0fb74e"
+        },
+        {
+          "path": "tests/test_service_bootstrap.py",
+          "bytes": 4333,
+          "sha256": "3c5d568a66164d35c5ae2fe41c13a6db2b09e236d00a286f7791a8fdcfa2faaf"
+        },
+        {
+          "path": "tests/test_windows_dependencies.py",
+          "bytes": 4321,
+          "sha256": "331e459d53162217ffbc7c73e673fe52fc24989422d59af4bf76879b7103bef9"
+        },
+        {
+          "path": "tests/windows-host.test.mjs",
+          "bytes": 4270,
+          "sha256": "d048843a9781d9019420b6ca7be42f8fdb50e4e5460f226a68f369598c885cc7"
+        },
+        {
+          "path": "tests/windows-recovery.test.mjs",
+          "bytes": 2852,
+          "sha256": "02f2ada01b4b10fee31507b746512c595b372245d204861db99765ba0c89627b"
+        },
+        {
+          "path": "tests/windows-runtime.test.mjs",
+          "bytes": 2315,
+          "sha256": "2425b477a8c9ec7a7e95ba6c42f96fe613e3c296971b3c0a5eddef73a6d18885"
+        }
+      ]
+    },
+    {
+      "id": "brand-ad",
+      "name": "品牌广告",
+      "nameEn": "Commercial Ad / Full Production",
+      "version": "1.1.5",
+      "description": "从策略、脚本和分镜到终剪，制作用户自定义时长的官方品牌广告与 TVC 成片",
+      "descriptionEn": "Produce official brand commercials and TVCs of user-defined duration, from strategy through final cut",
+      "author": "MiniMax Design",
+      "source": "official",
+      "tags": {
+        "zh": [
+          "商业广告 / 成片制作"
+        ],
+        "en": [
+          "Commercial Ad / Full Production"
+        ]
+      },
+      "triggerWords": [
+        "品牌广告",
+        "产品广告",
+        "产品主角片",
+        "官方商业片",
+        "品牌展示片",
+        "产品宣传片",
+        "品牌过程片",
+        "TVC",
+        "品牌大片",
+        "剧情广告",
+        "系列 Campaign"
+      ],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/brand-ad/",
+      "fileCount": 11,
+      "bytes": 109235,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 35201,
+          "sha256": "d97928e150358399c3770579f35d31e93affd94148ce448b3c6335826fdef0ee"
+        },
+        {
+          "path": "meta.yaml",
+          "bytes": 2858,
+          "sha256": "fb297a97cf40c1088070b0dce4bec5b9fa7e9872a88f30f47a6cb951f5877dca"
+        },
+        {
+          "path": "references/adsqa-target-answers.md",
+          "bytes": 3145,
+          "sha256": "ce5f548ce7353154587b3d721613c44659bb7f523e0a9faa0c0455a6a04d7a6a"
+        },
+        {
+          "path": "references/brand-hero-emotional-structure.md",
+          "bytes": 3870,
+          "sha256": "5806dd619cb2cdebb9473f18eca1f6ebfa95e5dbb79a53072bdc9ccb91b5b664"
+        },
+        {
+          "path": "references/future-system-montage.md",
+          "bytes": 3759,
+          "sha256": "1ea46bf983d7d56de07a1a0bf56461b9940391ff41a48e8d7436e5058e3c3314"
+        },
+        {
+          "path": "references/product-h3-compile.md",
+          "bytes": 27621,
+          "sha256": "fad6783c046f5083c55e0e79e20de1eb47aaa9d4c92cc920a7437c2de0d474eb"
+        },
+        {
+          "path": "references/product-motion.md",
+          "bytes": 7458,
+          "sha256": "1b14465d758a1ea286148c434450c066b4ba07a9bc538ec1104e6d070f546fbe"
+        },
+        {
+          "path": "references/product-visual-techniques.md",
+          "bytes": 4613,
+          "sha256": "25b90c285dda4989d68bc9e3525547f7915f7d3ade1a74173ee3bc34630567af"
+        },
+        {
+          "path": "references/sensory-visual-prompting.md",
+          "bytes": 3691,
+          "sha256": "94076d30f448b5e351ff0a47fb264eab15100b2044723e4b15555a9660fc26c1"
+        },
+        {
+          "path": "references/style-research.md",
+          "bytes": 8496,
+          "sha256": "cec1d6adaf8c8a04e620fa99befc50130a765fe3023fb0c4d9cc8433f013059f"
+        },
+        {
+          "path": "references/voice-keyword-typography.md",
+          "bytes": 8523,
+          "sha256": "fcbbdc5649fca00bcadaaa0038565ec870fcb951e9a59075bbeec9146681085b"
+        }
+      ]
+    },
+    {
+      "id": "brand-ip-asset-package-design",
+      "name": "品牌IP资产包设计",
+      "nameEn": "Commercial Ad",
+      "version": "1.0.3",
+      "description": "从IP草稿或简报分步扩展角色、表情、服装、海报与文创周边，形成完整可复用资产包。",
+      "descriptionEn": "Builds a reusable IP asset system from a sketch or brief through staged character, expression, outfit, poster, and merch modules.",
+      "author": "Kido G",
+      "source": "community",
+      "tags": {
+        "zh": [
+          "商业广告 / 创作生成"
+        ],
+        "en": [
+          "Commercial Ad / Creative Generation"
+        ]
+      },
+      "triggerWords": [
+        "IP物料",
+        "IP角色",
+        "表情包",
+        "换装",
+        "海报",
+        "文创周边",
+        "潮玩",
+        "手办"
+      ],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/brand-ip-asset-package-design/",
+      "fileCount": 2,
+      "bytes": 14613,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 11422,
+          "sha256": "adecd124360227e5bfff38f3a7c6e2ceb468f7d4e9264a1f472ea7c368942af8"
+        },
+        {
+          "path": "meta.yaml",
+          "bytes": 3191,
+          "sha256": "50fb80336b194245bb1c82de57b146340af2574b6a4f3a045d325d1f93b3fce7"
+        }
+      ]
+    },
+    {
+      "id": "brand-promo-video-generator",
+      "name": "品牌宣传短片生成器",
+      "nameEn": "Commercial Ad",
+      "version": "0.1.16",
+      "description": "基于品牌素材与推广目标，完成事实核验、创意方向、分镜和音画合成，输出可展示的品牌宣传短片。",
+      "descriptionEn": "Turn verified brand assets and campaign goals into a polished promotional short video.",
+      "author": "MiniMax Design",
+      "source": "official-featured",
+      "tags": {
+        "zh": [
+          "商业广告 / 计划制定",
+          "商业广告 / 创作生成",
+          "商业广告 / 后期处理"
+        ],
+        "en": [
+          "Commercial Ad / Planning",
+          "Commercial Ad / Creative Generation",
+          "Commercial Ad / Post-production"
+        ]
+      },
+      "triggerWords": [
+        "品牌宣传片",
+        "产品发布视频",
+        "官网宣传视频",
+        "应用推广视频",
+        "社交推广短片",
+        "品牌广告短片"
+      ],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/brand-promo-video-generator/",
+      "fileCount": 2,
+      "bytes": 14771,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 11338,
+          "sha256": "0514ede3308e91950fb50c987abe8b624942a066908660f6a20597d60650da83"
+        },
+        {
+          "path": "meta.yaml",
+          "bytes": 3433,
+          "sha256": "ddd3b103da0d66aeecbbd9baa199ac9567aba4dd467b55a5acd737b8a631ffe3"
+        }
+      ]
+    },
+    {
+      "id": "brand-stream-mg",
+      "name": "品牌流线 MG 动效",
+      "nameEn": "Commercial Ad / Creative Generation",
+      "version": "1.0.3",
+      "description": "基于Logo与主题生成IP领航的品牌流线MG动效视频，适合新品发布预热与社媒传播。",
+      "descriptionEn": "Generate a MiniMax-H3 brand stream MG video from one logo and theme, with IP-led motion and final logo fidelity.",
+      "author": "MiniMax Design",
+      "source": "official-featured",
+      "tags": {
+        "zh": [
+          "商业广告 / 创作生成"
+        ],
+        "en": [
+          "Commercial Ad / Creative Generation"
+        ]
+      },
+      "triggerWords": [
+        "品牌流线MG",
+        "品牌MG",
+        "品牌动画",
+        "logo动效",
+        "brand-stream-mg",
+        "brand stream MG",
+        "brand MG",
+        "brand animation",
+        "logo animation",
+        "品牌视频",
+        "brand video",
+        "MiniMax H3",
+        "15s品牌片",
+        "快节奏品牌片"
+      ],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/brand-stream-mg/",
+      "fileCount": 2,
+      "bytes": 9951,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 7228,
+          "sha256": "9bc2e2651390ec1fe136d50eb81acf24c2f24c5579ad80e1854e38e047e14e0d"
+        },
+        {
+          "path": "meta.yaml",
+          "bytes": 2723,
+          "sha256": "776ab3ae9ab7c5875b31c00b7cf424cbda055a207ef71c6322ec51dbaad39edc"
+        }
+      ]
+    },
+    {
+      "id": "browser-game-demo-maker",
+      "name": "浏览器游戏 Demo 制作",
+      "nameEn": "Creative & Experimental",
+      "version": "1.0.3",
+      "description": "面向本地浏览器游戏演示，先产出真实截图锚点，再生成保持同框的动作视频。",
+      "descriptionEn": "Creates a realistic browser localhost game-demo screenshot and a matching action video with the same browser frame and character continuity.",
+      "author": "Victor M",
+      "source": "community",
+      "tags": {
+        "zh": [
+          "创意实验 / 创作生成"
+        ],
+        "en": [
+          "Creative & Experimental / Creative Generation"
+        ]
+      },
+      "triggerWords": [
+        "browser screenshot",
+        "localhost demo",
+        "browser game",
+        "local html5 game",
+        "网页游戏截图",
+        "浏览器录屏",
+        "本地 demo",
+        "动作测试页"
+      ],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/browser-game-demo-maker/",
+      "fileCount": 5,
+      "bytes": 24676,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 3954,
+          "sha256": "cd13e6f0b933ade4334f854de0c2c01912891f90f2dfc2b24a90e63b51d0db65"
+        },
+        {
+          "path": "meta.yaml",
+          "bytes": 3158,
+          "sha256": "835c940d1ac8464584f8076e04bdf638411aaac59aa82f0ac3533ca92c78aa91"
+        },
+        {
+          "path": "references/image-prompt.txt",
+          "bytes": 1276,
+          "sha256": "b94e94d66ede9221eb9d6b3026b13db63cf1fccdce7e01ccb9b3deb6d88a0f5b"
+        },
+        {
+          "path": "references/user-prompt.txt",
+          "bytes": 8782,
+          "sha256": "baccdc536ff34a9c252e2a2c11890454f84438ac89add8aa9c7efdddd2398f3a"
+        },
+        {
+          "path": "references/video-prompt.txt",
+          "bytes": 7506,
+          "sha256": "f4a67b4a7688bb931f5855435c3c3b6624045f9d37d1f1dadf6314b3e0fe490f"
+        }
+      ]
+    },
+    {
+      "id": "character-identity-asset-studio",
+      "name": "角色身份与资产工作室",
+      "nameEn": "Professional Film / Intent Brainstorming",
+      "version": "1.0.0",
+      "description": "根据角色简报与参考素材建立鲜明身份和完整造型，并交付可在后续影像制作中复用的三栏角色资产表。",
+      "descriptionEn": "Turn a character brief and optional references into a distinctive identity, an approved full look, and a reusable three-panel production asset sheet.",
+      "author": "MiniMax Design",
+      "source": "official-featured",
+      "tags": {
+        "zh": [
+          "专业影视 / 意图脑爆"
+        ],
+        "en": [
+          "Professional Film / Intent Brainstorming"
+        ]
+      },
+      "triggerWords": [
+        "角色制作",
+        "角色资产",
+        "角色身份",
+        "人脸锚点",
+        "角色资产包",
+        "character creation",
+        "character asset",
+        "character identity",
+        "face anchor",
+        "character sheet"
+      ],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/character-identity-asset-studio/",
+      "fileCount": 2,
+      "bytes": 16612,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 13431,
+          "sha256": "ab7d2024018119f6ad3d63c31ec3659931efc2a569065c9eef01b4aaf6ef2fe3"
+        },
+        {
+          "path": "meta.yaml",
+          "bytes": 3181,
+          "sha256": "208ef375bc77a63eb4b2480cb8b9f90d443643d4912bda44f47d36e12253633a"
+        }
+      ]
+    },
+    {
+      "id": "chinese-traditional-animation-shortfilm",
+      "name": "中式传统动画短片",
+      "nameEn": "Animation / Creative Generation",
+      "version": "1.0.0",
+      "description": "将文化题材故事转化为中式传统动画短片，通过风格、角色、场景、分镜、声音、合成与复核保持统一表达。",
+      "descriptionEn": "Turn a culturally rooted story into a coherent animated short through approved style, character, scene, shot, sound, assembly, and review stages.",
+      "author": "MiniMax Design",
+      "source": "official-featured",
+      "tags": {
+        "zh": [
+          "动画 / 创作生成"
+        ],
+        "en": [
+          "Animation / Creative Generation"
+        ]
+      },
+      "triggerWords": [
+        "中式传统动画",
+        "中国传统动画",
+        "中国经典民族动画",
+        "中式传统动画短片",
+        "上影美术",
+        "上美影",
+        "工笔动画",
+        "水墨动画",
+        "民族动画短片"
+      ],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/chinese-traditional-animation-shortfilm/",
+      "fileCount": 2,
+      "bytes": 26320,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 23159,
+          "sha256": "f430016235f17bd5861392d6d9f39fcb05f978208a4d3d5618092c1e28ba9b1d"
+        },
+        {
+          "path": "meta.yaml",
+          "bytes": 3161,
+          "sha256": "d09bc2d19c6b2707f0ac7bdc9575502185d44dc72438b4d10e12a4784977fdae"
+        }
+      ]
+    },
+    {
+      "id": "cinematic-title-sequence",
+      "name": "影视片头序列",
+      "nameEn": "Professional Film / Full Production",
+      "version": "1.0.2",
+      "description": "制作电影或剧集片头标题序列与十五秒影视概念预告，以片名或卡司落板收束",
+      "descriptionEn": "Create film or series opening title sequences and 15-second concept teasers ending on the title reveal",
+      "author": "MiniMax Design",
+      "source": "official",
+      "tags": {
+        "zh": [
+          "专业影视 / 成片制作"
+        ],
+        "en": [
+          "Professional Film / Full Production"
+        ]
+      },
+      "triggerWords": [
+        "影视片头",
+        "标题序列",
+        "开场字幕",
+        "卡司序列",
+        "电影预告",
+        "剧集预告",
+        "概念预告"
+      ],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/cinematic-title-sequence/",
+      "fileCount": 10,
+      "bytes": 170959,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 25184,
+          "sha256": "3ef77f7d9e9fc249a123a96a8a2548bf23747861cb2d34c76c0b62a32f1637aa"
+        },
+        {
+          "path": "meta.yaml",
+          "bytes": 2590,
+          "sha256": "8fbbc1f3a02d85b5567595c7d306bbb98b153381a7f946ebeb6be5cc63f967c6"
+        },
+        {
+          "path": "references/case-calibration-matrix.md",
+          "bytes": 15500,
+          "sha256": "3c0a4d4b0cb7cabf91c3df4eb123a25e4a611458cd427e0374450218fbcf1dd7"
+        },
+        {
+          "path": "references/cinematic-narrative.md",
+          "bytes": 18095,
+          "sha256": "a8a1a09e1f4d73b884c8ae2859c4b06ebef2b3bed8eb048523f683e76b355618"
+        },
+        {
+          "path": "references/cinematography-and-transitions.md",
+          "bytes": 19505,
+          "sha256": "cb48e2d0c20aedfbc4b602e64c07a131cabd37b7508a50aed235b195c457d30d"
+        },
+        {
+          "path": "references/constructed-world-vfx.md",
+          "bytes": 16399,
+          "sha256": "c88ac3b7ea88c7afca52becba9d188ef67ad6af2754a273c44573c5af802cf4b"
+        },
+        {
+          "path": "references/editorial-collage.md",
+          "bytes": 17529,
+          "sha256": "a85694d8275bbc009dd244e374e013812ca6890ffd66fc12cb7c742e97ebf790"
+        },
+        {
+          "path": "references/h3-prompt-contract.md",
+          "bytes": 20299,
+          "sha256": "6c7cc369e9d98cafcfb258859135dbc6ed2a2674878e50aaa1b6a0bfb1563e32"
+        },
+        {
+          "path": "references/live-action-graphics.md",
+          "bytes": 16689,
+          "sha256": "cc7847f9fefb6ad057986b89969ce8820cf172db091a72c616091ec78eecb7ae"
+        },
+        {
+          "path": "references/typography-and-credits.md",
+          "bytes": 19169,
+          "sha256": "300ca84a84dad9fab533db6934859fd8c559d999279385b26227ec6d5ba8643a"
+        }
+      ]
+    },
+    {
+      "id": "clip-export",
+      "name": "剪映导出",
+      "version": "3.0.4",
+      "description": "视频工程一键推送到剪映或CapCut草稿",
+      "descriptionEn": "Push videos to JianYing or CapCut",
+      "author": "unknown",
+      "source": "unknown",
+      "tags": {
+        "zh": [
+          "视频",
+          "导出",
+          "剪映",
+          "CapCut"
+        ],
+        "en": [
+          "Video",
+          "Export",
+          "JianYing",
+          "CapCut"
+        ]
+      },
+      "triggerWords": [],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/clip-export/",
+      "fileCount": 5,
+      "bytes": 75325,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 12983,
+          "sha256": "c7e685e29ac76239cd4f629266800cc8bcd39be35d12c80ad86c0830aff298e3"
+        },
+        {
+          "path": "references/full_feature_showcase.py",
+          "bytes": 4498,
+          "sha256": "ba865c1f4dc5fbb03b9bfdb24234afa53890a40832e6f9a27b6b02453cb3935c"
+        },
+        {
+          "path": "scripts/asset_search.py",
+          "bytes": 3385,
+          "sha256": "7978af999f2f305d6d35a0db034911c6c3589aa1d59c6d8050b5f4ba2fa36dcf"
+        },
+        {
+          "path": "scripts/draft_inspector.py",
+          "bytes": 5804,
+          "sha256": "11d94173bde6b4852f8039965c206398d1e64fcd53f19b13d2b1dbc0ae0da460"
+        },
+        {
+          "path": "scripts/jy_wrapper.py",
+          "bytes": 48655,
+          "sha256": "1117af5eedc1ba2f00720a3141ea34d3783d0e2675fd0df7459b39b13ff1f988"
+        }
+      ]
+    },
+    {
+      "id": "co-op-game-intro-generator",
+      "name": "双人游戏开场视频生成器",
+      "nameEn": "Animation",
+      "version": "0.2.2",
+      "description": "根据玩家名称、视觉风格和角色参考图，经首图确认后生成双人游戏菜单开场视频。",
+      "descriptionEn": "Create a reusable co-op game menu intro from player names, visual style, character references, and one approved confirmation image.",
+      "author": "MiniMax Design",
+      "source": "official-featured",
+      "tags": {
+        "zh": [
+          "动画 / 创作生成"
+        ],
+        "en": [
+          "Animation / Creative Generation"
+        ]
+      },
+      "triggerWords": [
+        "co-op intro",
+        "game menu",
+        "two-player game intro",
+        "H3 game intro",
+        "双人游戏开场",
+        "游戏主菜单",
+        "玩家名",
+        "游戏名"
+      ],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/co-op-game-intro-generator/",
+      "fileCount": 4,
+      "bytes": 33739,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 5751,
+          "sha256": "e9f38e8ec57d76a0a95023943f9555f6054ec578db7fb74e1d9e070c90c094e3"
+        },
+        {
+          "path": "meta.yaml",
+          "bytes": 3656,
+          "sha256": "a478a3a4ea9b0df11ccec07165ae81fc1553a7e43e89faed9d2e88881ac11018"
+        },
+        {
+          "path": "references/h3-confirmation-image-template.md",
+          "bytes": 14001,
+          "sha256": "344325132841a673fb2ccc5e12ada2c95c2cba19dd2b658678467219c9f66bbd"
+        },
+        {
+          "path": "references/h3-video-prompt-template.md",
+          "bytes": 10331,
+          "sha256": "7fac20c236de585d2f76e4fa01f9e74ced0a88a6d76d2b14c75ceac99607b9c2"
+        }
+      ]
+    },
+    {
+      "id": "control-in-app-browser",
+      "name": "控制内置浏览器",
+      "nameEn": "Platform Tooling",
+      "version": "0.1.0",
+      "description": "用内置浏览器打开、读取和操作真实网页，覆盖登录接管、外部副作用确认与结果验证的完整操作规范",
+      "descriptionEn": "Operate the in-app browser on real pages — navigate, read, click, fill, screenshot — with login takeover and side-effect confirmation",
+      "author": "MiniMax Design",
+      "source": "official",
+      "tags": {
+        "zh": [
+          "平台工具"
+        ],
+        "en": [
+          "Platform Tooling"
+        ]
+      },
+      "triggerWords": [
+        "内置浏览器",
+        "右侧浏览器",
+        "当前浏览器",
+        "浏览器操作",
+        "browser use",
+        "in-app browser",
+        "built-in browser",
+        "browser control",
+        "打开网页",
+        "操作网页"
+      ],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/control-in-app-browser/",
+      "fileCount": 2,
+      "bytes": 17811,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 14815,
+          "sha256": "171416c97582cd7baeb803a644fb905b3c3976a3f9de3f9214033bf1cd8c47d8"
+        },
+        {
+          "path": "meta.yaml",
+          "bytes": 2996,
+          "sha256": "53ef740033c6ea000e9ff0e39e51b76d69594095af12431f0468942a3d7433d9"
+        }
+      ]
+    },
+    {
+      "id": "cool-music-video",
+      "name": "潮流音乐短片",
+      "nameEn": "Sound & Music / Full Production",
+      "version": "1.0.3",
+      "description": "制作十五秒以内的复古潮流拼贴、说唱或时尚表演型音乐短片，单条连续成片",
+      "descriptionEn": "Create a 15-second retro collage, rap, or fashion performance music video as one continuous film",
+      "author": "MiniMax Design",
+      "source": "official",
+      "tags": {
+        "zh": [
+          "音频音乐 / 成片制作"
+        ],
+        "en": [
+          "Sound & Music / Full Production"
+        ]
+      },
+      "triggerWords": [
+        "短MV",
+        "音乐视频",
+        "说唱MV",
+        "时尚表演视频",
+        "拼贴音乐视频",
+        "十五秒MV"
+      ],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/cool-music-video/",
+      "fileCount": 8,
+      "bytes": 49046,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 12989,
+          "sha256": "a6971622baaa5c8e149c40f99f5866b64dfecb15d34bfad39112692bdbe52925"
+        },
+        {
+          "path": "meta.yaml",
+          "bytes": 2545,
+          "sha256": "793f7d69a9b9d8dd4e31c44712cb9d6e35c586f514ecf04bf105e19bc8c82ef4"
+        },
+        {
+          "path": "references/methods.md",
+          "bytes": 2884,
+          "sha256": "191e771c1d7bacd58d13be61b79a82d830c370d1536d33fdef05fc3549a11522"
+        },
+        {
+          "path": "references/music.md",
+          "bytes": 9385,
+          "sha256": "0facd28d6524d9efb2c5b304170f45369525d120b4cc8e21c1e962da461f45ff"
+        },
+        {
+          "path": "references/performance-and-space.md",
+          "bytes": 8710,
+          "sha256": "2820dc31b706e83e087806be6a73c2801e8d16542ee871c022d4a181f3d66a04"
+        },
+        {
+          "path": "references/prompt-blueprint.md",
+          "bytes": 5542,
+          "sha256": "b4ba8c45211cfe5c5fe2f788cfce4718a8d616de0e5db9dc791315bc3593f0f4"
+        },
+        {
+          "path": "references/style-guide.md",
+          "bytes": 3928,
+          "sha256": "21f69c9f5c1844c7645b017ea068ff40097087a67c025642e95e261f0785a4ff"
+        },
+        {
+          "path": "references/typography.md",
+          "bytes": 3063,
+          "sha256": "d9cdd4e395085cd61276cf11310a015e7190ab9b14d76e3de6edfc39b7eb982b"
+        }
+      ]
+    },
+    {
+      "id": "coordinate-camera-control-designer",
+      "name": "坐标运镜分镜设计师",
+      "nameEn": "Commercial Ad / Planning",
+      "version": "0.1.7",
+      "description": "坐标化运镜与分镜规划",
+      "descriptionEn": "Convert action scenes into coordinate-based camera-control prompts and storyboard planning assets.",
+      "author": "MiniMax Design",
+      "source": "official",
+      "tags": {
+        "zh": [
+          "商业广告 / 计划制定",
+          "动画 / 计划制定"
+        ],
+        "en": [
+          "Commercial Ad / Planning",
+          "Animation / Planning"
+        ]
+      },
+      "triggerWords": [
+        "坐标运镜",
+        "坐标控制镜头",
+        "坐标提示词",
+        "bbox 运镜",
+        "Bounding Box prompt",
+        "镜头轨迹坐标",
+        "撞击点坐标",
+        "图生视频运镜控制",
+        "高速运动打斗提示词",
+        "九宫格分镜",
+        "运动轨迹图"
+      ],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/coordinate-camera-control-designer/",
+      "fileCount": 4,
+      "bytes": 27340,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 17879,
+          "sha256": "1aa4b06e80f2f770fb773b434a6a3d44ac99ba04c29d89b42f7ebab112b5c6c9"
+        },
+        {
+          "path": "meta.yaml",
+          "bytes": 2381,
+          "sha256": "088e3b88957ddae743ca45235c7dad211219aafa62fdab44b6a07259a4744602"
+        },
+        {
+          "path": "references/tutorial-analysis.md",
+          "bytes": 2434,
+          "sha256": "8345c4e0f0ecfb8420e35c4d8bad3a55d5d6b7e4e16705f2f418e42200b815f2"
+        },
+        {
+          "path": "references/visual-storyboard-spec.md",
+          "bytes": 4646,
+          "sha256": "2d5d2427ab100d7c84c0feda974c8895684a7fe6222c985761673ef868465684"
+        }
+      ]
+    },
+    {
+      "id": "cultural-pattern-visual-system-generator",
+      "name": "文化纹样视觉系统生成器",
+      "nameEn": "Commercial Ad",
+      "version": "1.0.5",
+      "description": "从文化装饰提取纹样，分步生成母版、连续纹样、配色、样机、包装、壁纸与动效。",
+      "descriptionEn": "Extracts cultural motifs into pattern masters, repeats, colorways, product mockups, packaging, wallpapers, and a short motion showcase.",
+      "author": "Kido G",
+      "source": "community",
+      "tags": {
+        "zh": [
+          "商业广告 / 创作生成",
+          "电商 / 创作生成"
+        ],
+        "en": [
+          "Commercial Ad / Creative Generation",
+          "E-Commerce / Creative Generation"
+        ]
+      },
+      "triggerWords": [
+        "文化纹样",
+        "纹样提取",
+        "花砖纹样",
+        "铁艺纹样",
+        "建筑纹样",
+        "文创品牌",
+        "品牌样机",
+        "连续纹样",
+        "配色方案",
+        "文创产品"
+      ],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/cultural-pattern-visual-system-generator/",
+      "fileCount": 2,
+      "bytes": 7907,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 4432,
+          "sha256": "5101e8641379f59f8abc92195a28a81e256cb88773eb2d2130d052cf147f51da"
+        },
+        {
+          "path": "meta.yaml",
+          "bytes": 3475,
+          "sha256": "1ff068dbe18c97d303ba91b5621c6cb1af630ee61c62e05fb1cc65eb2f03f33c"
+        }
+      ]
+    },
+    {
+      "id": "deepwhite-blender-previs",
+      "name": "Deepwhite Blender 建模与镜头预演",
+      "nameEn": "Professional Film",
+      "version": "1.0.0",
+      "description": "将创意或现有预演转为已审核无声白模、同步分镜Prompt及白模与参考图联合生成的风格化成片。",
+      "descriptionEn": "Turn ideas or existing previs into reviewed silent Blender blockouts, synchronized shot prompts and stylized films generated from the approved previs plus complete appearance references.",
+      "author": "MiniMax Design",
+      "source": "official-featured",
+      "tags": {
+        "zh": [
+          "专业影视 / 创作生成"
+        ],
+        "en": [
+          "Professional Film / Creative Generation"
+        ]
+      },
+      "triggerWords": [
+        "Blender白模",
+        "镜头预演",
+        "白模转成片",
+        "预演视频风格化",
+        "previs to cinematic"
+      ],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/deepwhite-blender-previs/",
+      "fileCount": 3,
+      "bytes": 82482,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 57573,
+          "sha256": "a481045ac9ea78429b7375be487d36d6d354cffb7da6485b5ce2579026bfc33a"
+        },
+        {
+          "path": "meta.yaml",
+          "bytes": 3225,
+          "sha256": "868df6ce356364c8a0c8c59bda215ee3513f885c5d50c4aad5cb3002d976bc09"
+        },
+        {
+          "path": "references/previs-reference-video-prompts.md",
+          "bytes": 21684,
+          "sha256": "ecf41524ee957a95e9decdd52affadd44e75c0f1121e49370a04c73d12c79d27"
+        }
+      ]
+    },
+    {
+      "id": "design-after-effects",
+      "name": "AE 可编辑动效",
+      "nameEn": "Creative & Experimental / Post-production",
+      "version": "0.1.0",
+      "description": "将设计素材、视频参考或已有工程制作成可编辑动效，交付预览与工程并支持画布交接和持续修改。",
+      "descriptionEn": "Turn designs, video references and existing projects into editable After Effects motion graphics, with previews and project handoff for continued revision.",
+      "author": "MiniMax Design",
+      "source": "official",
+      "tags": {
+        "zh": [
+          "创意实验 / 创作生成",
+          "创意实验 / 后期处理"
+        ],
+        "en": [
+          "Creative & Experimental / Creative Generation",
+          "Creative & Experimental / Post-production"
+        ]
+      },
+      "triggerWords": [],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/design-after-effects/",
+      "fileCount": 32,
+      "bytes": 244269,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 15945,
+          "sha256": "33aa7c5ad7b31becb19cac3dd69f1bd5c6dc0be82b97b3c4b56e3f525bc96ea3"
+        },
+        {
+          "path": "meta.yaml",
+          "bytes": 3045,
+          "sha256": "946f255a2121875ae319cc1f76820eef235f334cb83b7c52ff1fd685d10de9b5"
+        },
+        {
+          "path": "references/animation-dependencies.md",
+          "bytes": 7592,
+          "sha256": "c3fddcc95f957643fc9c00ef0c9e3cecd234a3236f2e6d4a15da36790d75dc7b"
+        },
+        {
+          "path": "references/camera-lighting.md",
+          "bytes": 4980,
+          "sha256": "74db47fad394cc3697aa6b8498503a174f58724db8dff0ed8ba21f340f6c0d31"
+        },
+        {
+          "path": "references/color-rhythm-output.md",
+          "bytes": 5807,
+          "sha256": "9e5e6c173b676dc84e9c45ac6c019fb0d311ebe4b1f0d061bc89ddf5236959e6"
+        },
+        {
+          "path": "references/compositing-dependencies.md",
+          "bytes": 6582,
+          "sha256": "19148b7bcfc556b421655ac0a2e19b21cc02498e543b128f5be9d7ab6788c0d7"
+        },
+        {
+          "path": "references/design-handoff.md",
+          "bytes": 5494,
+          "sha256": "02276d0f4085ddf22d2da5969a06c1dc70dcbb42fc638f3e19bda62f4cfd7446"
+        },
+        {
+          "path": "references/editable-projects.md",
+          "bytes": 6280,
+          "sha256": "eaae5e7943d549970792df3da0385a402015d17bc29534a2a890506f3dcf5020"
+        },
+        {
+          "path": "references/effects-construction.md",
+          "bytes": 17561,
+          "sha256": "dcbc8d508b5390cb20eea5d8f818be20b366eb4f6a53584f6b5e64b0ab92d4c2"
+        },
+        {
+          "path": "references/environment-readiness.md",
+          "bytes": 12583,
+          "sha256": "9da9f416cc47bfedb1f47993c32a00315b4bf1bdc04b06860ba46617838f0de5"
+        },
+        {
+          "path": "references/motion-craft.md",
+          "bytes": 4122,
+          "sha256": "2c1162cf3027ba2d6472b3f673b26e04bee596ccaab2086fe56840aa578dda7b"
+        },
+        {
+          "path": "references/motion-curves.md",
+          "bytes": 10903,
+          "sha256": "b4d66c66844814c55fef7af445b4b88642de4bc59f6a875cbb605641fb205f1d"
+        },
+        {
+          "path": "references/native-reconstruction.md",
+          "bytes": 8086,
+          "sha256": "b64f0ba3651ade48a66db89fca1bc31c68ac41fd69c634b12b8905cd4b554790"
+        },
+        {
+          "path": "references/project-analysis.md",
+          "bytes": 5854,
+          "sha256": "1c94786a857db1fabfde247292b58383be4fde92c713b63fd08d24f760fc6245"
+        },
+        {
+          "path": "references/quality.md",
+          "bytes": 6552,
+          "sha256": "62335021134db1ce59940de1cd54e4a288ac18ea1e7b4fd577f9d88763e2f449"
+        },
+        {
+          "path": "references/recipes.md",
+          "bytes": 3481,
+          "sha256": "04d873034675bd45ce084a2928ab8628b8fbbb21213cc928445dfda6cd983add"
+        },
+        {
+          "path": "references/workflows.md",
+          "bytes": 6296,
+          "sha256": "60907e086ef27c880aca83334dd809a5c99280faf0da11908cc37aa4be1b6222"
+        },
+        {
+          "path": "scripts/ae-host.mjs",
+          "bytes": 8395,
+          "sha256": "1eb1b560e88d25d6238489b45ce4ebb64acae03d391db31747a90a7783fc9034"
+        },
+        {
+          "path": "scripts/ae-panel-compat.mjs",
+          "bytes": 14855,
+          "sha256": "545f91da2d25b21370b60dd89e15f8d392f2f65f4ec98ccf298e4bf974775670"
+        },
+        {
+          "path": "scripts/ae-startup-lock.mjs",
+          "bytes": 4090,
+          "sha256": "a98b648106246ef4cb42e8f5f5afbaccfcd7ea334c2d6f76852acc3e06ffb99a"
+        },
+        {
+          "path": "scripts/audit-project.jsx",
+          "bytes": 5810,
+          "sha256": "a7b3accf8359bb3aeb350ef056cb9cf84e264287d9cabe400fb7640b8a26c436"
+        },
+        {
+          "path": "scripts/prepare-connector.mjs",
+          "bytes": 6284,
+          "sha256": "d6a836d74781a453cf77dca2c4c8bda1231091cacb546fec4227c3f7c8e58719"
+        },
+        {
+          "path": "scripts/probe-environment.mjs",
+          "bytes": 5999,
+          "sha256": "41ffdce73424a6c3122b724ee9776f660d9625e7df25d7393b2f87fd9a8acebf"
+        },
+        {
+          "path": "tests/VALIDATION.md",
+          "bytes": 15206,
+          "sha256": "29a8974b7d170f1b6d737d89da9c1253f803f27cacd0a9b7028c434f7d466278"
+        },
+        {
+          "path": "tests/ae-host-delegate.test.mjs",
+          "bytes": 3924,
+          "sha256": "cf6d38561b4d98a50ccd490b9e2711256ec85e2be23882343245dcf329c7242e"
+        },
+        {
+          "path": "tests/ae-panel-compat.test.mjs",
+          "bytes": 14135,
+          "sha256": "ce492763a1e95f2112013c2df872325c3f7542e0796998f963dd661f89020adf"
+        },
+        {
+          "path": "tests/ae-startup-lock.test.mjs",
+          "bytes": 3793,
+          "sha256": "aca06f1e8c09ae6beca9893ca8a4df8d34c61e0a4a53bc81cb1e5f15ab5adaf2"
+        },
+        {
+          "path": "tests/audit-project.test.mjs",
+          "bytes": 3309,
+          "sha256": "0e1fc645786900fab55c7864446e3a6cef22143fab5b48296775c5d67f5b400f"
+        },
+        {
+          "path": "tests/preparation-recovery.test.mjs",
+          "bytes": 2802,
+          "sha256": "ff851ed643014b91662041416e401e28b26d0b7a8d526dfd6cda9822da0b09eb"
+        },
+        {
+          "path": "tests/prepare-connector.test.mjs",
+          "bytes": 4624,
+          "sha256": "effeabc6f57dc2d82d95c8a9c2e9a0399014ced843affc369341e91ef5ed58cd"
+        },
+        {
+          "path": "tests/probe-environment.test.mjs",
+          "bytes": 4462,
+          "sha256": "7bf010530961d8dd0cff21fa0faf1bbdfb94cd6d8950092b1f81a76548b43ae0"
+        },
+        {
+          "path": "tests/scenarios.json",
+          "bytes": 15418,
+          "sha256": "8358630e71441dda4f1e73bef90011f689e3838b6b3423c28a844a8a4d7d6405"
+        }
+      ]
+    },
+    {
+      "id": "design-photoshop",
+      "name": "PS 可编辑设计",
+      "nameEn": "Creative & Experimental / Post-production",
+      "version": "0.1.0",
+      "description": "将简报、照片、画布素材和已有文档制作成可编辑分层设计，支持精修合成、预览交接与后续修改。",
+      "descriptionEn": "Turn briefs, photos, canvas assets and existing documents into editable layered designs, with retouching, compositing, previews and files for continued revision.",
+      "author": "MiniMax Design",
+      "source": "official",
+      "tags": {
+        "zh": [
+          "创意实验 / 创作生成",
+          "创意实验 / 后期处理"
+        ],
+        "en": [
+          "Creative & Experimental / Creative Generation",
+          "Creative & Experimental / Post-production"
+        ]
+      },
+      "triggerWords": [],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/design-photoshop/",
+      "fileCount": 15,
+      "bytes": 78634,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 12679,
+          "sha256": "1172861bab8f18ee8bcc3f7a4e6a7a520a5ad13a036cacdac4a556cbba2eb5dd"
+        },
+        {
+          "path": "meta.yaml",
+          "bytes": 3175,
+          "sha256": "7aed0755993bc60af37f1edfde21cd7be3fe187d3f77d0d9b8f2fc4b1d98c622"
+        },
+        {
+          "path": "references/color-and-delivery.md",
+          "bytes": 3548,
+          "sha256": "7893f50e2c92fcd8b5cfdf86549b9016486acff2f9143ad60955d5f04a270a58"
+        },
+        {
+          "path": "references/compositing-and-effects.md",
+          "bytes": 4112,
+          "sha256": "088f31054b197a2d5af91db30ef90cd1ed2311a9739be0ad4de7e9674891dc82"
+        },
+        {
+          "path": "references/document-design.md",
+          "bytes": 4081,
+          "sha256": "ef3d983d6e6f6cb4874be132b6470c6fa5b821b0adc94c985f9780fc5a80f801"
+        },
+        {
+          "path": "references/handoff.md",
+          "bytes": 5340,
+          "sha256": "97cbf1c19c32ce8f8384869e6d1a1f8132f0ba02cb399b8ce2f234abf777f31e"
+        },
+        {
+          "path": "references/masks-and-retouching.md",
+          "bytes": 5843,
+          "sha256": "d76444b88302020bf73c1443f01ec6de0c97378869ae706bcc86ede1969b8153"
+        },
+        {
+          "path": "references/readiness.md",
+          "bytes": 5547,
+          "sha256": "d1bbd61c6a1bd3cc861f986effd7487dd92fd9a8c782dc977251fd437e81d5af"
+        },
+        {
+          "path": "scripts/prepare-connector.mjs",
+          "bytes": 6308,
+          "sha256": "86ab7302b08153a68d9c81adf9f8d30b67514973061c406eab1b17c5cb9860de"
+        },
+        {
+          "path": "scripts/ps-host.mjs",
+          "bytes": 8915,
+          "sha256": "43576a5cb815ad892431439b816b0dbd1c0c697e9c1f468efb7c6d44db12331a"
+        },
+        {
+          "path": "tests/VALIDATION.md",
+          "bytes": 4532,
+          "sha256": "3ed659cbdd879f2ba032d7eb4886c7d7d1391a18fb60a9fdf456bacf0c7071bd"
+        },
+        {
+          "path": "tests/preparation-recovery.test.mjs",
+          "bytes": 2798,
+          "sha256": "4c56ed581e40b4e7d1ad0b5f924e35e360cef76c6f92caf504c9d2a678cd0c07"
+        },
+        {
+          "path": "tests/prepare-connector.test.mjs",
+          "bytes": 4623,
+          "sha256": "e55c05eda8db63ba94c2ea117193742dda8391017ba9884ce42c1f574924053d"
+        },
+        {
+          "path": "tests/ps-host.test.mjs",
+          "bytes": 3942,
+          "sha256": "1f12743288a58081aa300c5debec4a3af03dea3471f285e3173eb3050812a7aa"
+        },
+        {
+          "path": "tests/windows-host.test.mjs",
+          "bytes": 3191,
+          "sha256": "63101b523d5ca76d04659625d55a39591611df3ebac3235333bc1258094452fe"
+        }
+      ]
+    },
+    {
+      "id": "digital-drawing-timelapse",
+      "name": "数字绘画延时摄影生成器",
+      "nameEn": "Animation",
+      "version": "1.0.1",
+      "description": "根据一张成品图和提示词，生成15秒连续数字绘画过程视频，适合插画展示。",
+      "descriptionEn": "Turns one finished artwork and one prompt into a continuous 15-second digital drawing-process video for illustration showcases.",
+      "author": "aimikoda",
+      "source": "community",
+      "tags": {
+        "zh": [
+          "动画 / 创作生成"
+        ],
+        "en": [
+          "Animation / Creative Generation"
+        ]
+      },
+      "triggerWords": [
+        "手绘过程",
+        "手绘延时摄影",
+        "绘画过程视频",
+        "数字绘画过程",
+        "速涂视频",
+        "digital drawing timelapse",
+        "speedpaint video"
+      ],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/digital-drawing-timelapse/",
+      "fileCount": 2,
+      "bytes": 12047,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 8968,
+          "sha256": "8bfc9fad59bc8ee4edfacb2026feb853cf2360ac16913303e9f33871ddfacee2"
+        },
+        {
+          "path": "meta.yaml",
+          "bytes": 3079,
+          "sha256": "aa2d8a0f06da54a99647084a468e005a2cab767ef380a24b3ae1cea8ef1a552b"
+        }
+      ]
+    },
+    {
+      "id": "digital-product-promo-generator",
+      "name": "数字产品宣传片生成",
+      "nameEn": "Commercial Ad",
+      "version": "1.0.1",
+      "description": "把真实产品页面、前端项目与用户动效参考转成可审片的电影感宣传片，准确呈现界面、运镜、节奏和声音。",
+      "descriptionEn": "Turns real product pages, frontend projects, screenshots, and supplied motion references into reviewable cinematic promos with accurate UI, purposeful camera movement, rhythmic editing, and sound design.",
+      "author": "MiniMax Design",
+      "source": "official-featured",
+      "tags": {
+        "zh": [
+          "商业广告 / 成片制作"
+        ],
+        "en": [
+          "Commercial Ad / Full Production"
+        ]
+      },
+      "triggerWords": [
+        "digital product promo",
+        "product video",
+        "promo video",
+        "shot card",
+        "frontend promo",
+        "webpage video",
+        "数字产品宣传片",
+        "网页产品视频"
+      ],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/digital-product-promo-generator/",
+      "fileCount": 2,
+      "bytes": 7892,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 3920,
+          "sha256": "eee25026f9fcd470939e2367c585441e42a511e71eba4e355f3754951a9fa760"
+        },
+        {
+          "path": "meta.yaml",
+          "bytes": 3972,
+          "sha256": "540700c65c5f0727dd9e89a2e06d8e61390c0c530d7305d4145471ab7df64247"
+        }
+      ]
+    },
+    {
+      "id": "dot-matrix-brand-wordmark-motion",
+      "name": "点阵品牌字形动效",
+      "nameEn": "Commercial Ad",
+      "version": "1.0.1",
+      "description": "根据用户提供的品牌 Logo、品牌名与标语生成点阵品牌字形动效，输出横版品牌图、改写后的动效提示词与点阵品牌字形动效视频。",
+      "descriptionEn": "Creates dot matrix brand wordmark motion from a supplied logo, brand name, and slogan, producing a horizontal brand plate, a rewritten motion prompt, and a dot matrix brand wordmark motion video.",
+      "author": "MiniMax Design",
+      "source": "official-featured",
+      "tags": {
+        "zh": [
+          "商业广告 / 创作生成"
+        ],
+        "en": [
+          "Commercial Ad / Creative Generation"
+        ]
+      },
+      "triggerWords": [
+        "logo slogan video",
+        "brand logo motion",
+        "logo to H3 video",
+        "品牌logo动效",
+        "标语品牌视频",
+        "logo标语视频"
+      ],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/dot-matrix-brand-wordmark-motion/",
+      "fileCount": 3,
+      "bytes": 20973,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 5848,
+          "sha256": "efdf731efe04b5e53238d8eb67869834a44855fd11ce18b6236cd94206db1053"
+        },
+        {
+          "path": "meta.yaml",
+          "bytes": 3968,
+          "sha256": "0ca5be711dbffc399a92d78fef24959c16e4c7372fb838bd85053c5c45e77fe4"
+        },
+        {
+          "path": "references/chinese-prompts.md",
+          "bytes": 11157,
+          "sha256": "20ff5f2cb812cf47fa6c0db3b922f0374bdf855100d7f40d28390d74b961ff3c"
+        }
+      ]
+    },
+    {
+      "id": "ecommerce-image",
+      "name": "电商商品图",
+      "version": "0.1.0",
+      "description": "基于商品实拍图,生成符合平台规范的电商质感组图",
+      "descriptionEn": "Generate a platform-compliant set of professional e-commerce images from a raw product photo.",
+      "author": "unknown",
+      "source": "unknown",
+      "tags": {
+        "zh": [
+          "电商",
+          "图片",
+          "广告"
+        ],
+        "en": [
+          "Ecommerce",
+          "Image",
+          "Ads"
+        ]
+      },
+      "triggerWords": [],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/ecommerce-image/",
+      "fileCount": 19,
+      "bytes": 157887,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 21154,
+          "sha256": "8105fb5c271246878098837db448f6bcf640dbe9950bc0332e7064feda4a9c77"
+        },
+        {
+          "path": "references/categories/01-womenswear.md",
+          "bytes": 7548,
+          "sha256": "428130cee8831984bc3b7e27e4b556e9feef254fcd3a221ac5701ceffb2c4d35"
+        },
+        {
+          "path": "references/categories/02-home.md",
+          "bytes": 5646,
+          "sha256": "e91cf985ead3f0b64622a4c3447915aa123b17a04cc1e96545cb13900592ade9"
+        },
+        {
+          "path": "references/categories/03-daily-goods.md",
+          "bytes": 4269,
+          "sha256": "e2e4e4f3675e0f4f431b36962f516e97999e5a737a9e58db0974f4dc51311980"
+        },
+        {
+          "path": "references/categories/04-pet.md",
+          "bytes": 4381,
+          "sha256": "4c62d4c0d9ba6dad187db84ef979a54b2fa2117e407f00aaa931ee4f8d146e87"
+        },
+        {
+          "path": "references/categories/05-baby.md",
+          "bytes": 5923,
+          "sha256": "cc80e0346a42e8325cefdec0ed1401696fd112856715521067106cc8f145d8dc"
+        },
+        {
+          "path": "references/categories/06-3c.md",
+          "bytes": 5478,
+          "sha256": "90cd1bbf098eb904af75d70e6e544fde75fc3dd66d92f9c4275e3781db7ed119"
+        },
+        {
+          "path": "references/categories/07-jewelry.md",
+          "bytes": 11638,
+          "sha256": "43e27e5a7770d2e9a1fbf83596d373c8357249d617b9e71ac8b10dd7247c67f5"
+        },
+        {
+          "path": "references/categories/08-beauty.md",
+          "bytes": 5279,
+          "sha256": "f19bf4404f9b5747ee313adf496203d99ffb6189c193bc477cfbe6bc8dceedfe"
+        },
+        {
+          "path": "references/categories/09-supplements.md",
+          "bytes": 6064,
+          "sha256": "d280c135085c495668bb93522d87a625e47f6978035d55bd423139acd86c39d1"
+        },
+        {
+          "path": "references/categories/10-personal-care.md",
+          "bytes": 4434,
+          "sha256": "2886f255d4f78be3540dc71795047ed9b522c332b0cde45242325b6d32443036"
+        },
+        {
+          "path": "references/categories/11-menswear.md",
+          "bytes": 6485,
+          "sha256": "845585a989362f3588a42831f769a03d9a3bc224660e7aa01c6765795d5f9506"
+        },
+        {
+          "path": "references/categories/12-footwear.md",
+          "bytes": 10782,
+          "sha256": "7506d423f0b2eefebfc8586262ff47a1ec788e4ebc1d9e03477431eae95bdc61"
+        },
+        {
+          "path": "references/categories/13-bags.md",
+          "bytes": 6228,
+          "sha256": "82cd816a04ba6be35f3fe8b76639f69e21ba55687c99fa7cf387c6b05c278ab2"
+        },
+        {
+          "path": "references/categories/14-sports.md",
+          "bytes": 6524,
+          "sha256": "96ee4b170b0c89051917260a02ca8ca8e2b552f60bfe038acdf5cc2550fd6b52"
+        },
+        {
+          "path": "references/category-playbook.md",
+          "bytes": 7297,
+          "sha256": "af9a8d322eb698c2738e79a5d6b98dcb12ea6b2e8cf8bea6f430981d009b4bb5"
+        },
+        {
+          "path": "references/image-quality.md",
+          "bytes": 18399,
+          "sha256": "363bc1bb8afeaed542458cd14fb0052b6233d7f0ec5559632c8eabb754bb2dea"
+        },
+        {
+          "path": "references/platform-specs.md",
+          "bytes": 11260,
+          "sha256": "052c014ccc99628e15d105f4d1d8494ee18ac129f140a55f23ad898b69f85ad1"
+        },
+        {
+          "path": "references/set-planning.md",
+          "bytes": 9098,
+          "sha256": "d4e9f86de5bf29e8940f5125585a7ce58d244292d32a83379ba7b2ef90ff4b80"
+        }
+      ]
+    },
+    {
+      "id": "education-studio",
+      "name": "教育内容工作室",
+      "nameEn": "Education / Full Production",
+      "version": "0.1.48",
+      "description": "把主题、题目或课程素材转化为教学设计、练习题组与完整教学视频的一体化工作室",
+      "descriptionEn": "Turn topics, questions, or course material into lesson designs, exercises, and complete teaching videos",
+      "author": "MiniMax Design",
+      "source": "official",
+      "tags": {
+        "zh": [
+          "教育 / 成片制作",
+          "教育 / 计划制定"
+        ],
+        "en": [
+          "Education / Full Production",
+          "Education / Planning"
+        ]
+      },
+      "triggerWords": [
+        "教育视频",
+        "教学视频",
+        "动态讲题",
+        "课程视频",
+        "知识点视频",
+        "教案",
+        "课件",
+        "练习题",
+        "科普讲解",
+        "课程逐字稿"
+      ],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/education-studio/",
+      "fileCount": 5,
+      "bytes": 71557,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 36160,
+          "sha256": "02c4f387f352e7a6c2ac3d37c0e0482340af1c079709f37c792a43380dd78886"
+        },
+        {
+          "path": "meta.yaml",
+          "bytes": 2742,
+          "sha256": "ab416212304cacd5330c28eda8c01082286fe8ba3819e6c886431256c7646cb8"
+        },
+        {
+          "path": "references/assessment.md",
+          "bytes": 714,
+          "sha256": "ba0269d8a2cfffd51e0646617470002b8fc6b4ea2cb59b361e16cbd9a217844f"
+        },
+        {
+          "path": "references/education-video-pipeline.md",
+          "bytes": 31107,
+          "sha256": "891df760fc658e001796ba749971a3d599b458366e2dd644d6c14ab81ac95a6f"
+        },
+        {
+          "path": "references/visual-production.md",
+          "bytes": 834,
+          "sha256": "1b62e1b7cf8f480d7e6ce6c43578ed3222e171096ba8d7d177d6da6b48bf6297"
+        }
+      ]
+    },
+    {
+      "id": "fashion-scene-video-planner",
+      "name": "时装场景展示视频",
+      "nameEn": "Commercial Ad",
+      "version": "1.0.4",
+      "description": "把服装参考分阶段编排成时装展示视频，锁定规格、确认资产并输出30秒成片。",
+      "descriptionEn": "Turns garment references into staged showcase videos by locking specifications, confirming assets, previewing storyboards, and delivering a 30-second cut.",
+      "author": "MiniMax Design",
+      "source": "official-featured",
+      "tags": {
+        "zh": [
+          "商业广告 / 创作生成",
+          "电商 / 创作生成"
+        ],
+        "en": [
+          "Commercial Ad / Creative Generation",
+          "E-Commerce / Creative Generation"
+        ]
+      },
+      "triggerWords": [
+        "时装展示",
+        "Lookbook",
+        "服装流程",
+        "穿搭短片",
+        "流程规划",
+        "服装视频"
+      ],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/fashion-scene-video-planner/",
+      "fileCount": 2,
+      "bytes": 10398,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 7171,
+          "sha256": "c5eb7dc0e6322e705fb016001fbd5747cb883a98cea3e0a520457ee14d264048"
+        },
+        {
+          "path": "meta.yaml",
+          "bytes": 3227,
+          "sha256": "ea201f23febb1bfbc983aa6648bed8ddc8f7ed38447fac550c51a511272a5a19"
+        }
+      ]
+    },
+    {
+      "id": "film-reference-prompt-writer",
+      "name": "电影质感提示词大师",
+      "nameEn": "Visual Production / Prompt Engineering",
+      "version": "1.0.1",
+      "description": "从电影名称、剧照或截图提炼可复用的视觉与镜头规则，生成可直接执行的图像或视频提示词。",
+      "descriptionEn": "Turns film titles or movie stills into executable prompts by translating reference evidence into visual and camera rules.",
+      "author": "鲤鱼与鱼Ai",
+      "source": "community",
+      "tags": {
+        "zh": [
+          "专业影视 / 意图脑爆"
+        ],
+        "en": [
+          "Professional Film / Intent Brainstorming"
+        ]
+      },
+      "triggerWords": [
+        "电影参考提示词",
+        "剧照提示词",
+        "电影截图分析",
+        "电影质感迁移",
+        "reference-based film prompt",
+        "movie still prompt",
+        "film-look translation"
+      ],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/film-reference-prompt-writer/",
+      "fileCount": 9,
+      "bytes": 30583,
+      "files": [
+        {
+          "path": ".gitkeep",
+          "bytes": 0,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "path": "SKILL.md",
+          "bytes": 7548,
+          "sha256": "b1f77425bc49e67850389783c2e86fd11d5e8defa9d1109bfe8f57d682bc33b0"
+        },
+        {
+          "path": "agents/.gitkeep",
+          "bytes": 0,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "path": "agents/openai.yaml",
+          "bytes": 328,
+          "sha256": "ff1a352c22c865e0b01ae0dd0d4aa3f3c3b1bc0844b450a16382db6acf4d09d2"
+        },
+        {
+          "path": "meta.yaml",
+          "bytes": 3414,
+          "sha256": "a5a3ff7037ee6bf7a1de7b693df400b320c810fff476bf18ebde9d1ab0a9d6cb"
+        },
+        {
+          "path": "references/.gitkeep",
+          "bytes": 0,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "path": "references/camera-movement.md",
+          "bytes": 7556,
+          "sha256": "3641281602f8c4721c510f646275a5ff4dbae47e7398cd0c2dabba0496f8ee0a"
+        },
+        {
+          "path": "references/prompt-and-output.md",
+          "bytes": 5641,
+          "sha256": "9840c91e7b85becc9f9dc671b2ed0eea85f674e6df8a3543aeb4208a29996a33"
+        },
+        {
+          "path": "references/visual-analysis.md",
+          "bytes": 6096,
+          "sha256": "0bf8fe42a01711fc96861537368588159f56504c912c210821794d4f4e6806de"
+        }
+      ]
+    },
+    {
+      "id": "fpv-tour-video-generator",
+      "name": "第一视角 FPV 穿越生成",
+      "nameEn": "Professional Film",
+      "version": "1.0.2",
+      "description": "先确认时长和画幅，再按场景空间决定路线几何，生成连续沉浸的第一人称 FPV 一镜到底穿越视频。",
+      "descriptionEn": "Turns uploaded characters and environments into first-person FPV tours by confirming duration and ratio, then choosing route geometry that fits the scene.",
+      "author": "MiniMax Design",
+      "source": "official-featured",
+      "tags": {
+        "zh": [
+          "专业影视 / 创作生成"
+        ],
+        "en": [
+          "Professional Film / Creative Generation"
+        ]
+      },
+      "triggerWords": [
+        "场景优先FPV",
+        "角色跟飞FPV",
+        "FPV穿越",
+        "航拍展示",
+        "场景飞行展示",
+        "飞行角色",
+        "纸飞机FPV",
+        "贴水掠飞",
+        "穿缝飞行",
+        "一镜到底FPV",
+        "建筑穿越"
+      ],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/fpv-tour-video-generator/",
+      "fileCount": 2,
+      "bytes": 17212,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 13693,
+          "sha256": "2d4c85f9b8d3a1591669a13a43a8aaa5bab7714c786d5216faa1df5618fe7090"
+        },
+        {
+          "path": "meta.yaml",
+          "bytes": 3519,
+          "sha256": "16e31a831100ba9149650a2486b1eb66d2e8d65020b9cf906173542991868b42"
+        }
+      ]
+    },
+    {
+      "id": "future-sci-fi-cinematic-generator",
+      "name": "未来科幻质感影视生成器",
+      "nameEn": "Professional Film",
+      "version": "1.0.1",
+      "description": "将确认的未来科幻故事转为连续的人物场景资产、分镜、分段视频和写实短片成片。",
+      "descriptionEn": "Turns a confirmed future-sci-fi brief into continuity-safe characters, scenes, storyboards, timed video segments, and an assembled realistic short film.",
+      "author": "MiniMax Design",
+      "source": "official-featured",
+      "tags": {
+        "zh": [
+          "专业影视 / 创作生成"
+        ],
+        "en": [
+          "Professional Film / Creative Generation"
+        ]
+      },
+      "triggerWords": [
+        "未来科幻质感影视生成器",
+        "未来科幻影视生成",
+        "未来科技感短片",
+        "未来科幻写实短片",
+        "超写实科幻电影",
+        "真人科幻短片",
+        "深空探索短片",
+        "future sci-fi cinematic generator"
+      ],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/future-sci-fi-cinematic-generator/",
+      "fileCount": 2,
+      "bytes": 14468,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 11111,
+          "sha256": "fa943a83d290e5c22e1ad337b440c7dbac1e73988ed4581afd9f0fe3f2942c9b"
+        },
+        {
+          "path": "meta.yaml",
+          "bytes": 3357,
+          "sha256": "092faa261e39d2f9ab8db2c8e666aa56e0897d9605c48dc34544f13a19c7a1a7"
+        }
+      ]
+    },
+    {
+      "id": "h3-visual-design",
+      "name": "动态视觉设计",
+      "nameEn": "Creative & Experimental / Creative Generation",
+      "version": "1.0.2",
+      "description": "单点动态视觉设计入口，覆盖动态字体包装、主体追踪图形与手绘实拍融合三类技法",
+      "descriptionEn": "Single-technique motion design covering kinetic typography, subject tracking graphics, and hand-drawn live-action fusion",
+      "author": "MiniMax Design",
+      "source": "official",
+      "tags": {
+        "zh": [
+          "创意实验 / 创作生成"
+        ],
+        "en": [
+          "Creative & Experimental / Creative Generation"
+        ]
+      },
+      "triggerWords": [
+        "H3动态设计",
+        "动态字体",
+        "字体包装",
+        "主体追踪图形",
+        "TD视觉",
+        "手绘实拍融合",
+        "视频视觉包装"
+      ],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/h3-visual-design/",
+      "fileCount": 15,
+      "bytes": 230999,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 3566,
+          "sha256": "7b1bab955dc45423ef19e1f45cfb4c33672a947843f0adf6803fe90797fbffb7"
+        },
+        {
+          "path": "meta.yaml",
+          "bytes": 2638,
+          "sha256": "20316cc284b7108239541e9c1ad391b738c17c8be859c66bc3c0dac8181b9695"
+        },
+        {
+          "path": "references/h3-execution-grammar.md",
+          "bytes": 24365,
+          "sha256": "4bb9ef6dce0d27b7d9009cd5fa1a1e6deb9fb0ba3ee5ecb6028fdf1c1fc4938b"
+        },
+        {
+          "path": "references/handdrawn-live-action.md",
+          "bytes": 3866,
+          "sha256": "e0fce6cfbd9579d67eefab4bfdf54a1cf05d1cd1e3dfc86ab7a6db8c99beee24"
+        },
+        {
+          "path": "references/music-direction-library.md",
+          "bytes": 13787,
+          "sha256": "5791c03703bcf7194f3af82fc1a2c984fc820c328a7b0b33ba9723819c3280ed"
+        },
+        {
+          "path": "references/style-cool-art.md",
+          "bytes": 17441,
+          "sha256": "ea9899a1e21f6f00305c855a5131317cd305e5c340cdf99eaaf34c093f519718"
+        },
+        {
+          "path": "references/style-dark-pop-glitch.md",
+          "bytes": 12416,
+          "sha256": "644eb2f649e981c4656351c610634b94b4a8241bc1ea9600cb5783bd78f218c0"
+        },
+        {
+          "path": "references/style-fresh-cute.md",
+          "bytes": 14367,
+          "sha256": "3b1ca288ba1d8e0dba714e85ae8d83a6ba151066c5d78f1fa77f3367e1f4d709"
+        },
+        {
+          "path": "references/style-poster-collage.md",
+          "bytes": 18933,
+          "sha256": "73bf75d23455480877cbc77d343890fc37874a798cbc7a26228dc256df7ec2d8"
+        },
+        {
+          "path": "references/style-tech-particle.md",
+          "bytes": 14951,
+          "sha256": "1f4387f06814edf589bc76f498c3358f13d2f053b6a79f1f1d27b0e3dd7baba8"
+        },
+        {
+          "path": "references/subject-packaging-system.md",
+          "bytes": 23102,
+          "sha256": "25562df8b10202d400e614e952a2372d6d05ddde18362ffb02e97c797029aa60"
+        },
+        {
+          "path": "references/td-cv-tracking.md",
+          "bytes": 26591,
+          "sha256": "5b25e744794d5ec60d022c9da007225bcfc6f303096a5494ae9d5214ef5398bd"
+        },
+        {
+          "path": "references/td-visual-attributes.md",
+          "bytes": 8032,
+          "sha256": "263f6f982666b7c3fe3f84e7545674feca63094d09e0d6494aa700b3cfc8846d"
+        },
+        {
+          "path": "references/typography-packaging.md",
+          "bytes": 11637,
+          "sha256": "2b5f152107b8f2d507f1dfabd6b28ef9d02d517d97fbadd46baf9f61714e86c6"
+        },
+        {
+          "path": "references/typography-system-library.md",
+          "bytes": 35307,
+          "sha256": "fab35934c65b18f79e000c17d6d176a15ec5c36dfd845b0e8f2cc0fb22294d3f"
+        }
+      ]
+    },
+    {
+      "id": "half-narrated-2d-short-drama",
+      "name": "2D动画半解说短剧",
+      "nameEn": "Short Drama",
+      "version": "1.0.1",
+      "description": "在分镜阶段锁定旁白与对白窗口，生成统一旁白和原声对白素材，交付用户自行剪辑。",
+      "descriptionEn": "Locks narration and dialogue windows during storyboard design, generates consistent narration with original dialogue assets, and hands the validated package to the user for editing.",
+      "author": "MiniMax Design",
+      "source": "official-featured",
+      "tags": {
+        "zh": [
+          "短剧漫剧 / 计划制定",
+          "短剧漫剧 / 创作生成",
+          "动画 / 创作生成"
+        ],
+        "en": [
+          "Short Drama / Planning",
+          "Short Drama / Creative Generation",
+          "Animation / Creative Generation"
+        ]
+      },
+      "triggerWords": [
+        "2D动画半解说短剧",
+        "2D半解说短剧",
+        "手绘动画短剧",
+        "动漫短剧",
+        "国漫webtoon",
+        "赛璐珞短剧",
+        "half-narrated 2D drama"
+      ],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/half-narrated-2d-short-drama/",
+      "fileCount": 12,
+      "bytes": 74011,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 17873,
+          "sha256": "b5d72dd8d529f53eb9b3edb39f3fad3459e983f6d0d334d1e73e4c3b1112c414"
+        },
+        {
+          "path": "meta.yaml",
+          "bytes": 3367,
+          "sha256": "21f29738cd4453d495bc85006e9e6c86754e033b0e967b0d39925b5986820623"
+        },
+        {
+          "path": "references/audio-timeline.md",
+          "bytes": 6857,
+          "sha256": "5cd38981bf0668ce9f3abdfd63c0a10f18c2525450cf703aa8a3e08b6eb03e9c"
+        },
+        {
+          "path": "references/final-video-spec.md",
+          "bytes": 3139,
+          "sha256": "9bc56ed0e3943ff2ecfad97a9dc1191cfc8887580ec7035dd6e533f326a0e26c"
+        },
+        {
+          "path": "references/interactive-checkpoints.md",
+          "bytes": 2682,
+          "sha256": "b93e7577b4df6fa5a6ea1dc8fb3a918e3edf08d77fc507f79b32e502d77fa37a"
+        },
+        {
+          "path": "references/qc-checklist.md",
+          "bytes": 5547,
+          "sha256": "9fe951f8a3291dafae56e045f94cf673ecc2fac769e398c8a71d9ae5f0b1663a"
+        },
+        {
+          "path": "references/script-prompt-contract.md",
+          "bytes": 2550,
+          "sha256": "0b3a6e6c9a49a555a1779cba00e35702bdbe2ba5c79ae8e904e76f2b7be40dbf"
+        },
+        {
+          "path": "references/shot-anchor-strategy.md",
+          "bytes": 14950,
+          "sha256": "98df019c582518d8808705d9e404d0e90091613f0516229afa266433ae1ebf8a"
+        },
+        {
+          "path": "references/storyboard-design.md",
+          "bytes": 2307,
+          "sha256": "88042b7d290bb84c783544b80efea1e828dec944796323305e4a1f1a29ce0907"
+        },
+        {
+          "path": "references/style-presets.md",
+          "bytes": 9074,
+          "sha256": "9499d51f7e2ec5837aeacbdd5b0b3c19045d6621ab1a913c29fc6d98cddfa02f"
+        },
+        {
+          "path": "references/visual-state-ledger.md",
+          "bytes": 2558,
+          "sha256": "fec1b15fa0146dac98b9654f50ca5a804bef294ca110910e3fe0d24c5e4c68ff"
+        },
+        {
+          "path": "references/voice-presets.md",
+          "bytes": 3107,
+          "sha256": "def6562e2956d1334a7206eaf7f04ff46adbe8c9e929200e42dfee8eeb495da8"
+        }
+      ]
+    },
+    {
+      "id": "half-narrated-3d-short-drama",
+      "name": "3D漫剧半解说",
+      "nameEn": "Short Drama",
+      "version": "1.0.1",
+      "description": "把故事或剧本整理成含对白视频和独立旁白音频的可剪辑3D漫剧短剧制作包。",
+      "descriptionEn": "Turn a story or script into a guided 3D manhua short-drama package with dialogue video and separate narration audio.",
+      "author": "MiniMax Design",
+      "source": "official-featured",
+      "tags": {
+        "zh": [
+          "短剧漫剧 / 计划制定",
+          "短剧漫剧 / 创作生成",
+          "短剧漫剧 / 后期处理"
+        ],
+        "en": [
+          "Short Drama / Planning",
+          "Short Drama / Creative Generation",
+          "Short Drama / Post-production"
+        ]
+      },
+      "triggerWords": [
+        "3D漫剧半解说短剧",
+        "3D半解说短剧",
+        "3D漫剧短剧",
+        "国漫3D短剧",
+        "3D渲染短剧",
+        "灵笼风短剧",
+        "眷思量风短剧",
+        "3D manhua drama",
+        "3D half-narrated short drama",
+        "3D animated short drama",
+        "manhua-style 3D"
+      ],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/half-narrated-3d-short-drama/",
+      "fileCount": 12,
+      "bytes": 206938,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 54234,
+          "sha256": "d1a5230741dfbf95bc94a179fb1988fcae410f113550c43e88258451ed5a100b"
+        },
+        {
+          "path": "meta.yaml",
+          "bytes": 3228,
+          "sha256": "480666569a2c822804b8d35f6e3195e80fbf39a2529ef6601f9b72dbb4a2d7f7"
+        },
+        {
+          "path": "references/audio-timeline.md",
+          "bytes": 20706,
+          "sha256": "fd9a8610da92318736947553b322246f81d19023e62b9b29c3340d7d4ab417df"
+        },
+        {
+          "path": "references/final-video-spec.md",
+          "bytes": 12070,
+          "sha256": "7ceed645eae1cfc2bd1c1be7a7678d7132b19547f63230c11ec5fd14cd8059c7"
+        },
+        {
+          "path": "references/interactive-checkpoints.md",
+          "bytes": 27341,
+          "sha256": "71f6f19d14b2e014f00089991948deea21f2e7bf531eec1737dc07d3abdce314"
+        },
+        {
+          "path": "references/qc-checklist.md",
+          "bytes": 17524,
+          "sha256": "660150b4b89c2cc2e43ae49ca492b8468d2c2fd490d0a43fcf1ffbefaa63f1c1"
+        },
+        {
+          "path": "references/shot-anchor-strategy.md",
+          "bytes": 21923,
+          "sha256": "5ba3f29782d92c831f9d4a7168159c553862dadc7dbe6acefb5003ab00747943"
+        },
+        {
+          "path": "references/storyboard-design.md",
+          "bytes": 10520,
+          "sha256": "d5f524050a168b6021eacc095743abd7dcfb1c52501869f7407a24a7dc734030"
+        },
+        {
+          "path": "references/style-presets.md",
+          "bytes": 11794,
+          "sha256": "47fe249a6a96668be148350898389a9887603514582730c53acf090ec2405edc"
+        },
+        {
+          "path": "references/user-language-rules.md",
+          "bytes": 11002,
+          "sha256": "82f54a31ab7039267e384bebca8269dea009dde89084102c80ee2662f62ce17b"
+        },
+        {
+          "path": "references/visual-state-ledger.md",
+          "bytes": 6004,
+          "sha256": "3b9ec0b6ac00ec739777bb83e65916d15d570cf8ddca0cfbcb1ce51581830a1d"
+        },
+        {
+          "path": "references/voice-presets.md",
+          "bytes": 10592,
+          "sha256": "fc2bad58b7a31b0ac4d07e4402466b3123880a187f8ee63d06daefb1ff895496"
+        }
+      ]
+    },
+    {
+      "id": "half-narrated-live-action-short-drama",
+      "name": "半解说真人短剧",
+      "nameEn": "Short Drama",
+      "version": "1.0.1",
+      "description": "将故事或剧本制作成由旁白推进、角色对白补充的真人短剧单集，并确认视频分辨率后完成连续性制作。",
+      "descriptionEn": "Turns stories or scripts into narrated live-action short-drama episodes with character dialogue, continuity-controlled shots, user-confirmed video resolution, and optional subtitles.",
+      "author": "MiniMax Design",
+      "source": "official-featured",
+      "tags": {
+        "zh": [
+          "短剧漫剧 / 创作生成"
+        ],
+        "en": [
+          "Short Drama / Creative Generation"
+        ]
+      },
+      "triggerWords": [
+        "半解说真人短剧",
+        "第一人称旁白短剧",
+        "第三人称旁白短剧",
+        "真人写实短剧",
+        "竖屏短剧",
+        "重生短剧",
+        "末世短剧",
+        "悬疑短剧",
+        "narrated live-action short drama"
+      ],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/half-narrated-live-action-short-drama/",
+      "fileCount": 4,
+      "bytes": 29091,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 13769,
+          "sha256": "66408110a2617d5877ad09453331a4e6352dbe72aa5914738364d7a63a2c80e7"
+        },
+        {
+          "path": "meta.yaml",
+          "bytes": 3326,
+          "sha256": "358f679906379261b2b82fae74e59d724e866cbb8febe3fe8afba6cf14250e9c"
+        },
+        {
+          "path": "references/h3-video-prompt-template.md",
+          "bytes": 3638,
+          "sha256": "a5e6d734c434fe04500ff9416bdec615417721da633e8d2d027effcced82067f"
+        },
+        {
+          "path": "references/seedaudio-final-track-prompt-template.md",
+          "bytes": 8358,
+          "sha256": "42dfa5e62962d0ec0e8b1bdedb1fd1f7759ff4ffd7931f8103d84468401bc867"
+        }
+      ]
+    },
+    {
+      "id": "handdrawn-live-video-generator",
+      "name": "手绘实拍融合视频生成器",
+      "nameEn": "Creative & Experimental",
+      "version": "1.0.9",
+      "description": "基于场景创意，生成手绘动画与实拍接触变形的15秒视频，适用于创意短片制作。",
+      "descriptionEn": "Create H3-ready prompts for hand-drawn animation interacting with live-action scenes.",
+      "author": "MiniMax Design",
+      "source": "official-featured",
+      "tags": {
+        "zh": [
+          "创意实验 / 创作生成",
+          "动画 / 创作生成"
+        ],
+        "en": [
+          "Creative & Experimental / Creative Generation",
+          "Animation / Creative Generation"
+        ]
+      },
+      "triggerWords": [
+        "手绘发光动画实拍融合",
+        "15秒变形追逐视频提示词",
+        "H3生成视频",
+        "视频prompt",
+        "手绘动画接触真实物体",
+        "蜡笔粉笔质感",
+        "多语言视频提示词"
+      ],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/handdrawn-live-video-generator/",
+      "fileCount": 2,
+      "bytes": 10157,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 7157,
+          "sha256": "cd167a30c224caffb64eab3521e6c2fb80e7e4adfdf2b161fcd2986472b9eb2c"
+        },
+        {
+          "path": "meta.yaml",
+          "bytes": 3000,
+          "sha256": "6cc087ec38ebe17d7ad16b5a3ce9dffec62d37265fdbd8387d6e82e9c5b4a70b"
+        }
+      ]
+    },
+    {
+      "id": "handdrawn-product-poster-motion",
+      "name": "小物产品手绘海报动画",
+      "nameEn": "Commercial Ad",
+      "version": "1.0.5",
+      "description": "把小物产品图制作成手绘POP海报与7秒制作动画，分步确认标题、贴纸和底部文案。",
+      "descriptionEn": "Transforms a small product photo into a hand-drawn POP poster and a seven-second making-of animation through confirmed title, stickers, and footer copy.",
+      "author": "Kido G",
+      "source": "community",
+      "tags": {
+        "zh": [
+          "商业广告 / 成片制作",
+          "电商 / 成片制作"
+        ],
+        "en": [
+          "Commercial Ad / Full Production",
+          "E-Commerce / Full Production"
+        ]
+      },
+      "triggerWords": [
+        "product poster motion",
+        "handdrawn product poster",
+        "doodle product ad",
+        "sticker poster animation",
+        "小物产品海报",
+        "手绘海报动画",
+        "产品贴纸动画",
+        "POP产品广告"
+      ],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/handdrawn-product-poster-motion/",
+      "fileCount": 4,
+      "bytes": 32482,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 10483,
+          "sha256": "5b1fca15b7352c27bec3ddc43293b82315659ff88fdb13d096e40388a5521c50"
+        },
+        {
+          "path": "meta.yaml",
+          "bytes": 3258,
+          "sha256": "d9aec9c9bbe4b391dfea5494031074b6a1ae11f4909529c9f42dd1e73eb0bfd3"
+        },
+        {
+          "path": "references/poster-image-prompt.cn.md",
+          "bytes": 11683,
+          "sha256": "caf7ee8526a438ade45f64b2aef9d5d0c408c3fcb4f3ad6a431961f10bc972d0"
+        },
+        {
+          "path": "references/poster-video-prompt.cn.md",
+          "bytes": 7058,
+          "sha256": "1de332a256b240f2daecc5371672102318477d292a57efacd87373b0d0fea72a"
+        }
+      ]
+    },
+    {
+      "id": "houdini-workflow",
+      "name": "Houdini 程序化创作与工程分析",
+      "nameEn": "Creative & Experimental / Creative Generation",
+      "version": "0.1.0",
+      "description": "将需求、参考与已有场景转为可编辑程序化资产，结合工程分析与分阶段检查，交付关联源工程的预览以便继续修改。",
+      "descriptionEn": "Turn briefs, references and existing scenes into editable procedural assets, with project analysis, staged verification and previews linked to source projects for continued revision.",
+      "author": "MiniMax Design",
+      "source": "official",
+      "tags": {
+        "zh": [
+          "创意实验 / 创作生成",
+          "创意实验 / 后期处理"
+        ],
+        "en": [
+          "Creative & Experimental / Creative Generation",
+          "Creative & Experimental / Post-production"
+        ]
+      },
+      "triggerWords": [],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/houdini-workflow/",
+      "fileCount": 35,
+      "bytes": 598734,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 7128,
+          "sha256": "d4dcdba70a4e86e6ee9232f5d352ee07539264f11359fd0fd59174aaef1a03c0"
+        },
+        {
+          "path": "assets/art-bible-template.md",
+          "bytes": 1990,
+          "sha256": "bbd7a1024e2738bc0f10a5add7168083b0216f2a7a3618499b512ded5f3e6ef1"
+        },
+        {
+          "path": "assets/beat-sheet.csv",
+          "bytes": 831,
+          "sha256": "91c20c8f2cceb0159cdf80400fa4d820e45a25aefded9bf416c05b02870d1554"
+        },
+        {
+          "path": "assets/review-scorecard.csv",
+          "bytes": 646,
+          "sha256": "d57766afa59ad21c471523311fa9ce9401323ded7cf46b5cf6915f82190c1779"
+        },
+        {
+          "path": "meta.yaml",
+          "bytes": 3232,
+          "sha256": "1852b567beb2d5ffc77671667aba29d183e25912117472ac8aed4591206f27b9"
+        },
+        {
+          "path": "references/analysis/ALGORITHMS.md",
+          "bytes": 21539,
+          "sha256": "87ee039667809d57d2099be7665dd581e7128f8e55b67025638b6cc8b610c5e5"
+        },
+        {
+          "path": "references/analysis/COLLABORATION.md",
+          "bytes": 10380,
+          "sha256": "cc55b4edecb9f3a2badd923450830c1b04fdb1cae932aa8aae43d21986d78c1f"
+        },
+        {
+          "path": "references/analysis/DEBT_CHECKLIST.md",
+          "bytes": 7554,
+          "sha256": "61bdebe406892a0f99b184365a62034a5965ad79d4fbae7e408fe46df83920c9"
+        },
+        {
+          "path": "references/analysis/METHODOLOGY.md",
+          "bytes": 4936,
+          "sha256": "f52e4d6965c51e4400b54a9dbdb6ceac58a29b55c780fcb23b2e30865b7a1187"
+        },
+        {
+          "path": "references/analysis/PATTERNS.md",
+          "bytes": 195895,
+          "sha256": "b351b5b5157e5aa53c8128c5144557d24e0a866c905a8535c5aacd95399294d6"
+        },
+        {
+          "path": "references/delivery-and-canvas.md",
+          "bytes": 2752,
+          "sha256": "6aa3817ab2b023e88686a84ca9d0b53c5f88874ca3a22c41c506a9d6893d40ec"
+        },
+        {
+          "path": "references/environment-readiness.md",
+          "bytes": 2483,
+          "sha256": "d0342915981dc7ce4f7655cf660fb509881f826c457b4c216472f1e5d7d2a856"
+        },
+        {
+          "path": "references/motion-direction.md",
+          "bytes": 1616,
+          "sha256": "552b0570a1a09abd12592027d5c4d5b59c59e60a288674abbf8856c1def7ddd7"
+        },
+        {
+          "path": "references/motion/art-direction.md",
+          "bytes": 9629,
+          "sha256": "fb6118dbac0f02634438c5c75e47b41b247c33ec5c8e084da86e4733dbf6bc77"
+        },
+        {
+          "path": "references/motion/production-and-critique.md",
+          "bytes": 8118,
+          "sha256": "7ac459c398920c95137e339a7750f0d1b2d8f7692608ce9f0c4d550653488def"
+        },
+        {
+          "path": "references/motion/rhythm-and-editing.md",
+          "bytes": 9116,
+          "sha256": "b84a5311519d32ae2c452e5be2fe8bf7e3bb04db1b5a77a07eed12fc4a01f3a9"
+        },
+        {
+          "path": "references/pcg/ITERATION.md",
+          "bytes": 9098,
+          "sha256": "c344a0bc67229a52df4adc0d5b38ea687f3f02126ccbb54517bcadbeac5a17fa"
+        },
+        {
+          "path": "references/pcg/MODULE_SPEC.md",
+          "bytes": 7829,
+          "sha256": "cab088832a1c39749fada188d4563619a629d048c35b1be3fab76666b1ce9dd8"
+        },
+        {
+          "path": "references/pcg/NETWORK_TEMPLATES.md",
+          "bytes": 11053,
+          "sha256": "b5366d9432992f5f6c6390c2617e5c2dd0a05b75d13d577e93cddfec7902acd9"
+        },
+        {
+          "path": "references/pcg/PARAMETERS.md",
+          "bytes": 12505,
+          "sha256": "16294724dec74170f5d4447d9a131b08634022854302fec02bea641a7ebfd723"
+        },
+        {
+          "path": "references/pcg/PERFORMANCE.md",
+          "bytes": 13301,
+          "sha256": "a8117315b0c91bf41ad9daf22e233ad7dbab37b5648d38471b12fd698ca25461"
+        },
+        {
+          "path": "references/pcg/PLAYBOOK.md",
+          "bytes": 6816,
+          "sha256": "f838b4466afc33cf36350fdb0d992c00bab9a9baea4c90e76c8825eb39b23c7a"
+        },
+        {
+          "path": "references/pcg/VEX_RECIPES.md",
+          "bytes": 155088,
+          "sha256": "2cbb235c5166a096dfaef8eaa9a11fa83ffd8bdc0670c8c4dcf9ee2cb8d6ea43"
+        },
+        {
+          "path": "references/production-checks.md",
+          "bytes": 3132,
+          "sha256": "1ad378ea782282b97d32e97985684d9984a930a59146a8160e602d4086fc8881"
+        },
+        {
+          "path": "references/project-analysis.md",
+          "bytes": 1959,
+          "sha256": "4c0296d6f95426d188edff46a934216bf5e7737248e02c7b6faef32535bac0e5"
+        },
+        {
+          "path": "scripts/analyze_motion_refs.py",
+          "bytes": 11389,
+          "sha256": "236d7cb91422e602981574036b47a55d6e86be29abd159b19285ce3abb33c981"
+        },
+        {
+          "path": "scripts/ensure_houdini.py",
+          "bytes": 27854,
+          "sha256": "9902bde9d948727fc1023a1193618acd4f300ea834703adc4c16e32b33fc966c"
+        },
+        {
+          "path": "scripts/extract_hip.py",
+          "bytes": 4420,
+          "sha256": "06fc1f6d60b0d9bc250fc25e84ec63c46b5a3ccd3df8b610ac6da62eeceae576"
+        },
+        {
+          "path": "scripts/extract_vex.py",
+          "bytes": 8076,
+          "sha256": "066bba31643b0f2631dda9fd670cb53cb3b553e9cf16613a45c1088638b26b0a"
+        },
+        {
+          "path": "scripts/parse_hip.py",
+          "bytes": 3790,
+          "sha256": "8efba461ee47d2a7daff85b0df14bd1356946b96e9fb4f2e8a37f3041d6c63ec"
+        },
+        {
+          "path": "scripts/requirements-motion.txt",
+          "bytes": 18,
+          "sha256": "2c2640f544250518daacc40913a3d8fd8cc0f6390d1435ce6887ec01fedaecb6"
+        },
+        {
+          "path": "tests/VALIDATION.md",
+          "bytes": 2010,
+          "sha256": "b5f6fbba81ddde4811abb369ded2365f9e7d3d03f7a61d8cc31b1901d1355f4c"
+        },
+        {
+          "path": "tests/test_ensure_houdini.py",
+          "bytes": 27224,
+          "sha256": "b19c3a608b090f9e04dfcc6348ffbcfa0823b15b6d1aee85173d36d90c03ae21"
+        },
+        {
+          "path": "tests/test_project_analysis.py",
+          "bytes": 3798,
+          "sha256": "a7216699e160697dec1810677e3e495e516e12b71e24e2dc78ce8f4f77fcd058"
+        },
+        {
+          "path": "tests/trigger-cases.md",
+          "bytes": 1529,
+          "sha256": "93c4b9b9288b515482065eb14713909535b2576a619e8a3fbc74e1478ebe2eb3"
+        }
+      ]
+    },
+    {
+      "id": "image-remix",
+      "name": "图片重混",
+      "version": "0.7.3",
+      "description": "上传参考图，复刻它的感觉生成新图",
+      "descriptionEn": "Generate new images with reference vibe",
+      "author": "unknown",
+      "source": "unknown",
+      "tags": {
+        "zh": [
+          "创意",
+          "图片",
+          "风格迁移",
+          "混搭",
+          "设计"
+        ],
+        "en": [
+          "Creative",
+          "Image",
+          "Style-Transfer",
+          "Remix",
+          "Design"
+        ]
+      },
+      "triggerWords": [],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/image-remix/",
+      "fileCount": 3,
+      "bytes": 14806,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 9750,
+          "sha256": "47cd42dccf86421d3fb0e300939572fee7550623164a4ad95bda39014c38bb15"
+        },
+        {
+          "path": "references/analysis-example.md",
+          "bytes": 2307,
+          "sha256": "04a38acac55d23138df7f75368facd2fcaeee801ef83c0a3b1a140b451dca69d"
+        },
+        {
+          "path": "references/model-fingerprints.md",
+          "bytes": 2749,
+          "sha256": "157595b64f6161aa64e4766141f72809f4c6523ae6dd7c70204cdc380b6dc37e"
+        }
+      ]
+    },
+    {
+      "id": "interior-modeling-render",
+      "name": "室内空间建模与实景渲染",
+      "nameEn": "Animation / Creative Generation",
+      "version": "1.0.0",
+      "description": "根据平面图、实景照片、文字简报或 Blender 场景建立可编辑室内空间，并交付连贯的一镜到底写实漫游视频。",
+      "descriptionEn": "Convert plans, photos, Blender scenes, references, or text briefs into an approved editable interior and a coherent one-take photoreal walkthrough.",
+      "author": "MiniMax Design",
+      "source": "official-featured",
+      "tags": {
+        "zh": [
+          "动画 / 创作生成"
+        ],
+        "en": [
+          "Animation / Creative Generation"
+        ]
+      },
+      "triggerWords": [
+        "室内建模",
+        "室内渲染",
+        "Blender建模",
+        "Blender室内",
+        "户型图建模",
+        "实景照片建模",
+        "一镜到底漫游",
+        "实景漫游",
+        "建筑可视化"
+      ],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/interior-modeling-render/",
+      "fileCount": 4,
+      "bytes": 44095,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 18657,
+          "sha256": "ca615ed9a8d91bb8afa971a17431d3d946502ca746ba9f857bf8a00e4c06f08f"
+        },
+        {
+          "path": "meta.yaml",
+          "bytes": 3249,
+          "sha256": "6d525da637091c0de7ca7befad1a12caaabfe17af47c95f1dab74a13c8a4d61b"
+        },
+        {
+          "path": "references/step5-photoreal-addendum.cn.md",
+          "bytes": 10205,
+          "sha256": "5dc92b112d47e403978463983cff53a6f237fa1c9fb28bb38c9db9bd956178cb"
+        },
+        {
+          "path": "references/step5-photoreal-addendum.md",
+          "bytes": 11984,
+          "sha256": "7864b3d167bca96e552ae1ad650db76ba067a6d83ae2f0224907c7e73dab3910"
+        }
+      ]
+    },
+    {
+      "id": "ip-toy-grid-motion",
+      "name": "IP潮玩六宫格动态海报",
+      "nameEn": "Creative & Experimental",
+      "version": "1.0.3",
+      "description": "基于用户上传的角色形象，生成3D潮玩六宫格竖版动态视频，适合IP提案与社媒展示。",
+      "descriptionEn": "Generates a vertical 3D designer-toy six-panel motion video from a user-uploaded character image.",
+      "author": "MiniMax Design",
+      "source": "official-featured",
+      "tags": {
+        "zh": [
+          "创意实验 / 创作生成",
+          "电商 / 创作生成"
+        ],
+        "en": [
+          "Creative & Experimental / Creative Generation",
+          "E-Commerce / Creative Generation"
+        ]
+      },
+      "triggerWords": [
+        "IP潮玩",
+        "潮玩六宫格",
+        "手办动态海报",
+        "IP转3D手办",
+        "designer toy",
+        "toy figure grid",
+        "motion poster"
+      ],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/ip-toy-grid-motion/",
+      "fileCount": 5,
+      "bytes": 23595,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 5239,
+          "sha256": "a6d4d2e0fd9b9788ce59860f393d67a1c4e844f6f989eba8eca6e0694d9e43e0"
+        },
+        {
+          "path": "meta.yaml",
+          "bytes": 2796,
+          "sha256": "2a6f538e15d377c0e97eb9fbf0e6a5889bf23e721a95484ed936f714aa1de70f"
+        },
+        {
+          "path": "references/motion-six-grid-prompt-template.cn.md",
+          "bytes": 5650,
+          "sha256": "e342c161bcede42e8b1087104302638a514f0f1fdbb7c557d7c6d3b6d2f9546b"
+        },
+        {
+          "path": "references/prompt-fidelity-rules.cn.md",
+          "bytes": 3565,
+          "sha256": "9ad15f0c93239db476a59197cf76d5c6a056806ab502899acac12557acbdf86c"
+        },
+        {
+          "path": "references/static-six-grid-prompt-template.cn.md",
+          "bytes": 6345,
+          "sha256": "8b8067243d7940293041e8d880c0bb105772cdf0caacfd472806e4840f430558"
+        }
+      ]
+    },
+    {
+      "id": "koc-video",
+      "name": "达人种草视频",
+      "nameEn": "Commercial Ad / Full Production",
+      "version": "8.7.3",
+      "description": "生成达人原生风格的社交种草视频，覆盖口播、测评、证言、无脸视角与数字人栏目",
+      "descriptionEn": "Generate creator-native social videos including product seeding, talking heads, testimonials, POV, and virtual hosts",
+      "author": "MiniMax Design",
+      "source": "official",
+      "tags": {
+        "zh": [
+          "商业广告 / 成片制作"
+        ],
+        "en": [
+          "Commercial Ad / Full Production"
+        ]
+      },
+      "triggerWords": [
+        "KOC视频",
+        "UGC视频",
+        "达人种草",
+        "产品测评",
+        "用户证言",
+        "无脸视角",
+        "手部实测",
+        "数字人视频"
+      ],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/koc-video/",
+      "fileCount": 7,
+      "bytes": 45854,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 7355,
+          "sha256": "9bacc9f91c7e01ce341eddfcc11efb49e539aadbfc29d2f049c6bab5454bd75a"
+        },
+        {
+          "path": "meta.yaml",
+          "bytes": 2652,
+          "sha256": "239e7e3d0938939084077237207eee2a83c9430def0df741ac296b3f7df6e322"
+        },
+        {
+          "path": "references/creator-direction.md",
+          "bytes": 6642,
+          "sha256": "e5422779987518106442a69f85c483b869b0700e4a627073075d01f0e489042b"
+        },
+        {
+          "path": "references/hook-decision.md",
+          "bytes": 5118,
+          "sha256": "65b5ac5d8e1a68e85d7611c8085cdc7f4a0605c979f81e3af2102a3e42489d11"
+        },
+        {
+          "path": "references/production.md",
+          "bytes": 8118,
+          "sha256": "b3d698e9eb9b9df8c5b4dc886c29420595ed4d5a1adbfa0ae39bd3bf0ae99c3d"
+        },
+        {
+          "path": "references/script-and-shots.md",
+          "bytes": 11951,
+          "sha256": "e5c8048f11bcc89dd16bc394218c79ca6e5d4b74324317328c43196211622b5f"
+        },
+        {
+          "path": "references/source-routing.md",
+          "bytes": 4018,
+          "sha256": "2b0680f422103c1c460c6168b69f2cfdaf058bcf7b067a0945ac840ce6a00af7"
+        }
+      ]
+    },
+    {
+      "id": "line-doodle-explainer-generator",
+      "name": "线条图解科普视频生成",
+      "nameEn": "Education",
+      "version": "1.0.4",
+      "description": "根据知识主题或教材内容，生成线条小人图解科普视频方案与成片素材，适用于知识讲解短视频。",
+      "descriptionEn": "Generate line-doodle infographic explainer video plans and production assets from knowledge topics or lesson materials.",
+      "author": "MiniMax Design",
+      "source": "official-featured",
+      "tags": {
+        "zh": [
+          "教育 / 意图脑爆",
+          "教育 / 计划制定",
+          "教育 / 创作生成",
+          "教育 / 后期处理"
+        ],
+        "en": [
+          "Education / Intent Brainstorming",
+          "Education / Planning",
+          "Education / Creative Generation",
+          "Education / Post-production"
+        ]
+      },
+      "triggerWords": [
+        "简约线条小人动画",
+        "线条小人科普",
+        "图解教学视频",
+        "信息图科普动画",
+        "板书感科普",
+        "科普视频",
+        "制作方案"
+      ],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/line-doodle-explainer-generator/",
+      "fileCount": 6,
+      "bytes": 26159,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 17568,
+          "sha256": "07c279581e976138a2c34a3b211fa85b3caa73af9467b8040273a1e458b17ac5"
+        },
+        {
+          "path": "meta.yaml",
+          "bytes": 3054,
+          "sha256": "91e8dc5f28d5c5a95bce1d9f42648691914db4964ee1820a28428b5cb972f1a8"
+        },
+        {
+          "path": "references/interaction-cards.cn.md",
+          "bytes": 1147,
+          "sha256": "974b35ac35d4e7dde6f98c20ab49299951c4ef2230974912f669ab918cbeaeb7"
+        },
+        {
+          "path": "references/interaction-cards.md",
+          "bytes": 1310,
+          "sha256": "dc722247cae1b9fcefaaf7a6164210e91286e8fe3d7bfd260ad2e15117a9caef"
+        },
+        {
+          "path": "references/output-format.cn.md",
+          "bytes": 1540,
+          "sha256": "c5d233e95b43aab4aa78a7f943992cca418f5a2079af29d3bfb671b0ad866392"
+        },
+        {
+          "path": "references/output-format.md",
+          "bytes": 1540,
+          "sha256": "365331cedc17a0ef87a6b95e29930ebc98fcbc932298386d186c58bccf0d4b92"
+        }
+      ]
+    },
+    {
+      "id": "lip-product-ad-generator",
+      "name": "唇部彩妆广告生成",
+      "nameEn": "Creative & Experimental",
+      "version": "1.0.1",
+      "description": "按固定顺序生成横屏30秒唇部彩妆TVC，先完成模特图、3×3静物图和脚本文件再生成视频，并强化自然的人物与产品、道具互动。",
+      "descriptionEn": "Builds a 30s horizontal lip-product TVC in a fixed order, requiring model portrait, 3×3 still-life, and storyboard files before video generation, while using the still-life only as storyboard reference and keeping interactions natural.",
+      "author": "MiniMax Design",
+      "source": "official-featured",
+      "tags": {
+        "zh": [
+          "创意实验 / 创作生成"
+        ],
+        "en": [
+          "Creative & Experimental / Creative Generation"
+        ]
+      },
+      "triggerWords": [
+        "lip product TVC",
+        "lip gloss TVC",
+        "lip tint",
+        "lip mud",
+        "lip oil",
+        "唇部彩妆",
+        "口红广告",
+        "唇釉TVC",
+        "唇泥TVC",
+        "横屏30s",
+        "背景音乐"
+      ],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/lip-product-ad-generator/",
+      "fileCount": 2,
+      "bytes": 10316,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 6592,
+          "sha256": "d6d7b899b1c35cd03e536c011c1daf2c2cfc351365f670b1bbfdae2201ff0f59"
+        },
+        {
+          "path": "meta.yaml",
+          "bytes": 3724,
+          "sha256": "a1d68b37a560c17f1e1a8f65525fc216e8fa4cb6a2bfdc23eb8863e626abde4b"
+        }
+      ]
+    },
+    {
+      "id": "live-sketch-motion",
+      "name": "实景动态手绘显影",
+      "nameEn": "Creative & Experimental",
+      "version": "1.0.2",
+      "description": "让真实照片先自然动起来，再由笔尖把运动主体显影成手绘短片，保留实景空间与生命感。",
+      "descriptionEn": "Turns real photos, videos, or text scenes into sketch-motion clips where a marker reveals a moving subject as hand-drawn art.",
+      "author": "MiniMax Design",
+      "source": "official-featured",
+      "tags": {
+        "zh": [
+          "创意实验 / 创作生成"
+        ],
+        "en": [
+          "Creative & Experimental / Creative Generation"
+        ]
+      },
+      "triggerWords": [
+        "实景手绘",
+        "手绘动效",
+        "实景手绘动效",
+        "Live Sketch Motion",
+        "live sketch",
+        "sketch motion",
+        "marker sketch",
+        "photo-to-sketch-motion",
+        "doodle motion"
+      ],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/live-sketch-motion/",
+      "fileCount": 2,
+      "bytes": 20822,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 17915,
+          "sha256": "269d072e6446c12f595f163d04db46b1144ff06814f69e1664488a7af472a9fc"
+        },
+        {
+          "path": "meta.yaml",
+          "bytes": 2907,
+          "sha256": "ef49a505c78cc5200b932d0c519605112c1120b504e0b846725d4af17fea50df"
+        }
+      ]
+    },
+    {
+      "id": "logo-creative-material-motion-lab",
+      "name": "Logo创意材质动效实验室",
+      "nameEn": "Commercial Ad",
+      "version": "1.0.4",
+      "description": "以Logo和参考图生成3D基底、三种材质方向及横竖版品牌动效视频，适合TVC与社媒切条。",
+      "descriptionEn": "Builds a logo motion package with paired 3D bases, three material directions, and horizontal and vertical video variants.",
+      "author": "Kido G",
+      "source": "community",
+      "tags": {
+        "zh": [
+          "商业广告 / 创作生成",
+          "电商 / 创作生成"
+        ],
+        "en": [
+          "Commercial Ad / Creative Generation",
+          "E-Commerce / Creative Generation"
+        ]
+      },
+      "triggerWords": [
+        "logo动画",
+        "logo reveal",
+        "3D logo",
+        "logo motion",
+        "开场片头",
+        "片尾",
+        "LOGO动效",
+        "立体logo",
+        "创意材质动效"
+      ],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/logo-creative-material-motion-lab/",
+      "fileCount": 2,
+      "bytes": 6581,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 3475,
+          "sha256": "651f2f711fa2d3e842ac597e374155fdd5814efbb6df2de5023f6ef3ecea0943"
+        },
+        {
+          "path": "meta.yaml",
+          "bytes": 3106,
+          "sha256": "901e8fe5ccd38cef0c4bbada173bce0573d79bba4466528858a4ec295d5e9e27"
+        }
+      ]
+    },
+    {
+      "id": "material-propagation-poster",
+      "name": "材质蔓延动态海报",
+      "nameEn": "Commercial Ad",
+      "version": "1.0.3",
+      "description": "从主体视觉确认关键画面，制作保护版式的材质蔓延动态海报并输出社媒变体。",
+      "descriptionEn": "Turns a subject visual into an approved material-journey poster with protected layout, controlled motion, and social variants.",
+      "author": "Kido G",
+      "source": "community",
+      "tags": {
+        "zh": [
+          "商业广告 / 创作生成"
+        ],
+        "en": [
+          "Commercial Ad / Creative Generation"
+        ]
+      },
+      "triggerWords": [
+        "material propagation",
+        "material journey",
+        "surface takeover",
+        "ink spread poster",
+        "coating animation",
+        "patina growth",
+        "dynamic material poster",
+        "材质蔓延海报",
+        "材质蔓延",
+        "表面生长",
+        "墨迹扩散"
+      ],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/material-propagation-poster/",
+      "fileCount": 7,
+      "bytes": 34359,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 21406,
+          "sha256": "571e5d7a3b140096d1e5e6503b562d58aadfdfb02f23c4410afced998123050e"
+        },
+        {
+          "path": "agents/openai.yaml",
+          "bytes": 329,
+          "sha256": "43641f97b2b5844a5abbfdc1e1f68a658177fdb4168692bd03892d2242daa5fe"
+        },
+        {
+          "path": "meta.yaml",
+          "bytes": 3179,
+          "sha256": "7b35f26514746a89c9abdc8d203bf114fa779f2063785964df80f26511dee6ff"
+        },
+        {
+          "path": "references/prompt-templates.md",
+          "bytes": 2792,
+          "sha256": "dbfc633bf0c22ecc614bf231f2b4c2775dd23e80d4afa6f42d194cbac96e0aa4"
+        },
+        {
+          "path": "references/qc-checklist.md",
+          "bytes": 1466,
+          "sha256": "a003fdf3a2c6c084f8fc910d8848f3b349cb0b9d76b587269c5fbe6386719c3b"
+        },
+        {
+          "path": "references/scene-presets.md",
+          "bytes": 2740,
+          "sha256": "05b9abd44739864711251c810f68d2c27fe5e5c614bebf65554adcd0a09534f2"
+        },
+        {
+          "path": "scripts/build_prompt_packet.py",
+          "bytes": 2447,
+          "sha256": "0639e7e9fe18483d6bbf8ab63a88f16700cfd803a8625d8afee8bb9737b61699"
+        }
+      ]
+    },
+    {
+      "id": "micro-expression-video-generator",
+      "name": "人物微表情视频生成",
+      "nameEn": "Professional Film",
+      "version": "1.0.2",
+      "description": "根据角色图、剧本或情绪短语设计分时微表情提示词，用于塑造自然可信的角色表演。",
+      "descriptionEn": "Turns a character image, script, or emotion phrase into timed micro-expression prompts for believable, restrained screen performances.",
+      "author": "MiniMax Design",
+      "source": "official-featured",
+      "tags": {
+        "zh": [
+          "专业影视 / 计划制定"
+        ],
+        "en": [
+          "Professional Film / Planning"
+        ]
+      },
+      "triggerWords": [
+        "微表情",
+        "角色表演提示词",
+        "细腻情绪表演",
+        "角色演技",
+        "情绪表演",
+        "含泪强撑",
+        "爱而不得"
+      ],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/micro-expression-video-generator/",
+      "fileCount": 9,
+      "bytes": 55850,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 1796,
+          "sha256": "6a15a434d3b35687743572bfdb2e77116ee4345c0fa6181605522a52c21aa899"
+        },
+        {
+          "path": "meta.yaml",
+          "bytes": 3447,
+          "sha256": "4b08d689620d47c5c9422f2d4a507467042cd4c3dc2af62ce7df9e0d9b6d2af0"
+        },
+        {
+          "path": "references/climax-reset-patterns.md",
+          "bytes": 2800,
+          "sha256": "7a5f1741878d5cd25e9f8a493c36e371f774bbf5b3fe365c1382aa39610454d7"
+        },
+        {
+          "path": "references/emotion-route-library.md",
+          "bytes": 19156,
+          "sha256": "0c26d39c52532549bffe19593e20573bc14c3e35f53c3be8e34855621c8dc453"
+        },
+        {
+          "path": "references/muscle-dispatch-library.md",
+          "bytes": 3272,
+          "sha256": "88247a493ec6ff75e4979c6f8ee66a17266d3a3c88413c0dc169869eb895800c"
+        },
+        {
+          "path": "references/performance-prototype-library.md",
+          "bytes": 13565,
+          "sha256": "ff33696c410987600d895b2e1567c5bbea701cd897fcd971fb0162481d405981"
+        },
+        {
+          "path": "references/source-notes.md",
+          "bytes": 3922,
+          "sha256": "53a518c8b45a6a1b62c8b11a7aecc2e062f2e5b918fe81724c256b1512343abc"
+        },
+        {
+          "path": "references/tempo-density-guide.md",
+          "bytes": 3211,
+          "sha256": "46b0f0da26907612520e55100371e878fa1bfe270c92cfe16bfde336bb8a283e"
+        },
+        {
+          "path": "references/video-prompt-guardrails.md",
+          "bytes": 4681,
+          "sha256": "04d05fa45acc60642e29cdbda4f0827d78833d310eb65f273f8001169d450916"
+        }
+      ]
+    },
+    {
+      "id": "mime-object-video",
+      "name": "珠宝佩戴视频生成",
+      "nameEn": "Commercial Ad",
+      "version": "1.0.4",
+      "description": "把参考物品自然加入无实物表演视频，同时保持人物、场景、镜头与动作不变。",
+      "descriptionEn": "Adds a referenced object to a mime-acting video while preserving the original person, scene, camera, timing, and performance.",
+      "author": "地质大学博士说AI",
+      "source": "community",
+      "tags": {
+        "zh": [
+          "商业广告 / 创作生成",
+          "电商 / 创作生成"
+        ],
+        "en": [
+          "Commercial Ad / Creative Generation",
+          "E-Commerce / Creative Generation"
+        ]
+      },
+      "triggerWords": [
+        "mime acting",
+        "no-prop acting",
+        "imaginary object",
+        "prop insertion",
+        "object video edit",
+        "hand prop",
+        "wearable prop",
+        "无实物表演",
+        "无道具表演",
+        "物品增强",
+        "道具植入",
+        "把物品加到视频里",
+        "手上出现物品",
+        "戴上参考物品"
+      ],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/mime-object-video/",
+      "fileCount": 2,
+      "bytes": 10225,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 7047,
+          "sha256": "8c2743252584959f0f13e245ce313154aa42a268c34cb4db37d69eb8c3d49c40"
+        },
+        {
+          "path": "meta.yaml",
+          "bytes": 3178,
+          "sha256": "1d7ec47d86d3042a9ade67352a2c423910449b2de8a17bc279a58577a66a8088"
+        }
+      ]
+    },
+    {
+      "id": "minimalist-product-ad-generator",
+      "name": "极简产品广告生成器",
+      "nameEn": "Commercial Ad",
+      "version": "1.0.4",
+      "description": "基于产品图片和广告需求，完成卖点提炼、英文文案与节拍分镜设计，输出极简产品广告短片，适用于电商推广与新品发布。",
+      "descriptionEn": "Turn product images and ad requirements into minimalist product ad shorts",
+      "author": "MiniMax Design",
+      "source": "official-featured",
+      "tags": {
+        "zh": [
+          "商业广告 / 计划制定",
+          "商业广告 / 创作生成",
+          "电商 / 创作生成"
+        ],
+        "en": [
+          "Commercial Ad / Planning",
+          "Commercial Ad / Creative Generation",
+          "E-Commerce / Creative Generation"
+        ]
+      },
+      "triggerWords": [
+        "极简产品广告",
+        "高质感产品广告",
+        "产品广告片",
+        "电商产品视频",
+        "新品发布广告",
+        "苹果风产品广告"
+      ],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/minimalist-product-ad-generator/",
+      "fileCount": 2,
+      "bytes": 30369,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 27190,
+          "sha256": "2d5b9ac3be3b5831936cfab56a89d5c3f1bb49a95b0b0e52e2b048cd40ab7b37"
+        },
+        {
+          "path": "meta.yaml",
+          "bytes": 3179,
+          "sha256": "e6a47a15cc5b342bc45c22a3661416771fa76e929af615e52d167b49c7da6d8d"
+        }
+      ]
+    },
+    {
+      "id": "miyazaki-inspired-animation",
+      "name": "宫崎骏风格原创动画短片",
+      "nameEn": "Animation / Full Production",
+      "version": "1.0.0",
+      "description": "从故事或参考素材出发，建立原创视觉资产和镜头计划，完成分镜生成、合成与质量复核，交付温暖手绘动画短片。",
+      "descriptionEn": "Develop an original hand-drawn animated short from a story or references through approved visual anchors, shot planning, generation, assembly, and final quality review.",
+      "author": "MiniMax Design",
+      "source": "official-featured",
+      "tags": {
+        "zh": [
+          "动画 / 成片制作"
+        ],
+        "en": [
+          "Animation / Full Production"
+        ]
+      },
+      "triggerWords": [
+        "宫崎骏",
+        "吉卜力",
+        "宫崎骏风格动画",
+        "手绘奇幻短片",
+        "原创动画短片",
+        "miyazaki",
+        "ghibli",
+        "手绘动画",
+        "森林飞行",
+        "成长动画"
+      ],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/miyazaki-inspired-animation/",
+      "fileCount": 2,
+      "bytes": 20022,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 16758,
+          "sha256": "edc1c3760152e72e1d42960785110249ae4387cfcc1591e59f6d2859ca5d11d6"
+        },
+        {
+          "path": "meta.yaml",
+          "bytes": 3264,
+          "sha256": "356f8df16d484e4b5531e7788796faeb0bb27069f7d4a7cd92ec8cff486cf18e"
+        }
+      ]
+    },
+    {
+      "id": "music-video-subtitle-generator",
+      "name": "音乐MV动态字幕生成器",
+      "nameEn": "Sound & Music",
+      "version": "0.6.12",
+      "description": "基于音乐和歌词完成节奏拆解、镜头设计与动态字幕方案，适用于人工智能音乐视频创作。",
+      "descriptionEn": "Create beat-synced MV prompts and lyric typography plans from music and lyrics.",
+      "author": "MiniMax Design",
+      "source": "official-featured",
+      "tags": {
+        "zh": [
+          "音频音乐 / 计划制定",
+          "音频音乐 / 创作生成",
+          "创意实验 / 创作生成"
+        ],
+        "en": [
+          "Sound & Music / Planning",
+          "Sound & Music / Creative Generation",
+          "Creative & Experimental / Creative Generation"
+        ]
+      },
+      "triggerWords": [
+        "MV",
+        "music video",
+        "lyric typography",
+        "on-screen text",
+        "prompt audit",
+        "Trap MV",
+        "Gospel hip-hop",
+        "Dark-pop",
+        "Cyber-grunge",
+        "MV提示词",
+        "歌词文字",
+        "字幕MV",
+        "贴字MV",
+        "卡点MV",
+        "多镜头拼接"
+      ],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/music-video-subtitle-generator/",
+      "fileCount": 2,
+      "bytes": 17724,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 14773,
+          "sha256": "de0ae27c255129145c6b9c331982c10f3e4bed23858ec40551c7d72d9d9e620f"
+        },
+        {
+          "path": "meta.yaml",
+          "bytes": 2951,
+          "sha256": "6262a9108c8e221dfdacc0bcce5be841937b98e5595188ff70e6c7d346ab61d1"
+        }
+      ]
+    },
+    {
+      "id": "niulai-movie-style",
+      "name": "牛来电影风格",
+      "nameEn": "Animation",
+      "version": "1.0.1",
+      "description": "引导用户上传照片，生成故意失败的原始低模图像，并可继续延展成笨拙运镜短视频。",
+      "descriptionEn": "Guide users from uploaded photos to deliberately failed primitive low-poly images and optional short videos.",
+      "author": "Kido G",
+      "source": "community",
+      "tags": {
+        "zh": [
+          "动画 / 创作生成"
+        ],
+        "en": [
+          "Animation / Creative Generation"
+        ]
+      },
+      "triggerWords": [
+        "牛来电影风格",
+        "牛来低模转译",
+        "牛来运镜",
+        "主角运动",
+        "反向出圈画质",
+        "低画质重制",
+        "粗糙人物低模",
+        "早期三维游戏截图",
+        "失败低模"
+      ],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/niulai-movie-style/",
+      "fileCount": 6,
+      "bytes": 43002,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 8733,
+          "sha256": "6e93028271e7a11b483b7a60902688c7001c68660de6e67954c5153963064e8a"
+        },
+        {
+          "path": "meta.yaml",
+          "bytes": 3721,
+          "sha256": "771d3ec079a75d441f1c01cf1e271b26603b51a149188a5ae68c3d002033696e"
+        },
+        {
+          "path": "references/motion-camera.md",
+          "bytes": 4007,
+          "sha256": "26d8b62392b39579ad47a5ee0272e00034b124ed642bebdcc233867d36575958"
+        },
+        {
+          "path": "references/prompt-blueprint.md",
+          "bytes": 9844,
+          "sha256": "aa4ae7c53c3f247765106c77c0007d312a3bbf36dcde859bd16a690157da0ba1"
+        },
+        {
+          "path": "references/quality-and-recovery.md",
+          "bytes": 8194,
+          "sha256": "df1739d5f098565fa811c3ac2ec739e88b83d7cd07fac1410646fbfcf10f1bec"
+        },
+        {
+          "path": "references/style-system.md",
+          "bytes": 8503,
+          "sha256": "6c424d5978953e1bf96837b0c105bc59c818702fd71d2052508e0f2f053fd98e"
+        }
+      ]
+    },
+    {
+      "id": "oriental-diffusion-aesthetic",
+      "name": "东方弥散美学",
+      "nameEn": "Animation",
+      "version": "1.0.3",
+      "description": "先将上传图转成东方弥散静图，确认后再延展为克制的循环短视频，保持主体色域与轮廓。",
+      "descriptionEn": "Transforms an uploaded image into an Eastern diffusion still, then optionally extends the approved still into a restrained short video.",
+      "author": "Kido G",
+      "source": "community",
+      "tags": {
+        "zh": [
+          "动画 / 创作生成"
+        ],
+        "en": [
+          "Animation / Creative Generation"
+        ]
+      },
+      "triggerWords": [
+        "东方弥散美学",
+        "弥散美学",
+        "东方雾化风格",
+        "商品转弥散海报",
+        "人物转东方美学",
+        "先出图再出视频",
+        "diffusion aesthetic"
+      ],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/oriental-diffusion-aesthetic/",
+      "fileCount": 2,
+      "bytes": 11768,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 8505,
+          "sha256": "b9b7714df5e35a1b0d7c88f20f49a4f4d63cfa7bac59babae73cf1b06a6d2d94"
+        },
+        {
+          "path": "meta.yaml",
+          "bytes": 3263,
+          "sha256": "b573bfaf1d50630746a48422e1395bb50672afb1210db918cc94f419df3be927"
+        }
+      ]
+    },
+    {
+      "id": "paper-collage-explainer-generator",
+      "name": "纸拼贴讲解动画",
+      "nameEn": "Education",
+      "version": "0.3.11",
+      "description": "将文案、故事节点或抽象概念转成可确认的纸拼贴讲解动画，并保留触感音效。",
+      "descriptionEn": "Turn scripts, story beats, and abstract ideas into approval-ready paper-collage explainer animations with tactile sound design.",
+      "author": "MiniMax Design",
+      "source": "official-featured",
+      "tags": {
+        "zh": [
+          "教育 / 创作生成",
+          "动画 / 创作生成",
+          "创意实验 / 创作生成"
+        ],
+        "en": [
+          "Education / Creative Generation",
+          "Animation / Creative Generation",
+          "Creative & Experimental / Creative Generation"
+        ]
+      },
+      "triggerWords": [
+        "纸拼贴讲解",
+        "纸拼贴动画",
+        "半调拼贴",
+        "拼贴科普",
+        "定格拼贴",
+        "拼贴动画"
+      ],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/paper-collage-explainer-generator/",
+      "fileCount": 2,
+      "bytes": 20057,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 16900,
+          "sha256": "55feafadc8bcfab355271f7573f50aa6c53452425c17579ada53caf8784f061e"
+        },
+        {
+          "path": "meta.yaml",
+          "bytes": 3157,
+          "sha256": "cc4c1c53ffacc0b8d1f364560565e1d102dfdf5f7cd77ee6b85be585b8f1e9f3"
+        }
+      ]
+    },
+    {
+      "id": "papercraft-stop-motion-explainer",
+      "name": "纸艺定格科普视频生成器",
+      "nameEn": "Education",
+      "version": "0.6.10",
+      "description": "根据知识主题，完成纸偶、分层布景、分镜与提示词设计，输出可执行的纸艺定格科普视频创作包。",
+      "descriptionEn": "Build a production-ready papercraft stop-motion explainer package from a knowledge topic.",
+      "author": "MiniMax Design",
+      "source": "official-featured",
+      "tags": {
+        "zh": [
+          "教育 / 创作生成",
+          "动画 / 创作生成",
+          "创意实验 / 创作生成"
+        ],
+        "en": [
+          "Education / Creative Generation",
+          "Animation / Creative Generation",
+          "Creative & Experimental / Creative Generation"
+        ]
+      },
+      "triggerWords": [],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/papercraft-stop-motion-explainer/",
+      "fileCount": 2,
+      "bytes": 23651,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 19958,
+          "sha256": "94dfb06a487aef8a3d74c5ec7f645fdbd79648dee06934889d823f2624171237"
+        },
+        {
+          "path": "meta.yaml",
+          "bytes": 3693,
+          "sha256": "ace178ff9a1c6d3713989d56a4c62716cada6dac8f0740bbb34cb2d52a0cea24"
+        }
+      ]
+    },
+    {
+      "id": "poster-motion-generator",
+      "name": "海报动态生成器",
+      "nameEn": "Creative & Experimental",
+      "version": "1.0.2",
+      "description": "将上传海报转为一镜到底动态视频，保留文字清晰、主体关系与最终版式，适合社媒传播。",
+      "descriptionEn": "Turns uploaded posters into single-take MiniMax H3 motion posters with ratio mapping, readable text, and timestamped motion prompts.",
+      "author": "MiniMax Design",
+      "source": "official-featured",
+      "tags": {
+        "zh": [
+          "创意实验 / 创作生成"
+        ],
+        "en": [
+          "Creative & Experimental / Creative Generation"
+        ]
+      },
+      "triggerWords": [
+        "Poster Motion Generator",
+        "海报动效",
+        "动态海报",
+        "一键转视频",
+        "海报动态生成器",
+        "poster animation",
+        "poster-to-video",
+        "dynamic poster",
+        "poster video",
+        "MiniMax H3"
+      ],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/poster-motion-generator/",
+      "fileCount": 4,
+      "bytes": 109465,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 10578,
+          "sha256": "f9666d1bf6ae1b300902b51ee52d92f96cb2a133d22f87a4b6c3678b6d3dc039"
+        },
+        {
+          "path": "meta.yaml",
+          "bytes": 2859,
+          "sha256": "6dae6e4d5e6e9f934b039c6d8dcfd54dede0cff49fe97b238d34285df85cd038"
+        },
+        {
+          "path": "references/v08-motion-reference.cn.md",
+          "bytes": 41614,
+          "sha256": "c74a578cf57f1dad575fc54fc6051acb72f9499c70ef61d45303a72a2b101150"
+        },
+        {
+          "path": "references/v08-motion-reference.md",
+          "bytes": 54414,
+          "sha256": "ef30a8fd04226329d9f8834e9e914d8209e2dc52dac7474f6ca33accacad4df3"
+        }
+      ]
+    },
+    {
+      "id": "pov-short-film-generator",
+      "name": "第一视角短片生成",
+      "nameEn": "Short Drama",
+      "version": "1.0.1",
+      "description": "将创意、剧本或参考素材规划为严格主角眼睛视角的沉浸式短片制作方案。",
+      "descriptionEn": "Plan strict first-person POV immersive short films.",
+      "author": "MiniMax Design",
+      "source": "official-featured",
+      "tags": {
+        "zh": [
+          "短剧漫剧 / 计划制定",
+          "短剧漫剧 / 创作生成"
+        ],
+        "en": [
+          "Short Drama / Planning",
+          "Short Drama / Creative Generation"
+        ]
+      },
+      "triggerWords": [
+        "第一人称POV",
+        "POV短片",
+        "主观视角视频",
+        "沉浸式短片",
+        "沉浸式第一视角短片",
+        "第一视角短剧",
+        "POV短剧",
+        "眼睛视角",
+        "第一视角",
+        "first-person POV",
+        "POV short film",
+        "subjective camera",
+        "immersive short film",
+        "POV drama"
+      ],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/pov-short-film-generator/",
+      "fileCount": 2,
+      "bytes": 16071,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 13288,
+          "sha256": "cc918cc93334245d42b28f3d5da94b4fa0a292c6162cb37ec69904de94a9f5bf"
+        },
+        {
+          "path": "meta.yaml",
+          "bytes": 2783,
+          "sha256": "6294ba239bbe9e624d419bd7f43b9eebe6632969522eed01ac763ff1754b7a0c"
+        }
+      ]
+    },
+    {
+      "id": "product-dynamic-poster-video",
+      "name": "产品动态海报视频",
+      "nameEn": "Commercial Ad",
+      "version": "1.0.0",
+      "description": "未指定风格时先基于参考内容提供三个方向，再按用户选择的画幅制作海报、四张光位图和10–15秒广告；未指定时长时先询问确认。",
+      "descriptionEn": "Offer three reference-grounded style directions when needed, then turn one product photo into a chosen-ratio poster, four lighting studies, and a coherent 10–15-second product advertisement.",
+      "author": "里大猫",
+      "source": "community",
+      "tags": {
+        "zh": [
+          "商业广告 / 创作生成"
+        ],
+        "en": [
+          "Commercial Ad / Creative Generation"
+        ]
+      },
+      "triggerWords": [
+        "万物海报",
+        "产品海报",
+        "产品图转广告",
+        "海报转视频",
+        "四种光影",
+        "15秒广告视频",
+        "wanwu poster",
+        "product poster",
+        "poster to video"
+      ],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/product-dynamic-poster-video/",
+      "fileCount": 15,
+      "bytes": 186985,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 6737,
+          "sha256": "740872c1d80b79bf543ce3f6488d3d9a3f2b672f0991da6909790f0253ecaffb"
+        },
+        {
+          "path": "meta.yaml",
+          "bytes": 3237,
+          "sha256": "c570ff1e4b7cf009c30a2d1f5d161e99fbc0bc61c7466b0c041fcae5e16a1c7a"
+        },
+        {
+          "path": "references/authoritative/SKILL.md",
+          "bytes": 3049,
+          "sha256": "174fd003131cfff6b65f994398a68d76e534bcdccee1fcefe5278580f845b106"
+        },
+        {
+          "path": "references/authoritative/presets/edge-light.json",
+          "bytes": 30865,
+          "sha256": "e37a1027186d227aa5e20d14a87976a179e96ff0afbf0765e2c412c9257fed48"
+        },
+        {
+          "path": "references/authoritative/presets/low-angle-key-light.json",
+          "bytes": 26679,
+          "sha256": "3fa40fdeab813c1b45cf6d144ec157b60e6dd294d2c75750559c06ea2a2ef1b2"
+        },
+        {
+          "path": "references/authoritative/presets/overhead-key-light.json",
+          "bytes": 29024,
+          "sha256": "59a9997c32a96ac1d3600f44f1876ecda240e56aa2393df79cef1ff108ae020e"
+        },
+        {
+          "path": "references/authoritative/presets/side-key-light.json",
+          "bytes": 28341,
+          "sha256": "47f8498c4a1f48ab3209fee835d1457337761afc99a8da148bca2448357ef3fa"
+        },
+        {
+          "path": "references/authoritative/prompts/poster-system-prompt.txt",
+          "bytes": 27464,
+          "sha256": "ea061685d23f29eb2a255ec12989ce032786ee67950e2a5dfa58cd037aba59b0"
+        },
+        {
+          "path": "references/authoritative/prompts/video-system-prompt.txt",
+          "bytes": 8652,
+          "sha256": "b4342a4876503fa51901f696a6c084f1eb4cb787107428eaf86cd5e549c43cfb"
+        },
+        {
+          "path": "references/authoritative/schemas/poster-output.schema.json",
+          "bytes": 5828,
+          "sha256": "0870ed79c79762572623eddb294ab56200b84254fb664690b0d8719c81614108"
+        },
+        {
+          "path": "references/authoritative/scripts/rebuild_sources.py",
+          "bytes": 5553,
+          "sha256": "276557c7ba3b2eaeef321b4ece3ee57087ec00d417bef592537c82385accc566"
+        },
+        {
+          "path": "references/authoritative/scripts/validate_poster_json.py",
+          "bytes": 3183,
+          "sha256": "8abc4314ecab84d596b29b012a85ea7dcefb76cbb13f04ef340ee4c6972d3d0c"
+        },
+        {
+          "path": "references/authoritative/scripts/verify_integrity.py",
+          "bytes": 1110,
+          "sha256": "4ef53767f2dcdd8e0342e49a1ef59680d77c3934254ad02fb48b9967d9b53184"
+        },
+        {
+          "path": "references/authoritative/source-manifest.json",
+          "bytes": 3244,
+          "sha256": "ec63339a03d44ce6d196b2e065363457e13c45bbd3f146688d047efe1a786fbb"
+        },
+        {
+          "path": "references/authoritative/workflow.yaml",
+          "bytes": 4019,
+          "sha256": "5aa9a572485a9baf6cfc8b9d3022c9497025a7092eefb769905722aaab593777"
+        }
+      ]
+    },
+    {
+      "id": "promo-video",
+      "name": "宣传视频",
+      "version": "0.1.5",
+      "description": "输入产品简介，一键生成宣传视频",
+      "descriptionEn": "Turn product brief into marketing video",
+      "author": "unknown",
+      "source": "unknown",
+      "tags": {
+        "zh": [
+          "视频",
+          "营销",
+          "推广",
+          "流程"
+        ],
+        "en": [
+          "Video",
+          "Marketing",
+          "Promo",
+          "Pipeline"
+        ]
+      },
+      "triggerWords": [],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/promo-video/",
+      "fileCount": 1,
+      "bytes": 16349,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 16349,
+          "sha256": "87d75544f4dae87a225b70ed661bdb22dbf89408ba889a75ca0956ee765656a0"
+        }
+      ]
+    },
+    {
+      "id": "reference-video-recreation-workflow",
+      "name": "参考视频复刻",
+      "nameEn": "Commercial Ad / Creative Generation",
+      "version": "1.0.0",
+      "description": "以参考视频为依据锁定运动节奏和变更脚本，通过受控生成与音画验收减少反复，稳定交付复刻成片。",
+      "descriptionEn": "Recreate a reference video through a confirmed change script, source-grounded motion planning, controlled generation, and evidence-based audiovisual validation.",
+      "author": "MiniMax Design",
+      "source": "official-featured",
+      "tags": {
+        "zh": [
+          "商业广告 / 创作生成"
+        ],
+        "en": [
+          "Commercial Ad / Creative Generation"
+        ]
+      },
+      "triggerWords": [
+        "参考视频复刻",
+        "逐镜重建",
+        "复刻导演",
+        "视频复刻工作流",
+        "参考片拆解"
+      ],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/reference-video-recreation-workflow/",
+      "fileCount": 4,
+      "bytes": 48586,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 29218,
+          "sha256": "399f5766f2195d975838e31e138ae1d4e66eecd16de610d48973f66d4aaefefd"
+        },
+        {
+          "path": "meta.yaml",
+          "bytes": 3253,
+          "sha256": "6f20d53b11ba22a60bb3542f9a6667fcab96ecb88fcc957377b736ca0fb8fc8a"
+        },
+        {
+          "path": "references/h3-model-guide.md",
+          "bytes": 11669,
+          "sha256": "54df9dca833fa2f3c917e1f00c0050cc7e150b6569d0e7279595d665f841eaf3"
+        },
+        {
+          "path": "references/platform-guide.md",
+          "bytes": 4446,
+          "sha256": "43f7bb2008f14b57dc20b7a07905e5e2338f2e69c4d9360107863c2304713031"
+        }
+      ]
+    },
+    {
+      "id": "short-drama",
+      "name": "微短剧剧本",
+      "version": "0.1.4",
+      "description": "输入选题，生成完整的爆款短剧剧本",
+      "descriptionEn": "Write full short drama scripts by topic",
+      "author": "unknown",
+      "source": "unknown",
+      "tags": {
+        "zh": [
+          "文字",
+          "编剧",
+          "剧情",
+          "写作"
+        ],
+        "en": [
+          "Text",
+          "Screenwriting",
+          "Drama",
+          "Writing"
+        ]
+      },
+      "triggerWords": [],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/short-drama/",
+      "fileCount": 9,
+      "bytes": 62274,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 13210,
+          "sha256": "ceef5cf5f12f6e762538517c3f2f7a8882b60785e076eb2200ba5d9816470e79"
+        },
+        {
+          "path": "references/compliance-checklist.md",
+          "bytes": 5546,
+          "sha256": "820efbab54b0e612c6a625c42395a2d118d77c7e4854f1d53123358aab89a09c"
+        },
+        {
+          "path": "references/genre-guide.md",
+          "bytes": 6343,
+          "sha256": "782eab3e9ace8f23fe43441db277068cb70b9409279afa505ca75ca513fc1087"
+        },
+        {
+          "path": "references/hook-design.md",
+          "bytes": 6687,
+          "sha256": "72c65ede6a6e18597912a39a2d00d44a9916cbab55e88a049119465bba6acaf3"
+        },
+        {
+          "path": "references/opening-rules.md",
+          "bytes": 6456,
+          "sha256": "613cb936394b1d09bbe59f32ff0c13c5eb886ca7d67d180d0a6c8d4f57fc7667"
+        },
+        {
+          "path": "references/paywall-design.md",
+          "bytes": 4361,
+          "sha256": "e7cd40d820229fc3b42f4f93627d005dd88245c4f98075d05ce875b2e50c258e"
+        },
+        {
+          "path": "references/rhythm-curve.md",
+          "bytes": 5264,
+          "sha256": "2924cb8047ec911cf13df5f2af38a66e8560b89d56446686f2208092f0db85d8"
+        },
+        {
+          "path": "references/satisfaction-matrix.md",
+          "bytes": 7498,
+          "sha256": "6713a1632f09949dbe9afafdb83344c942a6a422150157e104053ebdc62952a5"
+        },
+        {
+          "path": "references/villain-design.md",
+          "bytes": 6909,
+          "sha256": "901468ebdfc0c4f6d181ba3635ec097835765df1a1e5fb7ff2f6fd532938be02"
+        }
+      ]
+    },
+    {
+      "id": "short-drama-multilingual-dubbing",
+      "name": "短剧多语言出海配音",
+      "nameEn": "Sound & Music",
+      "version": "1.0.1",
+      "description": "分离人声与背景音并逐句复刻音色和节奏，输出目标语言配音视频与字幕文件。",
+      "descriptionEn": "Re-localize video dialogue into natural dubbing in any target language.",
+      "author": "MiniMax Design",
+      "source": "official-featured",
+      "tags": {
+        "zh": [
+          "音频音乐 / 后期处理",
+          "创意实验 / 后期处理"
+        ],
+        "en": [
+          "Sound & Music / Post-production",
+          "Creative & Experimental / Post-production"
+        ]
+      },
+      "triggerWords": [
+        "short drama multilingual dubbing",
+        "localized dubbing",
+        "video dubbing localization",
+        "dialogue localization sheet",
+        "voice/background separation",
+        "audio replication dubbing",
+        "subtitle file dubbing",
+        "短剧多语言出海配音",
+        "本土化配音",
+        "多语言配音",
+        "人声分离",
+        "音频复刻",
+        "对话翻译配音"
+      ],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/short-drama-multilingual-dubbing/",
+      "fileCount": 2,
+      "bytes": 24106,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 21337,
+          "sha256": "db17d5cd51f4df05497f964482c700f733c638f5c19bbe752bd9e178b2bd117f"
+        },
+        {
+          "path": "meta.yaml",
+          "bytes": 2769,
+          "sha256": "3b17bad1fa4f2a9bef8ad9623572c8a3876964225a1207e19832762d0857d511"
+        }
+      ]
+    },
+    {
+      "id": "silkscreen-decorative-illustration-short",
+      "name": "丝印装饰插画风格短片",
+      "nameEn": "Creative & Experimental",
+      "version": "1.0.2",
+      "description": "将丝印装饰插画主题转成同步音效短片，并可追加同等时长的器乐BGM版，适合奢华叙事广告。",
+      "descriptionEn": "Turns a refined silkscreen-decorative illustration theme into a restrained TVC workflow that follows the user's language and adds clean SFX assembly plus an optional same-duration instrumental BGM version.",
+      "author": "MiniMax Design",
+      "source": "official-featured",
+      "tags": {
+        "zh": [
+          "创意实验 / 创作生成",
+          "商业广告 / 创作生成"
+        ],
+        "en": [
+          "Creative & Experimental / Creative Generation",
+          "Commercial Ad / Creative Generation"
+        ]
+      },
+      "triggerWords": [
+        "丝印装饰插画风格短片",
+        "丝巾插画短视频",
+        "奢侈品插画TVC",
+        "luxury scarf illustration",
+        "scarf-style TVC",
+        "Ligne Claire",
+        "叙事装饰插画短片"
+      ],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/silkscreen-decorative-illustration-short/",
+      "fileCount": 2,
+      "bytes": 16738,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 13613,
+          "sha256": "6d014a6eec54a931ea9ba9b998dc2d901241221f7159a57ab42972f94c0ed317"
+        },
+        {
+          "path": "meta.yaml",
+          "bytes": 3125,
+          "sha256": "87a83e4ec509636df875e92b04f5c9f5d53af036ff74df148bdc441a08996127"
+        }
+      ]
+    },
+    {
+      "id": "sitcom-story-video",
+      "name": "情景喜剧故事视频",
+      "nameEn": "Professional Film",
+      "version": "1.0.1",
+      "description": "把情景喜剧素材整理成含喜剧节拍、镜头提示词、连续性检查和成片后纯器乐 BGM 设计的短片制作包。",
+      "descriptionEn": "Turns sitcom premises, scripts, or references into continuity-safe shorts with comic beats, shot prompts, production QA, and optional post-final instrumental BGM design.",
+      "author": "MiniMax Design",
+      "source": "official-featured",
+      "tags": {
+        "zh": [
+          "专业影视 / 成片制作"
+        ],
+        "en": [
+          "Professional Film / Full Production"
+        ]
+      },
+      "triggerWords": [
+        "AI 情景喜剧",
+        "情景喜剧短片",
+        "喜剧短视频",
+        "搞笑剧情短片",
+        "sitcom short",
+        "comedy short",
+        "给成片配乐",
+        "加音效",
+        "声音设计",
+        "成片混音",
+        "罐头笑声",
+        "喜剧音效"
+      ],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/sitcom-story-video/",
+      "fileCount": 6,
+      "bytes": 47080,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 19047,
+          "sha256": "97dd1aa8c3f9ae63e1c535eb4f550a02f2f2a7b1d18e1e28782263c920ecb97d"
+        },
+        {
+          "path": "meta.yaml",
+          "bytes": 3464,
+          "sha256": "1124c11e6af7403658f672b3c89cc135c9a2e2d71359653d612c69392d4d3e9e"
+        },
+        {
+          "path": "references/choice-cards.md",
+          "bytes": 6172,
+          "sha256": "9eb2b88ea0b6238acefd3203c5ffc7b7c02cc4db6d7a68a990f30013fba095b8"
+        },
+        {
+          "path": "references/h3-full-reference.md",
+          "bytes": 9670,
+          "sha256": "3390e6e50003c2bcdb944e41745476d7840c870eb6039ba92dce11fb7d545cc8"
+        },
+        {
+          "path": "references/story-comedy.md",
+          "bytes": 3053,
+          "sha256": "83aebe070b66b3d468df36510d57a032c4f4b0944a99a0688a66e4f6d4f74c3e"
+        },
+        {
+          "path": "references/visual-style.md",
+          "bytes": 5674,
+          "sha256": "620cd4b5b939f703f23e683b994d1c9d6c294f42088786c8b87c84e6ffb373ef"
+        }
+      ]
+    },
+    {
+      "id": "skill-creator",
+      "name": "技能创建",
+      "nameEn": "Platform Tooling",
+      "version": "2.3.6",
+      "description": "创建双语可复用Skill",
+      "descriptionEn": "Create bilingual reusable skills",
+      "author": "MiniMax Design",
+      "source": "official",
+      "tags": {
+        "zh": [
+          "平台工具"
+        ],
+        "en": [
+          "Platform Tooling"
+        ]
+      },
+      "triggerWords": [
+        "创建技能",
+        "修改技能",
+        "保存为技能",
+        "把这个保存下来",
+        "变成技能",
+        "固化流程",
+        "记住这个做法",
+        "下次还想这样做",
+        "安装技能",
+        "下载技能",
+        "技能市场",
+        "管理技能",
+        "让这个流程可复用",
+        "更新技能",
+        "配置技能"
+      ],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/skill-creator/",
+      "fileCount": 7,
+      "bytes": 53581,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 20362,
+          "sha256": "a4362ddf480678710454c86beb93c21c08484f63bc6687f29fea419d0f8c2842"
+        },
+        {
+          "path": "meta.yaml",
+          "bytes": 2665,
+          "sha256": "1c0f13b3b20a624f44d5b1d67ec0372bcb4ed41445a00665ee7aa6e45d0d3f55"
+        },
+        {
+          "path": "references/NAMING.cn.md",
+          "bytes": 6108,
+          "sha256": "bfee2a137fa074c4dda739c30d42900d4d0d233c696ae8d8dbe6bef085c096d8"
+        },
+        {
+          "path": "references/NAMING.md",
+          "bytes": 6134,
+          "sha256": "d14c9132779a0d9b30aa6412b9a8fe031614edc6229fdca5ad9baf53c08f9732"
+        },
+        {
+          "path": "references/SKILL-TEMPLATE.md",
+          "bytes": 10430,
+          "sha256": "8b9268c3a85f18926d5fa3a41d6147e94069a4b9a8f0ba83da927bc7499d978f"
+        },
+        {
+          "path": "references/STRUCTURED-META-GOOD-CASES.cn.md",
+          "bytes": 3754,
+          "sha256": "abe074759b962cb522484ae6b949606486c072376a43614ccfc87728acc793f2"
+        },
+        {
+          "path": "references/STRUCTURED-META-GOOD-CASES.md",
+          "bytes": 4128,
+          "sha256": "760510dd2db15e64ca110197d8151a96cf582c108e463ee77915e9df4fd44def"
+        }
+      ]
+    },
+    {
+      "id": "skill-reviewer",
+      "name": "技能审查",
+      "nameEn": "Platform Tooling",
+      "version": "0.4.3",
+      "description": "审查Skill的质量与结构",
+      "descriptionEn": "Audit skill quality and structure",
+      "author": "MiniMax Design",
+      "source": "official",
+      "tags": {
+        "zh": [
+          "平台工具"
+        ],
+        "en": [
+          "Platform Tooling"
+        ]
+      },
+      "triggerWords": [],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/skill-reviewer/",
+      "fileCount": 2,
+      "bytes": 10323,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 8168,
+          "sha256": "5223ff92d26f92af6d99c3822fdcbf7cdc93083bed8d15ab42f22eae67aeb0cd"
+        },
+        {
+          "path": "meta.yaml",
+          "bytes": 2155,
+          "sha256": "914465cee8a41017f3c308c0dfe77e91769e445106f20461616b53f89b2dd3f3"
+        }
+      ]
+    },
+    {
+      "id": "stamp-photo-motion",
+      "name": "邮票照片动效",
+      "nameEn": "Animation",
+      "version": "1.0.3",
+      "description": "把照片重绘并合成邮票双风格画面，再以固定镜头生成保持边界的动画。",
+      "descriptionEn": "Restyles a photo, builds a split postage-stamp composite, and animates the scene with a fixed camera while preserving the frame and style boundary.",
+      "author": "Kido G",
+      "source": "community",
+      "tags": {
+        "zh": [
+          "动画 / 创作生成"
+        ],
+        "en": [
+          "Animation / Creative Generation"
+        ]
+      },
+      "triggerWords": [
+        "邮票框",
+        "双风格",
+        "画中画",
+        "韩式稚拙插画",
+        "扁平插画动效",
+        "postage stamp",
+        "dual style",
+        "picture-in-picture"
+      ],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/stamp-photo-motion/",
+      "fileCount": 2,
+      "bytes": 6363,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 3137,
+          "sha256": "b5dc6d4dfdf3ea328ff6f3514a544ab54b952ea559f5f64d3bda47797e0259d3"
+        },
+        {
+          "path": "meta.yaml",
+          "bytes": 3226,
+          "sha256": "6865e2d7044ae3988a4b068259e75200383594847f18c29eeb675aa8b9b57432"
+        }
+      ]
+    },
+    {
+      "id": "suspense-title-sequence-generator",
+      "name": "悬疑电影片头生成",
+      "nameEn": "Video",
+      "version": "1.0.1",
+      "description": "根据电影设定与参考素材锚定关键帧和英文署名，生成十五秒复古悬疑美学片头成片。",
+      "descriptionEn": "Anchors keyframes and credits to generate a suspense-aesthetic film opening.",
+      "author": "MiniMax Design",
+      "source": "official-featured",
+      "tags": {
+        "zh": [
+          "创意实验 / 创作生成"
+        ],
+        "en": [
+          "Creative & Experimental / Creative Generation"
+        ]
+      },
+      "triggerWords": [
+        "悬疑美学片头",
+        "电影片头",
+        "悬疑犯罪片头",
+        "复古动画片头",
+        "英文署名片头",
+        "title sequence",
+        "jazz noir trailer",
+        "suspense crime intro"
+      ],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/suspense-title-sequence-generator/",
+      "fileCount": 2,
+      "bytes": 39688,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 36924,
+          "sha256": "d8aeee7de26d4ede8047648fdf9871bd8e624271e5aed8a23a85e0ce2497d98d"
+        },
+        {
+          "path": "meta.yaml",
+          "bytes": 2764,
+          "sha256": "9076102d84bf179d0a52e2e7a7900da354541c97f3c8f19854943ac62f71db85"
+        }
+      ]
+    },
+    {
+      "id": "touchdesigner-workflow",
+      "name": "TouchDesigner 实时视觉与交互",
+      "nameEn": "Creative & Experimental / Creative Generation",
+      "version": "0.1.0",
+      "description": "将需求、参考或已有工程制作成可编辑的实时视觉与交互网络，分阶段检查效果并交付工程和所需媒体。",
+      "descriptionEn": "Turn briefs, references and existing projects into editable realtime visual and interactive networks, with staged previews, verified media and reusable project handoff.",
+      "author": "MiniMax Hub",
+      "source": "official",
+      "tags": {
+        "zh": [
+          "创意实验 / 创作生成",
+          "创意实验 / 后期处理"
+        ],
+        "en": [
+          "Creative & Experimental / Creative Generation",
+          "Creative & Experimental / Post-production"
+        ]
+      },
+      "triggerWords": [],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/touchdesigner-workflow/",
+      "fileCount": 10,
+      "bytes": 83908,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 11400,
+          "sha256": "7e7527b8ca9b232257730191815763ad98ca2af9fb365583863f2fb8ac53d7f5"
+        },
+        {
+          "path": "meta.yaml",
+          "bytes": 3119,
+          "sha256": "7553040f407819a90b237aa26e0a1ecea55376a13ab135affa2a9ee8c17636f3"
+        },
+        {
+          "path": "references/environment-readiness.md",
+          "bytes": 8796,
+          "sha256": "d7061872cee6e3b26b2a1ca1aa2404625e57cbd42a2390c30f41298f628176f9"
+        },
+        {
+          "path": "references/official-reference.md",
+          "bytes": 29732,
+          "sha256": "c16b33f65b9fb2acb3f17985ff11f4cf50a0fb5c4b9aa1f060fb311243ad9f5c"
+        },
+        {
+          "path": "scripts/prepare-connector.mjs",
+          "bytes": 6236,
+          "sha256": "55260fa0e6ded2f1b2d9224adbb0e7eef85499954f24589c6883609115d1fa11"
+        },
+        {
+          "path": "scripts/td-host.mjs",
+          "bytes": 8952,
+          "sha256": "47b3c7da8a10cbf69a79c30d84b2e8c4e30c7a3cee411827f320443be665772a"
+        },
+        {
+          "path": "tests/preparation-recovery.test.mjs",
+          "bytes": 2802,
+          "sha256": "742cbc899d1c4aecafd6b50f682e20730cd3eb55fbdeb5f4120b03696dda74f0"
+        },
+        {
+          "path": "tests/prepare-connector.test.mjs",
+          "bytes": 5151,
+          "sha256": "226539dc3a3bfd4f3f78086b80a92d3d6ccf46bd241ef09afdf66ee5d2154915"
+        },
+        {
+          "path": "tests/trigger-cases.md",
+          "bytes": 3857,
+          "sha256": "fbcdd2245772665a73dc737305ebd7c9f4e638f9512038f7401bf79ad2eac9d9"
+        },
+        {
+          "path": "tests/windows-host.test.mjs",
+          "bytes": 3863,
+          "sha256": "7bbe3d2515c65538fd49499ae03b8a6f64cb83b57058f7fca583c68ce2625762"
+        }
+      ]
+    },
+    {
+      "id": "transcript-broll-planner",
+      "name": "口播视频B-roll规划器",
+      "nameEn": "Professional Film",
+      "version": "1.0.2",
+      "description": "把口播逐字稿按语义拆成可审片的 B-roll 镜头方案，并在用户确认后生成已批准的视频素材。",
+      "descriptionEn": "Turns transcript-led narration into reviewable B-roll plans and approval-gated video shots for knowledge and talking-head edits.",
+      "author": "MiniMax Design",
+      "source": "official-featured",
+      "tags": {
+        "zh": [
+          "专业影视 / 成片制作"
+        ],
+        "en": [
+          "Professional Film / Full Production"
+        ]
+      },
+      "triggerWords": [
+        "B-roll 规划",
+        "B-roll 生成",
+        "逐字稿驱动副镜头",
+        "口播 B-roll",
+        "副镜头规划",
+        "副镜头生成"
+      ],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/transcript-broll-planner/",
+      "fileCount": 2,
+      "bytes": 9641,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 6265,
+          "sha256": "146122adc92999b5029c2a47959ff4858deb046c99c44c83bef1fb2e6bce5cd3"
+        },
+        {
+          "path": "meta.yaml",
+          "bytes": 3376,
+          "sha256": "9b93ac701356cdaeae66902f63e92a2a751eb2421a7c86949861bcf1d94e4b03"
+        }
+      ]
+    },
+    {
+      "id": "trendy-3d-ins-card",
+      "name": "潮流3D卡片",
+      "nameEn": "Animation",
+      "version": "1.0.3",
+      "description": "把照片变成极简社交框3D手办卡，确认后可延展为固定镜头互动动画短片。",
+      "descriptionEn": "Transforms a photo into a minimalist social-frame 3D figurine card and optionally extends the accepted card into an interactive animation.",
+      "author": "Kido G",
+      "source": "community",
+      "tags": {
+        "zh": [
+          "动画 / 创作生成"
+        ],
+        "en": [
+          "Animation / Creative Generation"
+        ]
+      },
+      "triggerWords": [
+        "潮流3D卡片",
+        "社交框界面3D人物",
+        "上传照片变3D潮玩",
+        "手指互动3D角色视频",
+        "social app 3D character card",
+        "photo-to-3D social UI"
+      ],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/trendy-3d-ins-card/",
+      "fileCount": 2,
+      "bytes": 15477,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 12383,
+          "sha256": "95997e0b4954f8453975e83263bf3769cf4c642d33187714c14c6c5e6597e930"
+        },
+        {
+          "path": "meta.yaml",
+          "bytes": 3094,
+          "sha256": "a48818ae164fdbbca6baaa5ae4911946b79f7c2d00c7ba49da9f0c186701620a"
+        }
+      ]
+    },
+    {
+      "id": "typography-product-tvc",
+      "name": "产品贴字动画TVC",
+      "nameEn": "Commercial Ad",
+      "version": "1.0.3",
+      "description": "以品牌参考图完成产品多视角、3×3分镜、分段视频与配乐成片，严格分步确认。",
+      "descriptionEn": "Turns brand references into product multi-view images, a 3×3 storyboard, approved video segments, and a matched final TVC through five confirmation gates.",
+      "author": "MiniMax Design",
+      "source": "official-featured",
+      "tags": {
+        "zh": [
+          "商业广告 / 创作生成"
+        ],
+        "en": [
+          "Commercial Ad / Creative Generation"
+        ]
+      },
+      "triggerWords": [
+        "typography product TVC",
+        "product hero film",
+        "spatial typography ad",
+        "产品贴字广告",
+        "产品TVC",
+        "品牌短片"
+      ],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/typography-product-tvc/",
+      "fileCount": 4,
+      "bytes": 102451,
+      "files": [
+        {
+          "path": "README.md",
+          "bytes": 12713,
+          "sha256": "59a6355398dbd07bab289eb2c94b719220ac50db35aabc8f5a736fb59980434b"
+        },
+        {
+          "path": "README_en.md",
+          "bytes": 13612,
+          "sha256": "4051d0a494a80597617dcb28256433583f7c5c6b4e97ca21a7650d27c4bb321b"
+        },
+        {
+          "path": "SKILL.md",
+          "bytes": 73063,
+          "sha256": "b4b9dd11c3095eb8638ee1eece63beb80669a25942b7ce77968214a1f68140cf"
+        },
+        {
+          "path": "meta.yaml",
+          "bytes": 3063,
+          "sha256": "58927254c28bc3ebf9978069db012c96f112be56fc42e30495a79875242efe59"
+        }
+      ]
+    },
+    {
+      "id": "ui-motion",
+      "name": "界面动效演示",
+      "nameEn": "Creative & Experimental / Full Production",
+      "version": "1.0.2",
+      "description": "基于真实品牌视觉制作界面动效、应用界面动画与产品演示视频的端到端入口",
+      "descriptionEn": "Turn real brand visuals into UI motion graphics, app interface animations, and SaaS product demo videos",
+      "author": "MiniMax Design",
+      "source": "official",
+      "tags": {
+        "zh": [
+          "创意实验 / 成片制作"
+        ],
+        "en": [
+          "Creative & Experimental / Full Production"
+        ]
+      },
+      "triggerWords": [
+        "UI动效",
+        "应用界面动画",
+        "SaaS首屏动画",
+        "产品界面演示",
+        "光标交互",
+        "数据面板动画"
+      ],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/ui-motion/",
+      "fileCount": 19,
+      "bytes": 101701,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 15923,
+          "sha256": "e2387bb30b4c6fb00027ee2bc21cf7cc35cba1ae2f6ecd5165a1045a51774c2c"
+        },
+        {
+          "path": "meta.yaml",
+          "bytes": 2666,
+          "sha256": "ed83a77590ece3f46910151086cdf47c27946f721fc1320049f0fff8f9ed537c"
+        },
+        {
+          "path": "references/brand-analysis.md",
+          "bytes": 5577,
+          "sha256": "53f83b78b744cd4b1b0fd4f5e0d8775e7b8507c781ca2753f9e01e6ed23e7df8"
+        },
+        {
+          "path": "references/common-adaptations.md",
+          "bytes": 5227,
+          "sha256": "2535e468949510025acdcafd1370c0d53677170d2665e3b9bf2c5067e3d70412"
+        },
+        {
+          "path": "references/custom-style.md",
+          "bytes": 4453,
+          "sha256": "2eace77ff6c60efcadd3299dcda27b78027467d667d6c4488ba8e66a6dc50285"
+        },
+        {
+          "path": "references/long-form.md",
+          "bytes": 4912,
+          "sha256": "dd9ba6bc5d8c2fa1f824d3c02bd0ea048327d351aae8bc75f5a18d6f2d81f017"
+        },
+        {
+          "path": "references/motion-prompt-writing.md",
+          "bytes": 11506,
+          "sha256": "8e068b2f471c1c29e3ac3ad86caa59bc5b908412110ce49c44b33c377aecf9f1"
+        },
+        {
+          "path": "references/qa-checklist.md",
+          "bytes": 5860,
+          "sha256": "4347e239bde86aa69db1416fac18a7aa58bcee2ed230a5569b261149dbe240b2"
+        },
+        {
+          "path": "references/storyboard-schema.md",
+          "bytes": 3585,
+          "sha256": "8e8293d7d24a645d0d0012a39915faedd037d7cfb0c105abaff97f9087249645"
+        },
+        {
+          "path": "references/style-matching.md",
+          "bytes": 4527,
+          "sha256": "4839070d14746974b9ed1eafbbd5f7d5011d603399a33b9a9722615828befb8a"
+        },
+        {
+          "path": "references/styles/A.md",
+          "bytes": 4067,
+          "sha256": "b8e93fcfcf6ee411ec11562d8b6ee414b915c3775678b528ff3e1e5609dcdb43"
+        },
+        {
+          "path": "references/styles/B.md",
+          "bytes": 3812,
+          "sha256": "68e20c9d83d83918d61b4415a17a7147b06022b043931e91185fde95aa2fd08b"
+        },
+        {
+          "path": "references/styles/C.md",
+          "bytes": 3898,
+          "sha256": "ec9e605121ff40afb908f683ab31e7c4e83907c837515872abbb0cabfa20e686"
+        },
+        {
+          "path": "references/styles/D.md",
+          "bytes": 3599,
+          "sha256": "92b0b3d039c844df180cc83f2402cc4de443474f58f6d2b17adcf32511032e42"
+        },
+        {
+          "path": "references/styles/E.md",
+          "bytes": 3854,
+          "sha256": "a0984a750e6c739d7ab087d4d05d42951275ffd1acfd9e6470cd6382ee3f5927"
+        },
+        {
+          "path": "references/styles/F.md",
+          "bytes": 3798,
+          "sha256": "b834fe4d56e1da3a9d67b62a42135243ee95af33892490ff297879d8199ebdb3"
+        },
+        {
+          "path": "references/styles/G.md",
+          "bytes": 4230,
+          "sha256": "1148c95020b9bc814bcbbfa275033add886f0c6defefaaaeed1e1822c098b690"
+        },
+        {
+          "path": "references/styles/H.md",
+          "bytes": 4578,
+          "sha256": "49b0ac793a149f302de5245225d2145dada80948f5e3e4ee2256663c22196bcb"
+        },
+        {
+          "path": "scripts/stitch.mjs",
+          "bytes": 5629,
+          "sha256": "d14bdc282f3ea00cb5094332111407e49d0090c3380751270d271132a6553f01"
+        }
+      ]
+    },
+    {
+      "id": "video-deconstruct",
+      "name": "视频拆解复刻",
+      "nameEn": "Creative & Experimental / Planning",
+      "version": "1.0.3",
+      "description": "逐镜拆解参考视频、关键帧或详细描述，编译为可复刻的最终视频提示词与编辑计划",
+      "descriptionEn": "Deconstruct reference videos shot by shot and compile verifiable evidence into a reproducible video prompt",
+      "author": "MiniMax Design",
+      "source": "official",
+      "tags": {
+        "zh": [
+          "创意实验 / 计划制定"
+        ],
+        "en": [
+          "Creative & Experimental / Planning"
+        ]
+      },
+      "triggerWords": [
+        "视频拆解",
+        "复刻这个视频",
+        "反推视频提示词",
+        "逐镜分析",
+        "视频提示词重建",
+        "保持结构重制"
+      ],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/video-deconstruct/",
+      "fileCount": 3,
+      "bytes": 11091,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 5711,
+          "sha256": "a3ad51e33d6cccb4088478a03d6c209fc3dbd87841825809f8da70480e085a1e"
+        },
+        {
+          "path": "meta.yaml",
+          "bytes": 2633,
+          "sha256": "91ef8a1c3bca3f9ca26bad77fb0f7461384199dd61fc980dc9c94c57e23fb278"
+        },
+        {
+          "path": "references/minimax-h3-multi-ref.md",
+          "bytes": 2747,
+          "sha256": "919838514dda31416576af6f8e6f1026f4ce971c7ee356232004f88b010e6f10"
+        }
+      ]
+    },
+    {
+      "id": "video-element-replacement",
+      "name": "视频元素替换",
+      "nameEn": "Creative & Experimental / Post-production",
+      "version": "1.0.0",
+      "description": "根据源视频和参考素材替换指定人物、背景、产品或道具，同时保持动作、镜头、节奏、连续性与声音策略。",
+      "descriptionEn": "Replace selected people, backgrounds, products, or props in a source video while preserving its motion, framing, continuity, timing, and chosen audio.",
+      "author": "MiniMax Design",
+      "source": "official-featured",
+      "tags": {
+        "zh": [
+          "创意实验 / 后期处理"
+        ],
+        "en": [
+          "Creative & Experimental / Post-production"
+        ]
+      },
+      "triggerWords": [
+        "替换万物",
+        "视频元素替换",
+        "视频换人",
+        "视频换背景",
+        "产品替换",
+        "物体替换",
+        "跨物种替换",
+        "H3视频编辑",
+        "视频重绘",
+        "video element replacement",
+        "replace everything in video"
+      ],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/video-element-replacement/",
+      "fileCount": 2,
+      "bytes": 17253,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 14072,
+          "sha256": "eda4c4684d4cce54e917eb4494a14942de8339c2a4362d3c72188900254f45ee"
+        },
+        {
+          "path": "meta.yaml",
+          "bytes": 3181,
+          "sha256": "5d8a8c47f37922c9a390aaed1c025a77fe8a616743239cedf8849c6aea11be07"
+        }
+      ]
+    },
+    {
+      "id": "voice-clone",
+      "name": "音色克隆",
+      "nameEn": "Audio Content / Audio Generation",
+      "version": "0.4.12",
+      "description": "根据已获授权的参考录音创建可复用音色，并完成合规和质量检查。",
+      "descriptionEn": "Create an authorized reusable voice from a reference recording with consent and quality checks.",
+      "author": "MiniMax Design",
+      "source": "official",
+      "tags": {
+        "zh": [
+          "音频音乐 / 创作生成"
+        ],
+        "en": [
+          "Sound & Music / Creative Generation"
+        ]
+      },
+      "triggerWords": [
+        "音色克隆",
+        "声音克隆",
+        "克隆音色",
+        "克隆声音",
+        "复刻音色",
+        "复刻声音"
+      ],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/voice-clone/",
+      "fileCount": 3,
+      "bytes": 15006,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 4775,
+          "sha256": "e0379cbcb7ca24f7b4b1b7e912b4db9182f3c262aa52b834ec8cb34d492801a9"
+        },
+        {
+          "path": "meta.yaml",
+          "bytes": 1925,
+          "sha256": "2c9f238092c95a2582bd9604ac9fcf8ba92baaac4047c2956db7394f9aed0829"
+        },
+        {
+          "path": "references/demo-texts.json",
+          "bytes": 8306,
+          "sha256": "a3bac466356d8000e23660cb45695334215c95eb5b4a20a3e7248d6aac23031e"
+        }
+      ]
+    },
+    {
+      "id": "vox-style-video-generator",
+      "name": "Vox风格科普动画",
+      "nameEn": "Education",
+      "version": "1.0.2",
+      "description": "根据主题或资料先做方案确认，再生成带旁白、字幕与拼贴动效的科普解释视频。",
+      "descriptionEn": "Turn a topic or report into an approved Vox-style collage explainer with narration, subtitles, and assembled motion.",
+      "author": "MiniMax Design",
+      "source": "official-featured",
+      "tags": {
+        "zh": [
+          "教育 / 创作生成",
+          "创意实验 / 创作生成"
+        ],
+        "en": [
+          "Education / Creative Generation",
+          "Creative & Experimental / Creative Generation"
+        ]
+      },
+      "triggerWords": [
+        "解释视频",
+        "Vox风格视频",
+        "科普视频",
+        "纪录短片",
+        "教育视频论文",
+        "自动化视频论文",
+        "one prompt to video",
+        "explainer video",
+        "Vox-style video",
+        "keyframe-to-animation"
+      ],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/vox-style-video-generator/",
+      "fileCount": 7,
+      "bytes": 36205,
+      "files": [
+        {
+          "path": "LICENSE",
+          "bytes": 1065,
+          "sha256": "0fcdd8bb116755037edd1f07f49ae2ebeeff49a14c7c8b5bc10aa8bce7b7a8fa"
+        },
+        {
+          "path": "README.md",
+          "bytes": 2924,
+          "sha256": "45c0e786431593661d98722f3cbf63da556431534f308edfa06de3e329459ca6"
+        },
+        {
+          "path": "SKILL.md",
+          "bytes": 12905,
+          "sha256": "c436b5f7c2c428f1cc8d2c1edd11ca96bf3307fe6d7bbe40b4b5b77be985193e"
+        },
+        {
+          "path": "meta.yaml",
+          "bytes": 3230,
+          "sha256": "7cc637928ff15ef92c41f3670e5e07b505651ebbcac6d25ff1f34edba44b64fb"
+        },
+        {
+          "path": "references/atlas-cloud-api.md",
+          "bytes": 4973,
+          "sha256": "74b4f09ad3076f45c942a6f987d319678e975e12ade28ca4346f2732a3edba3a"
+        },
+        {
+          "path": "references/ffmpeg-assembly.md",
+          "bytes": 5069,
+          "sha256": "b35a56b8e77309445bb4ffbe2dc6e74a8b2344e9a68b5dc48323ad48269adccd"
+        },
+        {
+          "path": "references/vox-style-guide.md",
+          "bytes": 6039,
+          "sha256": "67c4104a8a2869ee851e12d9b4d0fe2a41faa8df7a7c48271b97a27f8c26d6ad"
+        }
+      ],
+      "license": "见各技能目录内 LICENSE（如有）"
+    },
+    {
+      "id": "wes-anderson-style-short-film-generator",
+      "name": "韦斯·安德森美学短片生成器",
+      "nameEn": "Professional Film",
+      "version": "1.0.3",
+      "description": "将确认的故事与参考素材转成原创对称叙事短片，完成分镜、视频段、音频与合成。",
+      "descriptionEn": "Builds an original symmetry-led narrative short from a confirmed brief, references, storyboards, video segments, sound layers, and final assembly.",
+      "author": "MiniMax Design",
+      "source": "official-featured",
+      "tags": {
+        "zh": [
+          "专业影视 / 成片制作"
+        ],
+        "en": [
+          "Professional Film / Full Production"
+        ]
+      },
+      "triggerWords": [
+        "Wes Anderson",
+        "Wes Anderson-style",
+        "symmetric composition",
+        "storybook short film",
+        "retro palette",
+        "对称构图",
+        "复古童话感",
+        "韦斯安德森",
+        "韦斯安德森风格短片",
+        "短片生成"
+      ],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/wes-anderson-style-short-film-generator/",
+      "fileCount": 2,
+      "bytes": 10071,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 6757,
+          "sha256": "2bb20a68ab6e6047dd82073cff80870abf8a0141433b17a7d2ca49bc2175123e"
+        },
+        {
+          "path": "meta.yaml",
+          "bytes": 3314,
+          "sha256": "d49b7b95c405f962885a29aa1886b0a1bc36f755f1d6551f42fec91b58f4d15e"
+        }
+      ]
+    },
+    {
+      "id": "windows-xp-dialog-story",
+      "name": "Windows XP 弹窗视觉短剧",
+      "nameEn": "Professional Film",
+      "version": "1.0.1",
+      "description": "将复古 Windows XP 弹窗状态与角色动作编排成可读、递进且有结算的视觉叙事短剧。",
+      "descriptionEn": "Turn retro Windows XP dialog states and character actions into readable, escalating visual shorts with a clear resolution.",
+      "author": "山音",
+      "source": "community",
+      "tags": {
+        "zh": [
+          "专业影视 / 成片制作"
+        ],
+        "en": [
+          "Professional Film / Full Production"
+        ]
+      },
+      "triggerWords": [
+        "Windows XP dialog",
+        "XP popup video",
+        "popup animation",
+        "system dialog video",
+        "retro system UI video",
+        "Windows XP 弹窗视频",
+        "弹窗动画",
+        "系统弹窗玩法",
+        "弹窗叙事"
+      ],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/windows-xp-dialog-story/",
+      "fileCount": 2,
+      "bytes": 14019,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 10510,
+          "sha256": "a9d50c639e9be8dbeb783e4abda33fb88c000fd52e9d838a334208b79aab9659"
+        },
+        {
+          "path": "meta.yaml",
+          "bytes": 3509,
+          "sha256": "12c39ddfcb684d8e2bb77bcd219dcea5c6283d06c80862054ef3fe2b18e50838"
+        }
+      ]
+    },
+    {
+      "id": "wool-felt-story-short",
+      "name": "羊毛毡故事短片",
+      "nameEn": "Animation",
+      "version": "1.0.2",
+      "description": "将故事文案转为分阶段确认的羊毛毡短片，锁定画幅、图片与视频清晰度、旁白音色和非重叠音频时间轴，并交付独立成片。",
+      "descriptionEn": "Turns story copy into a gated wool-felt short with locked format and image/video resolution choices, non-overlapping narration and dialogue timing, reusable visual assets, validated shot audio, and separate final cuts.",
+      "author": "MiniMax Design",
+      "source": "official-featured",
+      "tags": {
+        "zh": [
+          "动画 / 创作生成",
+          "音频音乐 / 创作生成"
+        ],
+        "en": [
+          "Animation / Creative Generation",
+          "Sound & Music / Creative Generation"
+        ]
+      },
+      "triggerWords": [
+        "羊毛毡动画短片",
+        "羊毛毡故事短片",
+        "羊毛毡旁白视频",
+        "wool felt animation",
+        "felt story short",
+        "narrated felt video"
+      ],
+      "entry": "SKILL.md",
+      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/wool-felt-story-short/",
+      "fileCount": 2,
+      "bytes": 25341,
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 21603,
+          "sha256": "5f6ab65d6a4309ddd4b58c6416c664536181a02be5646bb994bf9989fff849f6"
+        },
+        {
+          "path": "meta.yaml",
+          "bytes": 3738,
+          "sha256": "3a344a209ce8a122e5e01adff90a4ae546692efd1b81820a99ce8dfaf352426e"
+        }
       ]
     }
   ]
