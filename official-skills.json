@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-09-17T12:18:36.920Z",
+  "updatedAt": "2026-09-22T17:28:25.153Z",
   "source": {
     "label": "MiniMax Hub",
     "note": "官方与社区作者技能，作者信息见各条目"
@@ -1300,52 +1300,6 @@
           "path": "references/h3-video-prompt-template.md",
           "bytes": 10331,
           "sha256": "7fac20c236de585d2f76e4fa01f9e74ced0a88a6d76d2b14c75ceac99607b9c2"
-        }
-      ]
-    },
-    {
-      "id": "control-in-app-browser",
-      "name": "控制内置浏览器",
-      "nameEn": "Platform Tooling",
-      "version": "0.1.0",
-      "description": "用内置浏览器打开、读取和操作真实网页，覆盖登录接管、外部副作用确认与结果验证的完整操作规范",
-      "descriptionEn": "Operate the in-app browser on real pages — navigate, read, click, fill, screenshot — with login takeover and side-effect confirmation",
-      "author": "MiniMax Design",
-      "source": "official",
-      "tags": {
-        "zh": [
-          "平台工具"
-        ],
-        "en": [
-          "Platform Tooling"
-        ]
-      },
-      "triggerWords": [
-        "内置浏览器",
-        "右侧浏览器",
-        "当前浏览器",
-        "浏览器操作",
-        "browser use",
-        "in-app browser",
-        "built-in browser",
-        "browser control",
-        "打开网页",
-        "操作网页"
-      ],
-      "entry": "SKILL.md",
-      "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/control-in-app-browser/",
-      "fileCount": 2,
-      "bytes": 17811,
-      "files": [
-        {
-          "path": "SKILL.md",
-          "bytes": 14815,
-          "sha256": "171416c97582cd7baeb803a644fb905b3c3976a3f9de3f9214033bf1cd8c47d8"
-        },
-        {
-          "path": "meta.yaml",
-          "bytes": 2996,
-          "sha256": "53ef740033c6ea000e9ff0e39e51b76d69594095af12431f0468942a3d7433d9"
         }
       ]
     },
