@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-09-22T17:28:25.153Z",
+  "updatedAt": "2026-09-22T18:00:01.089Z",
   "source": {
     "label": "MiniMax Hub",
     "note": "官方与社区作者技能，作者信息见各条目"
@@ -35,6 +35,33 @@
         "卡通短片",
         "口型安全"
       ],
+      "coverUrl": "https://cdn.hailuoai.com/hailuo-video-web/public_assets/96493a75-aa47-4163-9bf0-14ba3e0ee3fe.mp4",
+      "showcase": [
+        "https://cdn.hailuoai.com/hub-skill-market/showcase/2026-09-08/3d-animation-short-generator-01-20260908-1788854461283.mp4",
+        "https://cdn.hailuoai.com/hub-skill-market/showcase/2026-09-08/3d-animation-short-generator-02-20260908-1788854461283.mp4"
+      ],
+      "structuredInfo": {
+        "zh-CN": {
+          "summary": "将故事创意转化为风格统一、角色连贯的完整3D动画短片，并输出成片。",
+          "bestFor": [
+            "风格化3D",
+            "故事短片",
+            "角色动画"
+          ],
+          "howToUse": "提供剧本或故事创意，选择时长、画幅和美术风格后开始制作。",
+          "outputs": "角色场景设定、镜头表、分镜及完整3D动画视频。"
+        },
+        "en-US": {
+          "summary": "Turn a story idea into a unified, character-consistent 3D animated short and deliver the finished film.",
+          "bestFor": [
+            "Stylized 3D",
+            "Story Shorts",
+            "Character Animation"
+          ],
+          "howToUse": "Provide a script or story idea, then choose duration, framing, and visual style to begin.",
+          "outputs": "Character and scene designs, shot list, storyboard, and finished 3D animation video."
+        }
+      },
       "entry": "SKILL.md",
       "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/3d-animation-short-generator/",
       "fileCount": 7,
@@ -102,6 +129,32 @@
         "赛璐璐动画短片",
         "复古城市动画"
       ],
+      "coverUrl": "https://cdn.hailuoai.com/hailuo-video-web/public_assets/099c7370-3287-42d3-b463-d443e2442fea.gif",
+      "showcase": [
+        "https://cdn.hailuoai.com/hub-skill-market/showcase/2026-09-08/90s-cel-animation-city-pop-short-02-20260908-1788854461283.mp4"
+      ],
+      "structuredInfo": {
+        "zh-CN": {
+          "summary": "将剧情与视觉参考转化为角色场景连续、分段清晰并带City Pop声画设计的复古都市赛璐璐动画短片。",
+          "bestFor": [
+            "复古都市",
+            "赛璐璐动画",
+            "城市短片"
+          ],
+          "howToUse": "提供故事、人物场景参考与可选音频，确认时长、画幅、主导城市风格和时间轴。",
+          "outputs": "风格母版、角色场景资产、分段分镜、音效配乐及动画成片。"
+        },
+        "en-US": {
+          "summary": "Turn stories and visual references into a continuous retro urban cel-animation short with segmented storytelling and City Pop sound design.",
+          "bestFor": [
+            "Retro Cities",
+            "Cel Animation",
+            "Urban Shorts"
+          ],
+          "howToUse": "Provide the story, character and scene references, and optional audio, then confirm duration, framing, dominant city style, and timeline.",
+          "outputs": "A style master, character and scene assets, segment storyboards, sound design, music, and the finished animation."
+        }
+      },
       "entry": "SKILL.md",
       "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/90s-cel-animation-city-pop-short/",
       "fileCount": 2,
@@ -203,6 +256,28 @@
         "抽卡宣传",
         "活动PV"
       ],
+      "structuredInfo": {
+        "zh-CN": {
+          "summary": "把二次元角色与世界观素材编排成画风统一、节奏清晰的短篇游戏或漫画宣传PV。",
+          "bestFor": [
+            "游戏宣传",
+            "角色PV",
+            "二次元叙事"
+          ],
+          "howToUse": "提供角色立绘、场景或画风参考及宣传主题，先确认画风来源和核心卖点。",
+          "outputs": "角色与场景资产、语义分镜、完整宣传PV及发布检查结果。"
+        },
+        "en-US": {
+          "summary": "Shape anime characters and world-building references into a cohesive, clearly paced game or comic promotional PV.",
+          "bestFor": [
+            "Game Promotion",
+            "Character PVs",
+            "Anime Storytelling"
+          ],
+          "howToUse": "Provide character art, scene or style references, and the campaign theme, then confirm the style source and core message.",
+          "outputs": "Character and scene assets, semantic storyboards, a finished promo PV, and release checks."
+        }
+      },
       "entry": "SKILL.md",
       "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/anime-game-pv/",
       "fileCount": 5,
@@ -253,6 +328,29 @@
         ]
       },
       "triggerWords": [],
+      "coverUrl": "https://cdn.hailuoai.com/prod/2026-09-17-01/video/1789580017747785981-1789580017673.mp4",
+      "structuredInfo": {
+        "zh-CN": {
+          "summary": "将建筑和城市参考重建为可编辑空间，通过预演锁定飞行路径并生成风格连贯的建筑展示短片。",
+          "bestFor": [
+            "建筑展示",
+            "地标漫游",
+            "飞行运镜"
+          ],
+          "howToUse": "提供建筑名称、照片或平面图，先确认模型细节与飞行运镜预演。",
+          "outputs": "可编辑三维工程、高清预演、风格关键帧及飞行成片。"
+        },
+        "en-US": {
+          "summary": "Reconstruct architecture and city references as editable spaces, approve a flight path through previs, and create a stylistically coherent flythrough.",
+          "bestFor": [
+            "Architectural Showcases",
+            "Landmark Tours",
+            "Flying Cameras"
+          ],
+          "howToUse": "Provide a building name, photographs, or plans, then approve model details and the camera preview.",
+          "outputs": "Editable 3D project, high-resolution previs, style keyframes, and final flythrough video."
+        }
+      },
       "entry": "SKILL.md",
       "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/architecture-flythrough/",
       "fileCount": 20,
@@ -393,6 +491,29 @@
         "多角色配音",
         "小说朗读"
       ],
+      "coverUrl": "https://cdn.hailuoai.com/hailuo-video-web/public_assets/c9d8e5e2-1370-40b4-87da-dde20f536cb9.mp4",
+      "structuredInfo": {
+        "zh-CN": {
+          "summary": "将书籍文本整理为角色可辨、节奏自然的多角色有声书，并按章节组织连续音频交付。",
+          "bestFor": [
+            "有声书制作",
+            "多角色朗读",
+            "章节音频"
+          ],
+          "howToUse": "提供书籍文本和章节范围，先确认体裁、角色关系与朗读风格。",
+          "outputs": "角色音色表、朗读脚本、章节音频与连续性检查结果。"
+        },
+        "en-US": {
+          "summary": "Turn book text into a natural, character-distinct multi-voice audiobook organized for continuous chapter delivery.",
+          "bestFor": [
+            "Audiobook Production",
+            "Multi-voice Reading",
+            "Chapter Audio"
+          ],
+          "howToUse": "Provide the book text and chapter scope, then confirm genre, character relationships, and reading direction.",
+          "outputs": "Voice assignments, narration scripts, chapter audio, and continuity checks."
+        }
+      },
       "entry": "SKILL.md",
       "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/audiobook/",
       "fileCount": 29,
@@ -577,6 +698,29 @@
         "my liminal space",
         "liminal space"
       ],
+      "coverUrl": "https://cdn.hailuoai.com/hailuo-video-web/public_assets/53e0b9a9-7d41-403d-bd4f-8aa853c60660.mp4",
+      "structuredInfo": {
+        "zh-CN": {
+          "summary": "从人物、宠物、物体或场景参考推导专属后室梦核空间，形成可继续创作的沉浸式档案。",
+          "bestFor": [
+            "后室梦核",
+            "空间测试",
+            "沉浸创作"
+          ],
+          "howToUse": "提供一张主体参考图，先完成关于入口、重复、光线和保留元素的沉浸式选择。",
+          "outputs": "空间档案、配图方向、环境音乐建议与可选后室图像或视频。"
+        },
+        "en-US": {
+          "summary": "Derive a personalized Backrooms dreamcore space from a subject reference and package it as an immersive creative dossier.",
+          "bestFor": [
+            "Backrooms Dreamcore",
+            "Space Quizzes",
+            "Immersive Creation"
+          ],
+          "howToUse": "Provide one subject reference image, then answer immersive choices about entrance, repetition, light, and what remains.",
+          "outputs": "A space dossier, image direction, ambient-music suggestion, and optional Backrooms image or video."
+        }
+      },
       "entry": "SKILL.md",
       "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/backrooms-dreamcore/",
       "fileCount": 2,
@@ -612,6 +756,28 @@
         ]
       },
       "triggerWords": [],
+      "structuredInfo": {
+        "zh-CN": {
+          "summary": "将创作需求与参考素材转化为可编辑的Blender模型或动画，并交付经过验证的渲染预览。",
+          "bestFor": [
+            "三维建模",
+            "场景制作",
+            "动画渲染"
+          ],
+          "howToUse": "提供创作简报、参考素材或blend工程，先确认目标作品与静态或动态交付类型。",
+          "outputs": "可编辑blend工程、静态渲染图或完整可播放渲染视频。"
+        },
+        "en-US": {
+          "summary": "Turn creative briefs and references into editable Blender models or animation with verified rendered previews.",
+          "bestFor": [
+            "3D Modeling",
+            "Scene Building",
+            "Animation Rendering"
+          ],
+          "howToUse": "Provide a creative brief, references, or a blend project, then confirm the target work and static or dynamic delivery type.",
+          "outputs": "An editable blend project, a rendered still, or a complete playable rendered video."
+        }
+      },
       "entry": "SKILL.md",
       "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/blender-workflow/",
       "fileCount": 22,
@@ -759,6 +925,28 @@
         "剧情广告",
         "系列 Campaign"
       ],
+      "structuredInfo": {
+        "zh-CN": {
+          "summary": "把经核验的品牌事实、产品卖点与视觉资产制作成可发布的品牌广告或 TVC。",
+          "bestFor": [
+            "品牌广告",
+            "产品卖点",
+            "剧情 TVC 与系列 Campaign"
+          ],
+          "howToUse": "提供品牌事实、产品资产、授权信息、投放目标和时长，再确认创意路线与评审节点。",
+          "outputs": "TVC 简报、脚本、时间码分镜、连续性锚点、声音设计与最终广告片。"
+        },
+        "en-US": {
+          "summary": "Turn verified brand facts, product benefits, and visual assets into a publishable brand commercial or TVC.",
+          "bestFor": [
+            "Brand Advertising",
+            "Product Benefits",
+            "Narrative TVCs and Campaign Series"
+          ],
+          "howToUse": "Provide brand facts, product assets, permissions, placement goals, and duration, then confirm the creative route and review milestones.",
+          "outputs": "A TVC brief, script, timecoded storyboard, continuity anchors, sound design, and final commercial."
+        }
+      },
       "entry": "SKILL.md",
       "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/brand-ad/",
       "fileCount": 11,
@@ -848,6 +1036,32 @@
         "潮玩",
         "手办"
       ],
+      "coverUrl": "https://cdn.hailuoai.com/hailuo-video-web/public_assets/0d32c72b-1c15-4fbd-b8f6-2191d6d47f46.mp4",
+      "showcase": [
+        "https://cdn.hailuoai.com/hub-skill-market/showcase/2026-09-08/brand-ip-asset-package-design-01-20260908-1788854461283.mp4"
+      ],
+      "structuredInfo": {
+        "zh-CN": {
+          "summary": "将IP草稿或简报分步扩展为角色、表情、服装、海报和周边组成的可复用品牌资产包。",
+          "bestFor": [
+            "IP资产包",
+            "角色扩展",
+            "文创周边"
+          ],
+          "howToUse": "提供IP草稿、参考图或文字设想，先确认角色身份、资产范围和模块顺序。",
+          "outputs": "IP基础形象、表情包、服装与场景海报、周边设计及资产包清单。"
+        },
+        "en-US": {
+          "summary": "Expand an IP sketch or brief into a reusable brand asset package spanning character, expressions, outfits, posters, and merchandise.",
+          "bestFor": [
+            "IP Asset Packs",
+            "Character Extensions",
+            "Merchandise Design"
+          ],
+          "howToUse": "Provide an IP sketch, references, or written concept, then confirm identity, asset scope, and module order.",
+          "outputs": "A core IP character, expression pack, outfits and scene posters, merchandise designs, and an asset inventory."
+        }
+      },
       "entry": "SKILL.md",
       "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/brand-ip-asset-package-design/",
       "fileCount": 2,
@@ -894,6 +1108,33 @@
         "社交推广短片",
         "品牌广告短片"
       ],
+      "coverUrl": "https://cdn.hailuoai.com/pre/2026-08-13-19/video/1786620863948845933-1786620863940.mp4",
+      "showcase": [
+        "https://cdn.hailuoai.com/hub-skill-market/showcase/2026-09-08/brand-promo-video-generator-01-20260908-1788854461283.mp4",
+        "https://cdn.hailuoai.com/hub-skill-market/showcase/2026-09-08/brand-promo-video-generator-02-20260908-1788854461283.mp4"
+      ],
+      "structuredInfo": {
+        "zh-CN": {
+          "summary": "将品牌素材与推广目标转化为清晰可信、可展示传播的品牌宣传短片。",
+          "bestFor": [
+            "品牌发布",
+            "网站宣传",
+            "应用推广"
+          ],
+          "howToUse": "提供授权品牌素材和官网资料，确认时长、受众与推广重点。",
+          "outputs": "品牌事实清单、创意分镜、音画素材及宣传成片。"
+        },
+        "en-US": {
+          "summary": "Turn verified brand assets and promotion goals into a clear, credible, presentation-ready brand video.",
+          "bestFor": [
+            "Brand Launches",
+            "Website Promotion",
+            "App Promotion"
+          ],
+          "howToUse": "Provide authorized brand assets and official materials, then confirm duration, audience, and focus.",
+          "outputs": "Brand fact sheet, creative storyboard, audio-visual assets, and finished promo video."
+        }
+      },
       "entry": "SKILL.md",
       "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/brand-promo-video-generator/",
       "fileCount": 2,
@@ -944,6 +1185,32 @@
         "15s品牌片",
         "快节奏品牌片"
       ],
+      "coverUrl": "https://cdn.hailuoai.com/hailuo-video-web/public_assets/7afd893c-12a6-4a63-82da-b9b908b391b4.mp4",
+      "showcase": [
+        "https://cdn.hailuoai.com/hub-skill-market/showcase/2026-09-08/brand-stream-mg-01-20260908-1788854461283.mp4"
+      ],
+      "structuredInfo": {
+        "zh-CN": {
+          "summary": "从Logo与品牌主题提炼IP化视觉线索，生成流线、节点和品牌字形驱动的MG动效短片。",
+          "bestFor": [
+            "Logo动效",
+            "品牌MG",
+            "新品预热"
+          ],
+          "howToUse": "提供Logo、品牌名和主题词，先确认IP主角、卖点文字和流线运动方向。",
+          "outputs": "品牌视觉简报、IP与流线设定、动效提示词及品牌短片。"
+        },
+        "en-US": {
+          "summary": "Turn a logo and brand theme into an IP-led motion graphic built from flowing lines, nodes, and branded wordforms.",
+          "bestFor": [
+            "Logo Motion",
+            "Brand MG",
+            "Launch Teasers"
+          ],
+          "howToUse": "Provide the logo, brand name, and theme, then confirm the IP lead, selling-point text, and flow direction.",
+          "outputs": "A visual brief, IP and flow direction, motion prompts, and a brand short."
+        }
+      },
       "entry": "SKILL.md",
       "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/brand-stream-mg/",
       "fileCount": 2,
@@ -988,6 +1255,32 @@
         "本地 demo",
         "动作测试页"
       ],
+      "coverUrl": "https://cdn.hailuoai.com/hailuo-video-web/public_assets/60ce975d-7331-4650-b4ca-2b3c5c3ae4ac.mp4",
+      "showcase": [
+        "https://cdn.hailuoai.com/hub-skill-market/showcase/2026-09-08/browser-game-demo-maker-01-20260908-1788854461283.mp4"
+      ],
+      "structuredInfo": {
+        "zh-CN": {
+          "summary": "先制作保留完整浏览器外壳的游戏截图锚点，再生成只在画布内变化的连续浏览器游戏演示视频。",
+          "bestFor": [
+            "浏览器游戏",
+            "截图锚点",
+            "游戏演示"
+          ],
+          "howToUse": "提供本地游戏页面、角色参考、界面文案和动作顺序，先锁定浏览器窗口与截图契约。",
+          "outputs": "浏览器截图锚点、界面文案、动作时间线、匹配演示视频与独立交付素材。"
+        },
+        "en-US": {
+          "summary": "Create a browser-game screenshot anchor with the full browser shell, then animate only the canvas for a matching demo video.",
+          "bestFor": [
+            "Browser Games",
+            "Screenshot Anchors",
+            "Game Demos"
+          ],
+          "howToUse": "Provide the local game page, character reference, interface copy, and action order, then lock the browser frame and screenshot contract.",
+          "outputs": "A browser screenshot anchor, interface copy, action timeline, matching demo video, and separate delivery assets."
+        }
+      },
       "entry": "SKILL.md",
       "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/browser-game-demo-maker/",
       "fileCount": 5,
@@ -1049,6 +1342,29 @@
         "face anchor",
         "character sheet"
       ],
+      "coverUrl": "https://cdn.hailuoai.com/hailuo-video-web/public_assets/f63b818a-afb7-41c0-8415-0ad771192382.mp4",
+      "structuredInfo": {
+        "zh-CN": {
+          "summary": "通过候选人脸与完整造型确认建立独特角色身份，为后续影像提供可持续复用的角色资产。",
+          "bestFor": [
+            "角色开发",
+            "虚拟人物",
+            "造型设定"
+          ],
+          "howToUse": "提供角色简报和可选参考素材，先确认人脸方向与服装设计。",
+          "outputs": "角色身份设定、完整造型及正背面与人脸三栏资产表。"
+        },
+        "en-US": {
+          "summary": "Develop a distinctive character through face selection and complete look approval, producing reusable identity assets for later visual production.",
+          "bestFor": [
+            "Character Development",
+            "Virtual Characters",
+            "Costume Design"
+          ],
+          "howToUse": "Provide a character brief and optional references, then confirm the face and wardrobe direction.",
+          "outputs": "Character identity, approved full look, and a three-panel front, back, and face asset sheet."
+        }
+      },
       "entry": "SKILL.md",
       "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/character-identity-asset-studio/",
       "fileCount": 2,
@@ -1094,6 +1410,29 @@
         "水墨动画",
         "民族动画短片"
       ],
+      "coverUrl": "https://cdn.hailuoai.com/hailuo-video-web/public_assets/386b30a4-2b7e-4d98-bb94-d58246fcc62e.mp4",
+      "structuredInfo": {
+        "zh-CN": {
+          "summary": "以传统绘画与分层动画语言组织文化题材故事，保持人物与场景连贯并完成具有统一声音设计的短片。",
+          "bestFor": [
+            "文化故事",
+            "水墨动画",
+            "工笔动画"
+          ],
+          "howToUse": "提供文化题材创意或剧本，确认故事、美术方向、画幅与时长。",
+          "outputs": "角色场景设定、分镜与声音方案，以及完整动画短片。"
+        },
+        "en-US": {
+          "summary": "Shape culturally rooted stories with traditional painting and layered animation, maintaining character continuity and coherent sound through a complete short.",
+          "bestFor": [
+            "Cultural Stories",
+            "Ink Animation",
+            "Gongbi Animation"
+          ],
+          "howToUse": "Provide a cultural premise or script, then approve the story, art direction, framing, and duration.",
+          "outputs": "Character and scene designs, shot and sound plans, and a completed animated short."
+        }
+      },
       "entry": "SKILL.md",
       "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/chinese-traditional-animation-shortfilm/",
       "fileCount": 2,
@@ -1137,6 +1476,28 @@
         "剧集预告",
         "概念预告"
       ],
+      "structuredInfo": {
+        "zh-CN": {
+          "summary": "把影视设定、片名与准确署名编排成叙事连贯的电影片头或概念预告，并以文字落板收束。",
+          "bestFor": [
+            "影视片头",
+            "概念预告",
+            "片名字效"
+          ],
+          "howToUse": "提供片名、卡司、剧照或故事设定，先确认片头范围、文字内容和视觉方向。",
+          "outputs": "影片视觉方案、镜头与转场设计、文字系统、音乐及完整片头成片。"
+        },
+        "en-US": {
+          "summary": "Turn film context, titles, and verified credits into a coherent cinematic title sequence or concept teaser that resolves on-screen.",
+          "bestFor": [
+            "Title Sequences",
+            "Concept Teasers",
+            "Title Design"
+          ],
+          "howToUse": "Provide the title, credits, stills, or story setting, then confirm scope, exact text, and visual direction.",
+          "outputs": "A film treatment, shot and transition design, typography system, music, and finished title sequence."
+        }
+      },
       "entry": "SKILL.md",
       "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/cinematic-title-sequence/",
       "fileCount": 10,
@@ -1276,6 +1637,32 @@
         "玩家名",
         "游戏名"
       ],
+      "coverUrl": "https://cdn.hailuoai.com/pre/2026-08-13-19/video/1786620867045038554-1786620867039.mp4",
+      "showcase": [
+        "https://cdn.hailuoai.com/hub-skill-market/showcase/2026-09-08/co-op-game-intro-generator-01-20260908-1788854461283.mp4"
+      ],
+      "structuredInfo": {
+        "zh-CN": {
+          "summary": "根据双人玩家信息、角色参考和视觉风格制作先确认首图、再进入游戏世界的合作游戏开场动画。",
+          "bestFor": [
+            "双人游戏",
+            "菜单开场",
+            "角色联动"
+          ],
+          "howToUse": "提供两位玩家名称、游戏标题、风格和可选角色图，先确认菜单首图中的身份与布局。",
+          "outputs": "菜单确认图、玩家信息卡、时间线提示词及双人开场视频。"
+        },
+        "en-US": {
+          "summary": "Create a co-op game opening that uses player data, character references, and a confirmed menu image before entering the game world.",
+          "bestFor": [
+            "Co-op Games",
+            "Menu Openings",
+            "Character Pairing"
+          ],
+          "howToUse": "Provide two player names, the game title, style, and optional character art, then approve the identity and layout of the menu anchor.",
+          "outputs": "A menu anchor image, player cards, timeline prompts, and a two-player opening video."
+        }
+      },
       "entry": "SKILL.md",
       "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/co-op-game-intro-generator/",
       "fileCount": 4,
@@ -1328,6 +1715,28 @@
         "拼贴音乐视频",
         "十五秒MV"
       ],
+      "structuredInfo": {
+        "zh-CN": {
+          "summary": "把歌曲、表演者和潮流视觉方向编排成一条十五秒内连续、节奏驱动的音乐短片。",
+          "bestFor": [
+            "潮流音乐",
+            "说唱表演",
+            "节奏剪辑"
+          ],
+          "howToUse": "提供歌曲、表演者参考和视觉偏好，先确认片长、画幅、人物来源与表演路线。",
+          "outputs": "音乐结构分析、镜头设计、动态文字、长提示词与连续音乐短片。"
+        },
+        "en-US": {
+          "summary": "Arrange a song, performer, and trend-led visual direction into one continuous, rhythm-driven music short under fifteen seconds.",
+          "bestFor": [
+            "Trend Music",
+            "Rap Performance",
+            "Rhythmic Editing"
+          ],
+          "howToUse": "Provide the song, performer reference, and visual preference, then confirm duration, framing, character source, and performance route.",
+          "outputs": "Music structure analysis, shot design, kinetic type, a long prompt, and the finished music short."
+        }
+      },
       "entry": "SKILL.md",
       "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/cool-music-video/",
       "fileCount": 8,
@@ -1407,6 +1816,29 @@
         "九宫格分镜",
         "运动轨迹图"
       ],
+      "coverUrl": "https://cdn.hailuoai.com/hailuo-video-web/public_assets/500c4998-65ac-49a5-8518-dbbb18ce1138.mp4",
+      "structuredInfo": {
+        "zh-CN": {
+          "summary": "将动作、空间和镜头路径转成可检查的坐标化运镜分镜，帮助高速场面保持位置与运动逻辑。",
+          "bestFor": [
+            "坐标运镜",
+            "动作分镜",
+            "空间控制"
+          ],
+          "howToUse": "提供场景、主体动作和镜头意图，先确认画面边界、运动目标与撞击节点。",
+          "outputs": "运动轨迹图、黑白分镜、坐标提示词与可执行的运镜方案。"
+        },
+        "en-US": {
+          "summary": "Translate action, space, and camera paths into coordinate-based storyboards that preserve spatial and motion logic in fast scenes.",
+          "bestFor": [
+            "Coordinate Camera",
+            "Action Storyboards",
+            "Spatial Control"
+          ],
+          "howToUse": "Provide the scene, subject action, and camera intent, then confirm frame boundaries, motion targets, and impact points.",
+          "outputs": "A trajectory diagram, monochrome storyboard, coordinate prompts, and an executable camera plan."
+        }
+      },
       "entry": "SKILL.md",
       "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/coordinate-camera-control-designer/",
       "fileCount": 4,
@@ -1465,6 +1897,33 @@
         "配色方案",
         "文创产品"
       ],
+      "coverUrl": "https://cdn.hailuoai.com/hailuo-video-web/public_assets/1cacf030-34de-4470-ae8d-9cc3daed7e84.mp4",
+      "showcase": [
+        "https://cdn.hailuoai.com/hub-skill-market/showcase/2026-09-08/cultural-pattern-visual-system-generator-01-20260908-1788854461283.mp4",
+        "https://cdn.hailuoai.com/hub-skill-market/showcase/2026-09-08/cultural-pattern-visual-system-generator-02-20260908-1788854461283.mp4"
+      ],
+      "structuredInfo": {
+        "zh-CN": {
+          "summary": "从文化、建筑或民艺参考提取可复用纹样，并发展为配色、样机、包装、壁纸和动效视觉系统。",
+          "bestFor": [
+            "文化纹样",
+            "视觉系统",
+            "文创样机"
+          ],
+          "howToUse": "提供文化装饰参考和品牌主题，先确认纹样来源、母版提取范围与应用品类。",
+          "outputs": "纹样母版、连续纹样、配色方案、产品与包装样机、壁纸及动效资产。"
+        },
+        "en-US": {
+          "summary": "Extract reusable motifs from cultural, architectural, or craft references and develop them into a visual system with applications and motion.",
+          "bestFor": [
+            "Cultural Motifs",
+            "Visual Systems",
+            "Cultural Mockups"
+          ],
+          "howToUse": "Provide cultural ornament references and a brand theme, then confirm motif sources, master extraction scope, and application categories.",
+          "outputs": "Master motifs, repeating patterns, color systems, product and package mockups, wallpapers, and motion assets."
+        }
+      },
       "entry": "SKILL.md",
       "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/cultural-pattern-visual-system-generator/",
       "fileCount": 2,
@@ -1506,6 +1965,29 @@
         "预演视频风格化",
         "previs to cinematic"
       ],
+      "coverUrl": "https://cdn.hailuoai.com/prod/2026-09-17-01/video/1789580016787560755-1789580016754.mp4",
+      "structuredInfo": {
+        "zh-CN": {
+          "summary": "先用无声几何预演验证镜头与空间调度，再结合完整外观参考制作身份和视觉风格一致的短片。",
+          "bestFor": [
+            "镜头预演",
+            "空间调度",
+            "风格化短片"
+          ],
+          "howToUse": "提供故事、三维工程或现有预演，先确认分镜与所需外观参考。",
+          "outputs": "无声白模预演、可编辑工程、同步分镜提示词及成片。"
+        },
+        "en-US": {
+          "summary": "Validate camera work and spatial choreography with silent geometric previs, then use complete appearance references to create a consistent stylized film.",
+          "bestFor": [
+            "Shot Previs",
+            "Spatial Choreography",
+            "Stylized Films"
+          ],
+          "howToUse": "Provide a story, Blender project, or existing previs, then approve shots and required appearance references.",
+          "outputs": "Silent geometric previs, editable project, synchronized shot prompts, and a completed film."
+        }
+      },
       "entry": "SKILL.md",
       "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/deepwhite-blender-previs/",
       "fileCount": 3,
@@ -1548,6 +2030,28 @@
         ]
       },
       "triggerWords": [],
+      "structuredInfo": {
+        "zh-CN": {
+          "summary": "将设计素材与视频参考制作成结构清晰、可继续修改的After Effects动效工程，并交付渲染预览。",
+          "bestFor": [
+            "动效设计",
+            "片头包装",
+            "工程续改"
+          ],
+          "howToUse": "提供创作简报、设计素材、视频参考或AEP工程，先确认目标动效与修改边界。",
+          "outputs": "分版本AEP工程、依赖素材、渲染预览及修改说明。"
+        },
+        "en-US": {
+          "summary": "Turn design assets and video references into structured, editable After Effects motion projects with rendered previews.",
+          "bestFor": [
+            "Motion Design",
+            "Title Sequences",
+            "Project Revision"
+          ],
+          "howToUse": "Provide a brief, design assets, video references, or an AEP project, then confirm the target motion and editing boundaries.",
+          "outputs": "A versioned AEP project, dependencies, rendered previews, and revision notes."
+        }
+      },
       "entry": "SKILL.md",
       "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/design-after-effects/",
       "fileCount": 32,
@@ -1735,6 +2239,28 @@
         ]
       },
       "triggerWords": [],
+      "structuredInfo": {
+        "zh-CN": {
+          "summary": "将简报、照片与参考素材制作成结构清晰、可继续修改的分层Photoshop设计，并交付一致预览。",
+          "bestFor": [
+            "版式设计",
+            "照片精修",
+            "商品合成"
+          ],
+          "howToUse": "提供简报、照片、画布素材或PSD文档，先确认交付用途、源版本与需要编辑的元素。",
+          "outputs": "可编辑PSD或PSB文档、链接素材、导出预览及修改说明。"
+        },
+        "en-US": {
+          "summary": "Turn briefs, photos, and references into structured, editable layered Photoshop designs with matching previews.",
+          "bestFor": [
+            "Layout Design",
+            "Photo Retouching",
+            "Product Compositing"
+          ],
+          "howToUse": "Provide a brief, photos, canvas assets, or a PSD document, then confirm the delivery purpose, source version, and editable elements.",
+          "outputs": "An editable PSD or PSB document, linked assets, exported previews, and revision notes."
+        }
+      },
       "entry": "SKILL.md",
       "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/design-photoshop/",
       "fileCount": 15,
@@ -1843,6 +2369,32 @@
         "digital drawing timelapse",
         "speedpaint video"
       ],
+      "coverUrl": "https://cdn.hailuoai.com/hailuo-video-web/public_assets/4bdf5b99-2395-4063-8e3b-070d9e38ac66.gif",
+      "showcase": [
+        "https://cdn.hailuoai.com/hub-skill-market/showcase/2026-09-08/digital-drawing-timelapse-01-20260908-1788854461283.mp4"
+      ],
+      "structuredInfo": {
+        "zh-CN": {
+          "summary": "将一张数字绘画成品图转成连续的十五秒绘画过程延时视频，突出创作过程和画面还原。",
+          "bestFor": [
+            "数字绘画",
+            "延时摄影",
+            "插画展示"
+          ],
+          "howToUse": "提供一张成品图和过程提示词，先确认画幅、时长、清晰度与是否保留原提示。",
+          "outputs": "绘画过程提示、连续速涂视频与画面连贯性检查。"
+        },
+        "en-US": {
+          "summary": "Turn one finished digital artwork into a continuous fifteen-second drawing timelapse that showcases the making process and image fidelity.",
+          "bestFor": [
+            "Digital Drawing",
+            "Timelapse",
+            "Illustration Showcases"
+          ],
+          "howToUse": "Provide one finished image and a process prompt, then confirm framing, duration, clarity, and prompt preservation.",
+          "outputs": "Process direction, a continuous speed-painting video, and continuity checks."
+        }
+      },
       "entry": "SKILL.md",
       "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/digital-drawing-timelapse/",
       "fileCount": 2,
@@ -1887,6 +2439,32 @@
         "数字产品宣传片",
         "网页产品视频"
       ],
+      "coverUrl": "https://cdn.hailuoai.com/pre/2026-08-14-21/video/1786713897391782105-1786713897381.mp4",
+      "showcase": [
+        "https://cdn.hailuoai.com/hub-skill-market/showcase/2026-09-08/digital-product-promo-generator-01-20260908-1788854461283.mp4"
+      ],
+      "structuredInfo": {
+        "zh-CN": {
+          "summary": "把真实产品页面、前端项目或界面参考转成准确呈现功能、运镜、节奏和声音的产品宣传片。",
+          "bestFor": [
+            "产品演示",
+            "界面动效",
+            "发布短片"
+          ],
+          "howToUse": "提供网页、截图、录屏或前端项目及品牌资料，先确认功能重点、受众和交付规格。",
+          "outputs": "产品事实表、镜头与运镜方案、界面资产、声音设计及宣传片成片。"
+        },
+        "en-US": {
+          "summary": "Turn a real product page, frontend project, or interface reference into a product film that accurately presents features, camera movement, rhythm, and sound.",
+          "bestFor": [
+            "Product Demos",
+            "UI Motion",
+            "Launch Films"
+          ],
+          "howToUse": "Provide a webpage, screenshots, recording, or frontend project with brand context, then confirm the feature focus, audience, and delivery spec.",
+          "outputs": "A product fact sheet, shot and camera plan, interface assets, sound design, and finished promo."
+        }
+      },
       "entry": "SKILL.md",
       "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/digital-product-promo-generator/",
       "fileCount": 2,
@@ -1929,6 +2507,32 @@
         "标语品牌视频",
         "logo标语视频"
       ],
+      "coverUrl": "https://cdn.hailuoai.com/pre/2026-08-14-21/video/1786713895599854613-1786713895590.mp4",
+      "showcase": [
+        "https://cdn.hailuoai.com/hub-skill-market/showcase/2026-09-08/dot-matrix-brand-wordmark-motion-01-20260908-1788854461283.mp4"
+      ],
+      "structuredInfo": {
+        "zh-CN": {
+          "summary": "将品牌Logo、名称与标语转成文字准确、点阵风格统一的横版品牌图和短片动效。",
+          "bestFor": [
+            "点阵字形",
+            "Logo动效",
+            "品牌开场"
+          ],
+          "howToUse": "提供Logo或品牌视觉图及准确文字，先确认横版品牌图中的文字和点阵运动方向。",
+          "outputs": "横版品牌图、独立动效提示词、品牌文字映射与点阵动效视频。"
+        },
+        "en-US": {
+          "summary": "Transform a logo, brand name, and slogan into an accurate horizontal brand plate and a cohesive dot-matrix motion short.",
+          "bestFor": [
+            "Dot-matrix Type",
+            "Logo Motion",
+            "Brand Openers"
+          ],
+          "howToUse": "Provide the logo or brand visual with exact text, then confirm the wording and dot-matrix movement for the horizontal plate.",
+          "outputs": "A horizontal brand plate, standalone motion prompt, text mapping, and dot-matrix motion video."
+        }
+      },
       "entry": "SKILL.md",
       "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/dot-matrix-brand-wordmark-motion/",
       "fileCount": 3,
@@ -2105,6 +2709,28 @@
         "科普讲解",
         "课程逐字稿"
       ],
+      "structuredInfo": {
+        "zh-CN": {
+          "summary": "将主题、教材或课堂素材设计成学习路径、练习评量与可观看的教学内容，覆盖从方案到成片。",
+          "bestFor": [
+            "课程设计",
+            "知识讲解",
+            "教学视频"
+          ],
+          "howToUse": "提供学习对象、主题或教材素材，先确认学习目标、交付形式与评量需求。",
+          "outputs": "教学简报、学习路径、题组与答案、课件结构、旁白脚本及教学视频。"
+        },
+        "en-US": {
+          "summary": "Turn topics, teaching materials, or classroom inputs into learning paths, assessments, and watchable educational content from plan to delivery.",
+          "bestFor": [
+            "Course Design",
+            "Knowledge Explainers",
+            "Teaching Videos"
+          ],
+          "howToUse": "Provide the learners, topic, or teaching materials, then confirm learning goals, delivery form, and assessment needs.",
+          "outputs": "A teaching brief, learning path, exercises with answers, lesson structure, narration script, and educational video."
+        }
+      },
       "entry": "SKILL.md",
       "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/education-studio/",
       "fileCount": 5,
@@ -2164,6 +2790,32 @@
         "流程规划",
         "服装视频"
       ],
+      "coverUrl": "https://cdn.hailuoai.com/hailuo-video-web/public_assets/3683f35f-cda6-4a86-a3c5-64d06173ed69.mp4",
+      "showcase": [
+        "https://cdn.hailuoai.com/hub-skill-market/showcase/2026-09-08/fashion-scene-video-planner-01-20260908-1788854461283.mp4"
+      ],
+      "structuredInfo": {
+        "zh-CN": {
+          "summary": "将服装参考分阶段转成锁定规格、资产一致且具有场景叙事的时装展示视频。",
+          "bestFor": [
+            "服装展示",
+            "时装画册",
+            "场景造型"
+          ],
+          "howToUse": "提供服装照片或穿搭概念，先锁定画幅、时长、套装范围与展示目标。",
+          "outputs": "服装结构分析、模特与场景卡、六宫格分镜、配乐与时装成片。"
+        },
+        "en-US": {
+          "summary": "Turn garment references into a specification-locked fashion showcase with consistent assets and scene-led styling.",
+          "bestFor": [
+            "Fashion Showcases",
+            "Lookbooks",
+            "Styled Scenes"
+          ],
+          "howToUse": "Provide garment photos or a styling concept, then lock framing, duration, outfit scope, and showcase goal.",
+          "outputs": "Garment analysis, model and scene cards, a grid storyboard, music, and finished fashion videos."
+        }
+      },
       "entry": "SKILL.md",
       "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/fashion-scene-video-planner/",
       "fileCount": 2,
@@ -2207,6 +2859,29 @@
         "movie still prompt",
         "film-look translation"
       ],
+      "coverUrl": "https://cdn.hailuoai.com/hub-skill-market/covers/2026-09-09film-reference-prompt-writer-cover-51d39501.mp4",
+      "structuredInfo": {
+        "zh-CN": {
+          "summary": "从电影名称、剧照或截图建立证据层级，提炼可复用的视觉与镜头语言并写成执行提示词。",
+          "bestFor": [
+            "电影参考",
+            "视觉DNA",
+            "镜头提示词"
+          ],
+          "howToUse": "提供电影名称、剧照、截图或创作要求，先区分可见证据、资料确认、推断和用户指定内容。",
+          "outputs": "视觉语言分析、摄影与美术规则、图像或视频提示词及参考依据。"
+        },
+        "en-US": {
+          "summary": "Build an evidence hierarchy from film titles, stills, or screenshots, extract reusable visual and camera language, and write executable prompts.",
+          "bestFor": [
+            "Film References",
+            "Visual DNA",
+            "Camera Prompts"
+          ],
+          "howToUse": "Provide a film title, stills, screenshots, or a creative request, then separate visible evidence, verified facts, inference, and user direction.",
+          "outputs": "Visual-language analysis, cinematography and art rules, image or video prompts, and supporting evidence."
+        }
+      },
       "entry": "SKILL.md",
       "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/film-reference-prompt-writer/",
       "fileCount": 9,
@@ -2289,6 +2964,33 @@
         "一镜到底FPV",
         "建筑穿越"
       ],
+      "coverUrl": "https://cdn.hailuoai.com/pre/2026-08-14-21/video/1786713892104144460-1786713892097.mp4",
+      "showcase": [
+        "https://cdn.hailuoai.com/hub-skill-market/showcase/2026-09-08/fpv-tour-video-generator-01-20260908-1788854461283.mp4",
+        "https://cdn.hailuoai.com/hub-skill-market/showcase/2026-09-08/fpv-tour-video-generator-02-20260908-1788854461283.mp4"
+      ],
+      "structuredInfo": {
+        "zh-CN": {
+          "summary": "根据场景空间和主体参考规划沉浸式第一视角路线，生成连续自然的一镜到底FPV穿越视频。",
+          "bestFor": [
+            "FPV穿越",
+            "空间导览",
+            "一镜到底"
+          ],
+          "howToUse": "提供场景或主体参考与目标时长，先确认画幅、路线难度和第一视角体验。",
+          "outputs": "空间分析、轨迹分镜、运镜提示词、连续FPV视频与质量检查。"
+        },
+        "en-US": {
+          "summary": "Plan an immersive first-person route from spatial references and produce a continuous, natural one-take FPV tour video.",
+          "bestFor": [
+            "FPV Tours",
+            "Spatial Walkthroughs",
+            "One-take Shots"
+          ],
+          "howToUse": "Provide scene or subject references and target duration, then confirm framing, route difficulty, and first-person experience.",
+          "outputs": "Spatial analysis, trajectory storyboard, camera prompts, a continuous FPV video, and quality checks."
+        }
+      },
       "entry": "SKILL.md",
       "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/fpv-tour-video-generator/",
       "fileCount": 2,
@@ -2333,6 +3035,32 @@
         "深空探索短片",
         "future sci-fi cinematic generator"
       ],
+      "coverUrl": "https://cdn.hailuoai.com/hailuo-video-web/public_assets/47f97192-a363-4eba-be9a-331062e6450d.mp4",
+      "showcase": [
+        "https://cdn.hailuoai.com/hub-skill-market/showcase/2026-09-08/future-sci-fi-cinematic-generator-01-20260908-1788867276244.mp4"
+      ],
+      "structuredInfo": {
+        "zh-CN": {
+          "summary": "将未来科幻故事编排为人物、物种、道具和场景资产，再生成连续的写实影视短片。",
+          "bestFor": [
+            "未来科幻",
+            "写实短片",
+            "世界观资产"
+          ],
+          "howToUse": "提供科幻故事、角色设定或参考素材，先锁定创意简报、视觉质感与叙事范围。",
+          "outputs": "人物与场景锚点、道具资产、分镜、视频片段、音画合成与科幻短片。"
+        },
+        "en-US": {
+          "summary": "Turn a future science-fiction story into character, species, prop, and scene assets before producing a continuous live-action-style short.",
+          "bestFor": [
+            "Future Sci-fi",
+            "Live-action Shorts",
+            "World-building Assets"
+          ],
+          "howToUse": "Provide the sci-fi story, character direction, or references, then lock the brief, visual realism, and narrative scope.",
+          "outputs": "Character and scene anchors, prop assets, storyboard, video segments, audio-visual assembly, and the finished short."
+        }
+      },
       "entry": "SKILL.md",
       "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/future-sci-fi-cinematic-generator/",
       "fileCount": 2,
@@ -2376,6 +3104,28 @@
         "手绘实拍融合",
         "视频视觉包装"
       ],
+      "structuredInfo": {
+        "zh-CN": {
+          "summary": "根据单点创意选择动态字体、主体追踪或手绘实拍路线，输出适合继续制作的视觉方案。",
+          "bestFor": [
+            "动态字体",
+            "主体追踪",
+            "手绘融合"
+          ],
+          "howToUse": "提供视觉主题、主体素材和动效目标，先确认技法路线与主要画面锚点。",
+          "outputs": "路线判断、视觉提案、关键帧或提示词及对应的动态设计素材。"
+        },
+        "en-US": {
+          "summary": "Choose kinetic type, subject-tracking, or hand-drawn live-action treatment for a focused idea and prepare it for production.",
+          "bestFor": [
+            "Kinetic Type",
+            "Subject Tracking",
+            "Hand-drawn Fusion"
+          ],
+          "howToUse": "Provide the visual theme, subject assets, and motion goal, then confirm the technique and primary visual anchors.",
+          "outputs": "Route selection, visual direction, keyframes or prompts, and motion-design assets."
+        }
+      },
       "entry": "SKILL.md",
       "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/h3-visual-design/",
       "fileCount": 15,
@@ -2488,6 +3238,32 @@
         "赛璐珞短剧",
         "half-narrated 2D drama"
       ],
+      "coverUrl": "https://cdn.hailuoai.com/hailuo-video-web/public_assets/d58b3975-d059-4c5e-90e7-3d6431761ab7.mp4",
+      "showcase": [
+        "https://cdn.hailuoai.com/hub-skill-market/showcase/2026-09-08/half-narrated-2d-short-drama-01-20260908-1788867276244.mp4"
+      ],
+      "structuredInfo": {
+        "zh-CN": {
+          "summary": "将2D短剧剧本整理为旁白与对白双声道的分镜和素材包，便于用户继续剪辑成片。",
+          "bestFor": [
+            "2D漫剧",
+            "旁白对白",
+            "可剪辑素材"
+          ],
+          "howToUse": "提供故事或剧本、角色与画风参考，先锁定旁白窗口、对白窗口和单集规格。",
+          "outputs": "双通道脚本、角色与场景锚点、分镜、对白视频、旁白音频和剪辑包。"
+        },
+        "en-US": {
+          "summary": "Turn a 2D short-drama script into a storyboard and asset package with separate narration and dialogue channels for editing.",
+          "bestFor": [
+            "2D Manhua",
+            "Narration and Dialogue",
+            "Editable Assets"
+          ],
+          "howToUse": "Provide the story or script with character and style references, then lock narration windows, dialogue windows, and episode specs.",
+          "outputs": "A two-channel script, character and scene anchors, storyboard, dialogue video, narration audio, and an edit package."
+        }
+      },
       "entry": "SKILL.md",
       "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/half-narrated-2d-short-drama/",
       "fileCount": 12,
@@ -2589,6 +3365,32 @@
         "3D animated short drama",
         "manhua-style 3D"
       ],
+      "coverUrl": "https://cdn.hailuoai.com/hailuo-video-web/public_assets/3c465f19-ad82-4ee4-bc80-7532f52df93c.mp4",
+      "showcase": [
+        "https://cdn.hailuoai.com/hub-skill-market/showcase/2026-09-08/half-narrated-3d-short-drama-01-20260908-1788867276244.mp4"
+      ],
+      "structuredInfo": {
+        "zh-CN": {
+          "summary": "将故事或剧本整理成旁白推进、对白补充的连续3D漫剧制作包，支持后续剪辑与配音。",
+          "bestFor": [
+            "3D漫剧",
+            "半解说短剧",
+            "连续性制作"
+          ],
+          "howToUse": "提供故事或剧本、角色参考和类型偏好，先确认起始路径、画幅、时长与声音结构。",
+          "outputs": "角色场景资产、双通道脚本、分镜、对白视频、独立旁白音频与剪辑包。"
+        },
+        "en-US": {
+          "summary": "Turn a story or script into a continuous 3D manhua package driven by narration and supported by character dialogue for editing.",
+          "bestFor": [
+            "3D Manhua",
+            "Narrated Drama",
+            "Continuity Production"
+          ],
+          "howToUse": "Provide the story or script, character references, and genre preference, then confirm the start path, framing, duration, and sound structure.",
+          "outputs": "Character and scene assets, a two-channel script, storyboard, dialogue video, standalone narration audio, and an edit package."
+        }
+      },
       "entry": "SKILL.md",
       "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/half-narrated-3d-short-drama/",
       "fileCount": 12,
@@ -2684,6 +3486,32 @@
         "悬疑短剧",
         "narrated live-action short drama"
       ],
+      "coverUrl": "https://cdn.hailuoai.com/hailuo-video-web/public_assets/b5efbc58-d361-49b1-9381-2b20863831a4.mp4",
+      "showcase": [
+        "https://cdn.hailuoai.com/hub-skill-market/showcase/2026-09-08/half-narrated-live-action-short-drama-01-20260908-1788867276244.mp4"
+      ],
+      "structuredInfo": {
+        "zh-CN": {
+          "summary": "将短剧故事制作成旁白推进、角色对白补充且人物场景连续的真人短剧单集。",
+          "bestFor": [
+            "真人短剧",
+            "旁白叙事",
+            "连续镜头"
+          ],
+          "howToUse": "提供剧本或故事、角色设定和视觉参考，先确认单集规格、旁白比例与分辨率。",
+          "outputs": "真人角色与场景设定、双通道脚本、镜头表、视频片段与短剧成片。"
+        },
+        "en-US": {
+          "summary": "Turn a short-drama story into a continuous live-action episode driven by narration and supported by character dialogue.",
+          "bestFor": [
+            "Live-action Drama",
+            "Narrated Storytelling",
+            "Continuous Shots"
+          ],
+          "howToUse": "Provide the script or story, character direction, and visual references, then confirm episode specs, narration balance, and resolution.",
+          "outputs": "Live-action character and scene direction, a two-channel script, shot list, video segments, and finished episode."
+        }
+      },
       "entry": "SKILL.md",
       "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/half-narrated-live-action-short-drama/",
       "fileCount": 4,
@@ -2739,6 +3567,33 @@
         "蜡笔粉笔质感",
         "多语言视频提示词"
       ],
+      "coverUrl": "https://cdn.hailuoai.com/pre/2026-08-13-19/video/1786620873229141646-1786620873219.mp4",
+      "showcase": [
+        "https://cdn.hailuoai.com/hub-skill-market/showcase/2026-09-08/handdrawn-live-video-generator-01-20260908-1788854461283.mp4",
+        "https://cdn.hailuoai.com/hub-skill-market/showcase/2026-09-08/handdrawn-live-video-generator-02-20260908-1788854461283.mp4"
+      ],
+      "structuredInfo": {
+        "zh-CN": {
+          "summary": "将实拍场景与粗糙发光手绘动画融合为一支15秒创意短片，并输出成片。",
+          "bestFor": [
+            "手绘实拍融合",
+            "连续变形",
+            "生活感短片"
+          ],
+          "howToUse": "提供实拍场景和接触动作，确认情绪、风格与画幅后生成。",
+          "outputs": "手绘融合提示词、变形追拍节奏及可选15秒视频。"
+        },
+        "en-US": {
+          "summary": "Fuse a live-action scene with rough glowing hand-drawn animation into a creative 15-second short.",
+          "bestFor": [
+            "Live-action Drawing",
+            "Continuous Morphing",
+            "Lifestyle Shorts"
+          ],
+          "howToUse": "Provide a live-action scene and contact action, then confirm mood, style, and framing.",
+          "outputs": "Hand-drawn fusion prompts, morphing camera rhythm, and an optional 15-second video."
+        }
+      },
       "entry": "SKILL.md",
       "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/handdrawn-live-video-generator/",
       "fileCount": 2,
@@ -2785,6 +3640,32 @@
         "产品贴纸动画",
         "POP产品广告"
       ],
+      "coverUrl": "https://cdn.hailuoai.com/hailuo-video-web/public_assets/6f9c6da8-628e-424c-8367-480041835658.mp4",
+      "showcase": [
+        "https://cdn.hailuoai.com/hub-skill-market/showcase/2026-09-08/handdrawn-product-poster-motion-01-20260908-1788854461283.mp4"
+      ],
+      "structuredInfo": {
+        "zh-CN": {
+          "summary": "将小物产品图包装成真实摄影融合马克笔涂鸦的竖版POP海报，并延展为固定镜头制作动画。",
+          "bestFor": [
+            "手绘POP",
+            "小物广告",
+            "制作动画"
+          ],
+          "howToUse": "提供小物产品图和品牌或文案要求，先确认标题、贴纸策略、底部文字与画幅。",
+          "outputs": "产品海报、贴纸与文字排版、固定镜头提示词及制作动画。"
+        },
+        "en-US": {
+          "summary": "Turn a small product image into a vertical hand-drawn POP poster blending product photography with marker doodles, then animate its making.",
+          "bestFor": [
+            "Hand-drawn POP",
+            "Small Product Ads",
+            "Making-of Motion"
+          ],
+          "howToUse": "Provide the small-product image and brand or copy needs, then confirm title, sticker strategy, bottom text, and framing.",
+          "outputs": "A product poster, sticker and type layout, fixed-camera prompt, and making-of animation."
+        }
+      },
       "entry": "SKILL.md",
       "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/handdrawn-product-poster-motion/",
       "fileCount": 4,
@@ -2832,6 +3713,28 @@
         ]
       },
       "triggerWords": [],
+      "structuredInfo": {
+        "zh-CN": {
+          "summary": "将需求与参考素材转化为可编辑的Houdini程序化工程，兼顾项目分析、分阶段验证与后续修改。",
+          "bestFor": [
+            "程序化建模",
+            "特效模拟",
+            "工程分析"
+          ],
+          "howToUse": "提供创作需求、参考素材或HIP与HDA工程，先确认分析或制作目标及工程版本。",
+          "outputs": "可编辑HIP或HDA工程、所需导出文件及关联源工程的验证预览。"
+        },
+        "en-US": {
+          "summary": "Turn requirements and references into editable Houdini procedural projects with project analysis, staged verification, and revision support.",
+          "bestFor": [
+            "Procedural Modeling",
+            "Effects Simulation",
+            "Project Analysis"
+          ],
+          "howToUse": "Provide requirements, references, or a HIP or HDA project, then confirm the analysis or production goal and project version.",
+          "outputs": "An editable HIP or HDA project, requested exports, and verified previews linked to the source project."
+        }
+      },
       "entry": "SKILL.md",
       "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/houdini-workflow/",
       "fileCount": 35,
@@ -3089,6 +3992,29 @@
         "实景漫游",
         "建筑可视化"
       ],
+      "coverUrl": "https://cdn.hailuoai.com/hailuo-video-web/public_assets/b09d5f72-e900-45a1-84be-e4f46fc871d6.mp4",
+      "structuredInfo": {
+        "zh-CN": {
+          "summary": "将室内设计资料转化为可编辑空间与连续写实漫游，保留家具布置和空间动线以支持方案沟通。",
+          "bestFor": [
+            "室内设计",
+            "空间漫游",
+            "方案展示"
+          ],
+          "howToUse": "上传平面图、实景照片或现有工程，先确认空间布局和视觉方向。",
+          "outputs": "可编辑室内模型、建模渲染图及一镜到底写实漫游视频。"
+        },
+        "en-US": {
+          "summary": "Turn interior design materials into an editable space and continuous photoreal walkthrough that preserves furniture placement and circulation for design communication.",
+          "bestFor": [
+            "Interior Design",
+            "Spatial Walkthroughs",
+            "Design Presentations"
+          ],
+          "howToUse": "Upload plans, room photos, or an existing project, then confirm the layout and visual direction.",
+          "outputs": "Editable interior model, modeling renders, and a continuous photoreal walkthrough video."
+        }
+      },
       "entry": "SKILL.md",
       "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/interior-modeling-render/",
       "fileCount": 4,
@@ -3144,6 +4070,29 @@
         "toy figure grid",
         "motion poster"
       ],
+      "coverUrl": "https://cdn.hailuoai.com/hailuo-video-web/public_assets/59c62dd8-8b28-4b31-b559-99e717119928.mp4",
+      "structuredInfo": {
+        "zh-CN": {
+          "summary": "将IP角色制作成六宫格3D潮玩海报，并延展为保持格面和角色身份的竖版动态视频。",
+          "bestFor": [
+            "IP潮玩",
+            "六宫格海报",
+            "社媒动效"
+          ],
+          "howToUse": "提供角色图或IP设定，先确认六个格子的动作、道具、文字与整体画幅。",
+          "outputs": "六宫格静态海报、格面动效方案、3D潮玩短片与社媒交付素材。"
+        },
+        "en-US": {
+          "summary": "Turn an IP character into a six-panel 3D toy poster and extend it into a vertical motion piece that preserves identity and panel layout.",
+          "bestFor": [
+            "IP Toys",
+            "Six-panel Posters",
+            "Social Motion"
+          ],
+          "howToUse": "Provide the character image or IP direction, then confirm each panel’s action, prop, text, and overall framing.",
+          "outputs": "A six-panel still poster, panel-motion direction, 3D toy short, and social delivery assets."
+        }
+      },
       "entry": "SKILL.md",
       "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/ip-toy-grid-motion/",
       "fileCount": 5,
@@ -3203,6 +4152,28 @@
         "手部实测",
         "数字人视频"
       ],
+      "structuredInfo": {
+        "zh-CN": {
+          "summary": "将产品事实和目标受众转化为口播、测评、证言或无脸视角的原生社交种草视频。",
+          "bestFor": [
+            "KOC种草",
+            "产品测评",
+            "原生口播"
+          ],
+          "howToUse": "提供产品资料、受众、平台和可用素材，先确认内容路线与前三秒开场策略。",
+          "outputs": "产品事实表、脚本与镜头表、原生表达方案、视频素材及种草成片。"
+        },
+        "en-US": {
+          "summary": "Turn product facts and audience context into native social seeding videos across talking-head, review, testimonial, or faceless formats.",
+          "bestFor": [
+            "KOC Seeding",
+            "Product Reviews",
+            "Native Talking-head"
+          ],
+          "howToUse": "Provide product information, audience, platform, and available assets, then choose the format and opening strategy.",
+          "outputs": "A product fact sheet, script and shot list, native delivery direction, video assets, and the finished seeding video."
+        }
+      },
       "entry": "SKILL.md",
       "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/koc-video/",
       "fileCount": 7,
@@ -3277,6 +4248,32 @@
         "科普视频",
         "制作方案"
       ],
+      "coverUrl": "https://cdn.hailuoai.com/hailuo-video-web/public_assets/2990c6db-3f34-468d-a03c-47dbb9efd89d.mp4",
+      "showcase": [
+        "https://cdn.hailuoai.com/hub-skill-market/showcase/2026-09-08/line-doodle-explainer-generator-01-20260908-1788854461283.mp4"
+      ],
+      "structuredInfo": {
+        "zh-CN": {
+          "summary": "将知识主题或教材转化为线条小人讲解方案，按确认节点完成可理解、可观看的科普视频。",
+          "bestFor": [
+            "知识讲解",
+            "线条动画",
+            "科普短视频"
+          ],
+          "howToUse": "提供主题、教材或讲解稿，先确认学习目标、受众、画幅与分步制作范围。",
+          "outputs": "讲解结构、视觉隐喻、分镜方案、线条动画素材、旁白字幕与科普视频。"
+        },
+        "en-US": {
+          "summary": "Turn a knowledge topic or teaching material into an understandable line-doodle explainer through confirmed production stages.",
+          "bestFor": [
+            "Knowledge Explainers",
+            "Line Animation",
+            "Science Shorts"
+          ],
+          "howToUse": "Provide the topic, teaching material, or narration, then confirm learning goals, audience, framing, and production scope.",
+          "outputs": "An explanation structure, visual metaphors, storyboard, line-animation assets, narration and subtitles, and the explainer video."
+        }
+      },
       "entry": "SKILL.md",
       "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/line-doodle-explainer-generator/",
       "fileCount": 6,
@@ -3344,6 +4341,32 @@
         "横屏30s",
         "背景音乐"
       ],
+      "coverUrl": "https://cdn.hailuoai.com/pre/2026-08-13-19/video/1786620871400679467-1786620871394.mp4",
+      "showcase": [
+        "https://cdn.hailuoai.com/hub-skill-market/showcase/2026-09-08/lip-product-ad-generator-01-20260908-1788854461283.mov"
+      ],
+      "structuredInfo": {
+        "zh-CN": {
+          "summary": "将唇部产品与品牌需求编排为横屏彩妆TVC，先锁定模特、静物和脚本，再完成自然互动成片。",
+          "bestFor": [
+            "彩妆TVC",
+            "唇部产品",
+            "产品互动"
+          ],
+          "howToUse": "提供唇部产品图、品牌要求和可选模特方向，先确认产品身份、画幅与叙事重点。",
+          "outputs": "模特图、产品静物图、脚本、镜头计划、视频片段与彩妆广告成片。"
+        },
+        "en-US": {
+          "summary": "Shape a lip product and brand brief into a horizontal beauty TVC by locking the model, still life, and script before production.",
+          "bestFor": [
+            "Beauty TVCs",
+            "Lip Products",
+            "Product Interaction"
+          ],
+          "howToUse": "Provide product images, brand requirements, and optional model direction, then confirm product identity, framing, and narrative focus.",
+          "outputs": "A model image, product still life, script, shot plan, video segments, and finished beauty ad."
+        }
+      },
       "entry": "SKILL.md",
       "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/lip-product-ad-generator/",
       "fileCount": 2,
@@ -3389,6 +4412,32 @@
         "photo-to-sketch-motion",
         "doodle motion"
       ],
+      "coverUrl": "https://cdn.hailuoai.com/hailuo-video-web/public_assets/51170a8f-eb5d-4285-b0fe-3922c6577959.mp4",
+      "showcase": [
+        "https://cdn.hailuoai.com/hub-skill-market/showcase/2026-09-08/live-sketch-motion-01-20260908-1788854461283.mp4"
+      ],
+      "structuredInfo": {
+        "zh-CN": {
+          "summary": "让真实照片先保留空间与生命感自然运动，再由笔触显影主体，形成实景与手绘叠合的短片。",
+          "bestFor": [
+            "照片动效",
+            "手绘显影",
+            "实景融合"
+          ],
+          "howToUse": "提供实景照片和需要显影的主体，先确认运动范围、笔触层级与遮挡关系。",
+          "outputs": "实景运动方案、手绘层结构、显影提示词与手绘融合短片。"
+        },
+        "en-US": {
+          "summary": "Animate a real photo while preserving its space and life, then reveal the moving subject through a hand-drawn layer.",
+          "bestFor": [
+            "Photo Motion",
+            "Sketch Reveal",
+            "Live-action Fusion"
+          ],
+          "howToUse": "Provide the scene photo and subject to reveal, then confirm motion range, sketch layers, and occlusion relationships.",
+          "outputs": "A live-action motion plan, sketch-layer structure, reveal prompts, and the fused short."
+        }
+      },
       "entry": "SKILL.md",
       "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/live-sketch-motion/",
       "fileCount": 2,
@@ -3436,6 +4485,32 @@
         "立体logo",
         "创意材质动效"
       ],
+      "coverUrl": "https://cdn.hailuoai.com/hailuo-video-web/public_assets/033fd37b-8953-4928-9d93-69c22da8e43d.mp4",
+      "showcase": [
+        "https://cdn.hailuoai.com/hub-skill-market/showcase/2026-09-08/logo-creative-material-motion-lab-01-20260908-1788854461283.mp4"
+      ],
+      "structuredInfo": {
+        "zh-CN": {
+          "summary": "从Logo与参考图生成三维材质基底和三条差异化动效方向，再输出横竖版品牌短视频。",
+          "bestFor": [
+            "Logo材质",
+            "品牌动效",
+            "TVC切条"
+          ],
+          "howToUse": "提供Logo、品牌名、品牌调性和参考图，先确认每组Logo与参考的对应关系及材质方向。",
+          "outputs": "3D Logo基底、三种材质方案、横竖版提示词与六条品牌动效视频。"
+        },
+        "en-US": {
+          "summary": "Create 3D logo material bases and three distinct motion directions from a logo and references, then deliver horizontal and vertical brand shorts.",
+          "bestFor": [
+            "Logo Materials",
+            "Brand Motion",
+            "TVC Cutdowns"
+          ],
+          "howToUse": "Provide the logo, brand name, tone, and references, then confirm each logo-reference pairing and material direction.",
+          "outputs": "3D logo bases, three material directions, horizontal and vertical prompts, and six brand motion videos."
+        }
+      },
       "entry": "SKILL.md",
       "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/logo-creative-material-motion-lab/",
       "fileCount": 2,
@@ -3483,6 +4558,32 @@
         "表面生长",
         "墨迹扩散"
       ],
+      "coverUrl": "https://cdn.hailuoai.com/hailuo-video-web/public_assets/3052949b-b42f-42bb-8d39-0380855b300b.mp4",
+      "showcase": [
+        "https://cdn.hailuoai.com/hub-skill-market/showcase/2026-09-08/material-propagation-poster-01-20260908-1788854461283.mp4"
+      ],
+      "structuredInfo": {
+        "zh-CN": {
+          "summary": "将主体视觉中的材质蔓延路径、保护区域和循环节奏设计成可控的动态海报及社媒变体。",
+          "bestFor": [
+            "材质蔓延",
+            "动态海报",
+            "版式保护"
+          ],
+          "howToUse": "提供主体图或海报和材质参考，先确认视觉锚点、传播起点、停止规则与循环方式。",
+          "outputs": "关键画面、蔓延路径、动态海报提示词、社媒比例变体与交付说明。"
+        },
+        "en-US": {
+          "summary": "Design a controllable motion poster from a subject visual by specifying material spread, protected areas, timing, and looping variants.",
+          "bestFor": [
+            "Material Spread",
+            "Motion Posters",
+            "Layout Protection"
+          ],
+          "howToUse": "Provide the subject visual or poster and texture reference, then confirm anchors, start point, stop rule, and loop behavior.",
+          "outputs": "Keyframes, spread path, motion-poster prompts, social-ratio variants, and delivery notes."
+        }
+      },
       "entry": "SKILL.md",
       "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/material-propagation-poster/",
       "fileCount": 7,
@@ -3551,6 +4652,33 @@
         "含泪强撑",
         "爱而不得"
       ],
+      "coverUrl": "https://cdn.hailuoai.com/pre/2026-08-14-21/video/1786713874745782855-1786713874739.mp4",
+      "showcase": [
+        "https://cdn.hailuoai.com/hub-skill-market/showcase/2026-09-08/micro-expression-video-generator-01-20260908-1788854461283.mp4",
+        "https://cdn.hailuoai.com/hub-skill-market/showcase/2026-09-08/micro-expression-video-generator-02-20260908-1788854461283.mp4"
+      ],
+      "structuredInfo": {
+        "zh-CN": {
+          "summary": "将角色图、剧本或情绪短语转化为细腻可信、可执行的微表情指导。",
+          "bestFor": [
+            "细腻角色演技",
+            "情绪转折",
+            "含蓄对白表演"
+          ],
+          "howToUse": "提供角色图或剧本，补充镜头时长和表演强度后开始设计。",
+          "outputs": "分时表演提示词、动作细节、连续性约束及表演片段。"
+        },
+        "en-US": {
+          "summary": "Turn a character image, script, or emotion phrase into subtle, believable, executable micro-expression direction.",
+          "bestFor": [
+            "Subtle Acting",
+            "Emotional Turns",
+            "Understated Dialogue"
+          ],
+          "howToUse": "Provide a character image or script, then specify shot duration and performance intensity.",
+          "outputs": "Timed acting prompts, movement details, continuity constraints, and performance clips."
+        }
+      },
       "entry": "SKILL.md",
       "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/micro-expression-video-generator/",
       "fileCount": 9,
@@ -3638,6 +4766,29 @@
         "手上出现物品",
         "戴上参考物品"
       ],
+      "coverUrl": "https://cdn.hailuoai.com/hailuo-video-web/public_assets/9a9f6ff7-1ae4-457a-b1b6-968889d017d2.mp4",
+      "structuredInfo": {
+        "zh-CN": {
+          "summary": "将参考物品自然加入无实物表演视频，同时保护人物、场景、镜头和动作的原有连续性。",
+          "bestFor": [
+            "物品置入",
+            "视频编辑",
+            "产品佩戴"
+          ],
+          "howToUse": "提供表演源视频、物品参考图和目标身体部位，先检查可见性、动作和透视可行性。",
+          "outputs": "源视频分析、物品锚点、编辑简报、增强视频与连续性复核。"
+        },
+        "en-US": {
+          "summary": "Naturally add a reference object to a prop-free performance video while protecting the original person, scene, camera, and action continuity.",
+          "bestFor": [
+            "Object Insertion",
+            "Video Editing",
+            "Wearable Products"
+          ],
+          "howToUse": "Provide the performance video, object references, and target body location, then check visibility, action, and perspective feasibility.",
+          "outputs": "Source analysis, object anchors, edit brief, enhanced video, and continuity review."
+        }
+      },
       "entry": "SKILL.md",
       "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/mime-object-video/",
       "fileCount": 2,
@@ -3684,6 +4835,34 @@
         "新品发布广告",
         "苹果风产品广告"
       ],
+      "coverUrl": "https://cdn.hailuoai.com/pre/2026-08-13-19/video/1786620876704323439-1786620876698.mp4",
+      "showcase": [
+        "https://cdn.hailuoai.com/hub-skill-market/showcase/2026-09-08/minimalist-product-ad-generator-01-20260908-1788854461283.mp4",
+        "https://cdn.hailuoai.com/hub-skill-market/showcase/2026-09-08/minimalist-product-ad-generator-02-20260908-1788854461283.mp4",
+        "https://cdn.hailuoai.com/hub-skill-market/showcase/2026-09-08/minimalist-product-ad-generator-03-20260908-1788854461283.mp4"
+      ],
+      "structuredInfo": {
+        "zh-CN": {
+          "summary": "将产品图片与广告需求转化为保持产品身份的极简高级广告短片，并输出成片。",
+          "bestFor": [
+            "电商产品",
+            "新品发布",
+            "极简产品广告"
+          ],
+          "howToUse": "上传产品图，选择款式、时长、画幅、模板和文案方式。",
+          "outputs": "卖点文案、产品锚定图、节拍分镜及广告成片。"
+        },
+        "en-US": {
+          "summary": "Turn product images and advertising requirements into a premium minimalist commercial that preserves product identity.",
+          "bestFor": [
+            "E-commerce Products",
+            "Product Launches",
+            "Minimalist Ads"
+          ],
+          "howToUse": "Upload product images, then choose the look, duration, framing, template, and copy approach.",
+          "outputs": "Selling-point copy, product anchor images, beat-synced storyboard, and finished ad."
+        }
+      },
       "entry": "SKILL.md",
       "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/minimalist-product-ad-generator/",
       "fileCount": 2,
@@ -3730,6 +4909,29 @@
         "森林飞行",
         "成长动画"
       ],
+      "coverUrl": "https://cdn.hailuoai.com/hailuo-video-web/public_assets/86ff64fd-7827-4f0a-afc2-c5e1d3b601d1.mp4",
+      "structuredInfo": {
+        "zh-CN": {
+          "summary": "用温暖手绘线条、水彩环境与自然动作呈现原创故事，贯通视觉资产、镜头制作与成片验收。",
+          "bestFor": [
+            "手绘短片",
+            "日常温情",
+            "原创奇幻"
+          ],
+          "howToUse": "提供故事创意或参考素材，确认叙事方向、声音、画幅与片长。",
+          "outputs": "原创角色与场景资产、分镜计划及完整手绘动画短片。"
+        },
+        "en-US": {
+          "summary": "Tell an original story with warm hand-drawn lines, watercolor environments, and natural motion through approved assets, shot production, and final review.",
+          "bestFor": [
+            "Hand-drawn Shorts",
+            "Everyday Tenderness",
+            "Original Fantasy"
+          ],
+          "howToUse": "Provide a story idea or references, then confirm narrative direction, sound, framing, and runtime.",
+          "outputs": "Original character and environment assets, shot plans, and a complete hand-drawn animated short."
+        }
+      },
       "entry": "SKILL.md",
       "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/miyazaki-inspired-animation/",
       "fileCount": 2,
@@ -3785,6 +4987,29 @@
         "卡点MV",
         "多镜头拼接"
       ],
+      "coverUrl": "https://cdn.hailuoai.com/pre/2026-08-13-19/video/1786620878530922185-1786620878522.mp4",
+      "structuredInfo": {
+        "zh-CN": {
+          "summary": "将音乐与歌词转化为节奏同步、带空间字幕的完整风格化MV，并输出成片。",
+          "bestFor": [
+            "歌词MV",
+            "节拍卡点",
+            "音乐视觉短片"
+          ],
+          "howToUse": "提供音乐、歌词和参考素材，确认时长、音乐窗口与画幅。",
+          "outputs": "MV创意、节拍时间轴、分镜提示词及歌词文字方案。"
+        },
+        "en-US": {
+          "summary": "Turn music and lyrics into a rhythm-synced stylized MV with spatial subtitles and deliver the finished piece.",
+          "bestFor": [
+            "Lyric MVs",
+            "Beat Sync",
+            "Music Visuals"
+          ],
+          "howToUse": "Provide music, lyrics, and references, then confirm duration, music window, and framing.",
+          "outputs": "MV concept, beat timeline, shot prompts, and lyric typography plan."
+        }
+      },
       "entry": "SKILL.md",
       "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/music-video-subtitle-generator/",
       "fileCount": 2,
@@ -3830,6 +5055,33 @@
         "早期三维游戏截图",
         "失败低模"
       ],
+      "coverUrl": "https://cdn.hailuoai.com/pre/2026-08-18-17/video/1787046735278572549-1787046735272.mp4",
+      "showcase": [
+        "https://cdn.hailuoai.com/hub-skill-market/showcase/2026-09-08/niulai-movie-style-01-20260908-1788854461283.mp4",
+        "https://cdn.hailuoai.com/hub-skill-market/showcase/2026-09-08/niulai-movie-style-02-20260908-1788854461283.mp4"
+      ],
+      "structuredInfo": {
+        "zh-CN": {
+          "summary": "将照片重建为故意粗糙、比例失真且渲染笨拙的早期3D图像，并可延展为低质量运镜短视频。",
+          "bestFor": [
+            "原始低模",
+            "失败美学",
+            "笨拙运镜"
+          ],
+          "howToUse": "提供源图并说明是否继续视频，先确认需要保留的主体、布局和低模失真强度。",
+          "outputs": "主体锚点分析、低模重建图、风格化编辑提示词与可选笨拙运镜视频。"
+        },
+        "en-US": {
+          "summary": "Rebuild a source photo as intentionally crude early-3D imagery with distorted proportions and awkward rendering, with an optional motion extension.",
+          "bestFor": [
+            "Primitive Low-poly",
+            "Failure Aesthetics",
+            "Awkward Camera"
+          ],
+          "howToUse": "Provide the source image and whether to continue to video, then confirm protected subject anchors and distortion strength.",
+          "outputs": "Subject-anchor analysis, crude 3D image, style-edit prompt, and optional awkward-camera video."
+        }
+      },
       "entry": "SKILL.md",
       "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/niulai-movie-style/",
       "fileCount": 6,
@@ -3893,6 +5145,33 @@
         "先出图再出视频",
         "diffusion aesthetic"
       ],
+      "coverUrl": "https://cdn.hailuoai.com/hailuo-video-web/public_assets/492e45f1-12f4-4f1e-b37b-6b7c89a62761.mp4",
+      "showcase": [
+        "https://cdn.hailuoai.com/hub-skill-market/showcase/2026-09-08/oriental-diffusion-aesthetic-01-20260908-1788854461283.mp4",
+        "https://cdn.hailuoai.com/hub-skill-market/showcase/2026-09-08/oriental-diffusion-aesthetic-02-20260908-1788854461283.mp4"
+      ],
+      "structuredInfo": {
+        "zh-CN": {
+          "summary": "将上传主体转成保留轮廓与色域的东方弥散静图，确认后延展为克制的固定机位循环视频。",
+          "bestFor": [
+            "东方美学",
+            "弥散静图",
+            "循环短视频"
+          ],
+          "howToUse": "提供商品、人物或角色图，先确认主体锚点、画幅与暗底纸感的视觉方向。",
+          "outputs": "主体分析、东方弥散静图、视频延展提示词与克制循环短片。"
+        },
+        "en-US": {
+          "summary": "Transform an uploaded subject into an Eastern diffusion still that preserves silhouette and palette, then optionally extend it into a restrained loop.",
+          "bestFor": [
+            "Eastern Aesthetics",
+            "Diffusion Stills",
+            "Looping Shorts"
+          ],
+          "howToUse": "Provide a product, person, or character image, then confirm subject anchors, framing, and the dark paper-like visual direction.",
+          "outputs": "Subject analysis, Eastern diffusion still, video-extension prompt, and restrained looping short."
+        }
+      },
       "entry": "SKILL.md",
       "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/oriental-diffusion-aesthetic/",
       "fileCount": 2,
@@ -3939,6 +5218,32 @@
         "定格拼贴",
         "拼贴动画"
       ],
+      "coverUrl": "https://cdn.hailuoai.com/pre/2026-08-13-19/video/1786620880431282617-1786620880423.mp4",
+      "showcase": [
+        "https://cdn.hailuoai.com/hub-skill-market/showcase/2026-09-08/paper-collage-explainer-generator-01-20260908-1788854461283.mp4"
+      ],
+      "structuredInfo": {
+        "zh-CN": {
+          "summary": "将文案或抽象概念转化为带触感音效的纸拼贴讲解动画，并输出成片。",
+          "bestFor": [
+            "科普讲解",
+            "观点表达",
+            "社交短片"
+          ],
+          "howToUse": "提供文案或主题，选择画幅、时长、色调及音频需求。",
+          "outputs": "视觉隐喻、纸拼贴静帧、定格动画及拼贴音效。"
+        },
+        "en-US": {
+          "summary": "Turn copy or abstract ideas into a tactile paper-collage explainer animation with designed sound effects.",
+          "bestFor": [
+            "Explainers",
+            "Opinion Content",
+            "Social Shorts"
+          ],
+          "howToUse": "Provide copy or a topic, then choose framing, duration, palette, and audio needs.",
+          "outputs": "Visual metaphors, paper-collage stills, stop-motion animation, and collage sound effects."
+        }
+      },
       "entry": "SKILL.md",
       "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/paper-collage-explainer-generator/",
       "fileCount": 2,
@@ -3978,6 +5283,32 @@
         ]
       },
       "triggerWords": [],
+      "coverUrl": "https://cdn.hailuoai.com/hailuo-video-web/public_assets/0992f559-a914-4bd7-bc66-d39c682c985d.mp4",
+      "showcase": [
+        "https://cdn.hailuoai.com/hub-skill-market/showcase/2026-09-08/papercraft-stop-motion-explainer-01-20260908-1788854461283.mp4"
+      ],
+      "structuredInfo": {
+        "zh-CN": {
+          "summary": "将知识主题制作成纸偶、分层布景和定格动作组成的科普视频创作包，强调纸材质与空间深度。",
+          "bestFor": [
+            "纸艺科普",
+            "定格动画",
+            "分层布景"
+          ],
+          "howToUse": "提供知识主题或讲解稿，先确认受众、画幅、纸艺风格和需要解释的核心概念。",
+          "outputs": "纸偶与场景设定、分层分镜、动作提示词、旁白音效方案与制作包。"
+        },
+        "en-US": {
+          "summary": "Turn a knowledge topic into a papercraft explainer package built from paper figures, layered sets, and stop-motion movement.",
+          "bestFor": [
+            "Papercraft Explainers",
+            "Stop Motion",
+            "Layered Sets"
+          ],
+          "howToUse": "Provide the knowledge topic or script, then confirm audience, framing, paper style, and the core concept to explain.",
+          "outputs": "Paper character and set designs, layered storyboard, motion prompts, narration and sound direction, and a production package."
+        }
+      },
       "entry": "SKILL.md",
       "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/papercraft-stop-motion-explainer/",
       "fileCount": 2,
@@ -4024,6 +5355,32 @@
         "poster video",
         "MiniMax H3"
       ],
+      "coverUrl": "https://cdn.hailuoai.com/hailuo-video-web/public_assets/ae64bf13-9da5-413c-b116-35a2348f2bd8.mp4",
+      "showcase": [
+        "https://cdn.hailuoai.com/hub-skill-market/showcase/2026-09-08/poster-motion-generator-01-20260908-1788854461283.mp4"
+      ],
+      "structuredInfo": {
+        "zh-CN": {
+          "summary": "让上传海报在保持文字、版式和主体关系的前提下产生一镜到底的克制动态，适合社媒传播。",
+          "bestFor": [
+            "海报动效",
+            "版式保护",
+            "社媒视频"
+          ],
+          "howToUse": "提供最终海报和目标平台，先确认画幅映射、可动元素与必须保持清晰的文字。",
+          "outputs": "海报结构分析、运动方案、视频提示词、动态海报视频与平台版本。"
+        },
+        "en-US": {
+          "summary": "Animate an uploaded poster in one continuous shot while preserving readable text, layout, and subject relationships for social publishing.",
+          "bestFor": [
+            "Poster Motion",
+            "Layout Protection",
+            "Social Video"
+          ],
+          "howToUse": "Provide the final poster and target platform, then confirm framing, movable elements, and protected text.",
+          "outputs": "Poster analysis, motion direction, video prompts, a motion-poster video, and platform variants."
+        }
+      },
       "entry": "SKILL.md",
       "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/poster-motion-generator/",
       "fileCount": 4,
@@ -4086,6 +5443,33 @@
         "immersive short film",
         "POV drama"
       ],
+      "coverUrl": "https://cdn.hailuoai.com/pre/2026-08-13-19/video/1786620882582516275-1786620882576.mp4",
+      "showcase": [
+        "https://cdn.hailuoai.com/hub-skill-market/showcase/2026-09-08/pov-short-film-generator-01-20260908-1788854461283.mp4",
+        "https://cdn.hailuoai.com/hub-skill-market/showcase/2026-09-08/pov-short-film-generator-02-20260908-1788854461283.mp4"
+      ],
+      "structuredInfo": {
+        "zh-CN": {
+          "summary": "将创意、剧本或参考素材转化为严格主角眼睛视角的沉浸式短片规划与可执行镜头方案。",
+          "bestFor": [
+            "第一视角",
+            "沉浸短片",
+            "主观镜头"
+          ],
+          "howToUse": "提供创意、剧本或参考素材，先确认主角视角、叙事限制、画幅和风格路线。",
+          "outputs": "POV核心简报、视觉风格、镜头表、提示词与可选沉浸式短片。"
+        },
+        "en-US": {
+          "summary": "Turn an idea, script, or reference into an immersive short-film plan locked to the protagonist’s eye-level point of view.",
+          "bestFor": [
+            "First-person POV",
+            "Immersive Shorts",
+            "Subjective Camera"
+          ],
+          "howToUse": "Provide the idea, script, or references, then confirm the protagonist viewpoint, narrative limits, framing, and style route.",
+          "outputs": "A POV brief, visual style, shot list, prompts, and an optional immersive short."
+        }
+      },
       "entry": "SKILL.md",
       "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/pov-short-film-generator/",
       "fileCount": 2,
@@ -4131,6 +5515,29 @@
         "product poster",
         "poster to video"
       ],
+      "coverUrl": "https://cdn.hailuoai.com/prod/2026-09-17-01/video/1789580016662282016-1789580016639.mp4",
+      "structuredInfo": {
+        "zh-CN": {
+          "summary": "以一张产品原图建立统一广告视觉，通过海报与独立光位参考保持包装身份并生成动态产品短片。",
+          "bestFor": [
+            "饮品广告",
+            "包装产品",
+            "动态海报"
+          ],
+          "howToUse": "上传清晰产品照片，选择海报画幅并确认风格方向与广告时长。",
+          "outputs": "产品主海报、四张独立光位参考图及动态广告视频。"
+        },
+        "en-US": {
+          "summary": "Build a coherent campaign from one product photograph, using a poster and independent lighting references to preserve packaging identity in motion.",
+          "bestFor": [
+            "Beverage Advertising",
+            "Packaged Products",
+            "Dynamic Posters"
+          ],
+          "howToUse": "Upload a clear product photo, choose framing, and confirm the style direction and advertisement duration.",
+          "outputs": "Master product poster, four independent lighting reference images, and a dynamic advertisement video."
+        }
+      },
       "entry": "SKILL.md",
       "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/product-dynamic-poster-video/",
       "fileCount": 15,
@@ -4272,6 +5679,29 @@
         "视频复刻工作流",
         "参考片拆解"
       ],
+      "coverUrl": "https://cdn.hailuoai.com/hailuo-video-web/public_assets/af2a3388-2b77-46bc-b8c0-58fb8f578e45.mp4",
+      "structuredInfo": {
+        "zh-CN": {
+          "summary": "将参考影片与明确变更转成可核对的复刻方案，继承原片运动和节奏并按音画要求逐项验收。",
+          "bestFor": [
+            "广告复刻",
+            "发布短片",
+            "动态图形"
+          ],
+          "howToUse": "上传完整参考视频并说明修改范围，补充替换素材后确认变更脚本。",
+          "outputs": "复刻成片、变更脚本、版本记录及交付范围说明。"
+        },
+        "en-US": {
+          "summary": "Convert a reference film and explicit changes into a reviewable recreation that preserves source motion and rhythm and validates audiovisual requirements.",
+          "bestFor": [
+            "Ad Recreation",
+            "Launch Videos",
+            "Motion Graphics"
+          ],
+          "howToUse": "Upload the full source video, describe changes, and supply replacement assets before approving the change script.",
+          "outputs": "Recreated video, change script, version history, and a statement of delivery scope."
+        }
+      },
       "entry": "SKILL.md",
       "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/reference-video-recreation-workflow/",
       "fileCount": 4,
@@ -4408,6 +5838,29 @@
         "音频复刻",
         "对话翻译配音"
       ],
+      "coverUrl": "https://cdn.hailuoai.com/pre/2026-08-13-19/video/1786620884229238303-1786620884220.mp4",
+      "structuredInfo": {
+        "zh-CN": {
+          "summary": "将短剧对白翻译并按原有节奏重配目标语言，同时保留背景音、人物音色和字幕交付关系。",
+          "bestFor": [
+            "短剧出海",
+            "多语言配音",
+            "字幕本地化"
+          ],
+          "howToUse": "提供原片、目标语言和字幕需求，先确认对白分段、译文风格与音画保留范围。",
+          "outputs": "对白转录、目标语言脚本、音色与节奏方案、配音视频及字幕文件。"
+        },
+        "en-US": {
+          "summary": "Localize short-drama dialogue into a target language while matching timing and voice character and preserving the background mix.",
+          "bestFor": [
+            "Drama Localization",
+            "Multilingual Dubbing",
+            "Subtitle Localization"
+          ],
+          "howToUse": "Provide the source video, target language, and subtitle needs, then confirm dialogue segments, translation tone, and preserved audio layers.",
+          "outputs": "Dialogue transcription, localized script, voice and timing direction, dubbed video, and subtitle files."
+        }
+      },
       "entry": "SKILL.md",
       "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/short-drama-multilingual-dubbing/",
       "fileCount": 2,
@@ -4453,6 +5906,32 @@
         "Ligne Claire",
         "叙事装饰插画短片"
       ],
+      "coverUrl": "https://cdn.hailuoai.com/hailuo-video-web/public_assets/8f3ee671-c950-440a-8ea2-e23fc61a3af8.mp4",
+      "showcase": [
+        "https://cdn.hailuoai.com/hub-skill-market/showcase/2026-09-08/silkscreen-decorative-illustration-short-01-20260908-1788854461283.mp4"
+      ],
+      "structuredInfo": {
+        "zh-CN": {
+          "summary": "将丝印装饰插画主题编排成画面精致、音效同步的奢华叙事短片，并可追加器乐版本。",
+          "bestFor": [
+            "丝印插画",
+            "奢华广告",
+            "音效同步"
+          ],
+          "howToUse": "提供主题、文案和参考图，先确认最终规格、装饰风格、叙事节奏与音频版本。",
+          "outputs": "主题简报、关键元素、分镜、画面提示词、同步音效与短片成片。"
+        },
+        "en-US": {
+          "summary": "Turn a silkscreen decorative-illustration theme into a refined narrative short with synchronized sound effects and an optional instrumental version.",
+          "bestFor": [
+            "Silkscreen Illustration",
+            "Luxury Ads",
+            "Sound Sync"
+          ],
+          "howToUse": "Provide the theme, copy, and references, then confirm final specs, decorative style, narrative rhythm, and audio version.",
+          "outputs": "A theme brief, key elements, storyboard, visual prompts, synchronized effects, and the finished short."
+        }
+      },
       "entry": "SKILL.md",
       "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/silkscreen-decorative-illustration-short/",
       "fileCount": 2,
@@ -4501,6 +5980,32 @@
         "罐头笑声",
         "喜剧音效"
       ],
+      "coverUrl": "https://cdn.hailuoai.com/hailuo-video-web/public_assets/90f805fe-bbed-4edb-8b3d-005da35c18c1.mp4",
+      "showcase": [
+        "https://cdn.hailuoai.com/hub-skill-market/showcase/2026-09-08/sitcom-story-video-01-20260908-1788867276244.mp4"
+      ],
+      "structuredInfo": {
+        "zh-CN": {
+          "summary": "将梗概、剧本、分镜或视觉参考转化为角色场景连续、喜剧节拍明确且可执行的情景喜剧短片制作包。",
+          "bestFor": [
+            "情景喜剧",
+            "叙事短片",
+            "喜剧节拍"
+          ],
+          "howToUse": "提供梗概、剧本、分镜或视觉参考，确认规格、喜剧引擎、视觉预设与声音方案。",
+          "outputs": "角色场景圣经、节拍表、剪辑图、逐镜提示词、质检方案及可选成片配乐。"
+        },
+        "en-US": {
+          "summary": "Turn a premise, script, storyboard, or visual reference into an executable sitcom production package with consistent characters, sets, and comic beats.",
+          "bestFor": [
+            "Sitcom Shorts",
+            "Narrative Comedy",
+            "Comic Timing"
+          ],
+          "howToUse": "Provide a premise, script, storyboard, or visual references, then confirm format, comic engine, visual preset, and sound approach.",
+          "outputs": "Character and set bibles, beat sheet, cut map, shot prompts, QA guidance, and optional final-cut music."
+        }
+      },
       "entry": "SKILL.md",
       "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/sitcom-story-video/",
       "fileCount": 6,
@@ -4572,6 +6077,28 @@
         "更新技能",
         "配置技能"
       ],
+      "structuredInfo": {
+        "zh-CN": {
+          "summary": "根据意图或已完成流程创建可复用的双语Skill，并整理运行时文件、市场元数据和验证方案。",
+          "bestFor": [
+            "Skill创建",
+            "流程固化",
+            "双语元数据"
+          ],
+          "howToUse": "提供想复用的流程、输入输出与约束，先确认适用范围和需要保留的关键经验。",
+          "outputs": "双语Skill文件、市场元数据、参考资源、触发测试与验证建议。"
+        },
+        "en-US": {
+          "summary": "Create a reusable bilingual Skill from an intent or completed workflow and organize runtime files, market metadata, and validation.",
+          "bestFor": [
+            "Skill Creation",
+            "Workflow Capture",
+            "Bilingual Metadata"
+          ],
+          "howToUse": "Provide the reusable workflow, inputs, outputs, and constraints, then confirm scope and key experience to preserve.",
+          "outputs": "Bilingual Skill files, market metadata, reference resources, trigger tests, and validation guidance."
+        }
+      },
       "entry": "SKILL.md",
       "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/skill-creator/",
       "fileCount": 7,
@@ -4632,6 +6159,28 @@
         ]
       },
       "triggerWords": [],
+      "structuredInfo": {
+        "zh-CN": {
+          "summary": "审查Skill的触发描述、工作流结构、市场字段和中英对齐情况，输出上架前的质量判断。",
+          "bestFor": [
+            "Skill审查",
+            "元数据质检",
+            "上架检查"
+          ],
+          "howToUse": "提供Skill文件与市场元数据，先运行机器校验，再按结构、触发、内容和引用逐项审查。",
+          "outputs": "结构与字段审查报告、问题分级、对齐检查、校验结果与优先改进建议。"
+        },
+        "en-US": {
+          "summary": "Review a Skill’s triggering, workflow structure, market fields, and bilingual alignment to assess publishing readiness.",
+          "bestFor": [
+            "Skill Audits",
+            "Metadata QA",
+            "Pre-publish Review"
+          ],
+          "howToUse": "Provide the Skill files and market metadata, then run machine checks before reviewing structure, triggers, content, and references.",
+          "outputs": "A structure and field report, prioritized issues, alignment checks, validation findings, and improvement recommendations."
+        }
+      },
       "entry": "SKILL.md",
       "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/skill-reviewer/",
       "fileCount": 2,
@@ -4676,6 +6225,33 @@
         "dual style",
         "picture-in-picture"
       ],
+      "coverUrl": "https://cdn.hailuoai.com/hailuo-video-web/public_assets/b8345690-5e42-43b6-8fcb-2f71c1a27ef6.mp4",
+      "showcase": [
+        "https://cdn.hailuoai.com/hub-skill-market/showcase/2026-09-08/stamp-photo-motion-01-20260908-1788854461283.mp4",
+        "https://cdn.hailuoai.com/hub-skill-market/showcase/2026-09-08/stamp-photo-motion-02-20260908-1788854461283.mp4"
+      ],
+      "structuredInfo": {
+        "zh-CN": {
+          "summary": "将照片重绘为插画并与原图合成邮票边框内外双风格画面，再以固定镜头制作自然动效。",
+          "bestFor": [
+            "邮票合成",
+            "照片重绘",
+            "固定镜头"
+          ],
+          "howToUse": "提供源照片，先确认插画风格、邮票构图以及内外画面需要对齐的建筑或路径。",
+          "outputs": "插画重绘图、邮票复合画面、边界对齐方案与固定镜头动画。"
+        },
+        "en-US": {
+          "summary": "Restyle a photo, combine it with the original in a dual-style postage-stamp composition, and animate it with a locked camera.",
+          "bestFor": [
+            "Stamp Composites",
+            "Photo Restyling",
+            "Locked Camera"
+          ],
+          "howToUse": "Provide the source photo, then confirm the illustration style, stamp composition, and structures that must align inside and outside the frame.",
+          "outputs": "A restyled illustration, stamp composite, boundary-alignment plan, and locked-camera animation."
+        }
+      },
       "entry": "SKILL.md",
       "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/stamp-photo-motion/",
       "fileCount": 2,
@@ -4720,6 +6296,32 @@
         "jazz noir trailer",
         "suspense crime intro"
       ],
+      "coverUrl": "https://cdn.hailuoai.com/pre/2026-08-13-19/video/1786620885996021233-1786620885990.mp4",
+      "showcase": [
+        "https://cdn.hailuoai.com/hub-skill-market/showcase/2026-09-08/suspense-title-sequence-generator-01-20260908-1788854461283.mp4"
+      ],
+      "structuredInfo": {
+        "zh-CN": {
+          "summary": "将悬疑电影设定、参考素材和准确署名锚定为复古美学关键帧，再生成十五秒片头成片。",
+          "bestFor": [
+            "悬疑片头",
+            "复古美学",
+            "关键帧叙事"
+          ],
+          "howToUse": "提供电影设定、片名、署名和参考图，先确认片头信息、六个镜头锚点与视觉气质。",
+          "outputs": "电影信息表、六张关键帧提示词、署名设计、镜头提示词与悬疑片头视频。"
+        },
+        "en-US": {
+          "summary": "Anchor a suspense-film setting, references, and exact credits in retro-styled keyframes before producing a fifteen-second title sequence.",
+          "bestFor": [
+            "Suspense Titles",
+            "Retro Aesthetics",
+            "Keyframe Narratives"
+          ],
+          "howToUse": "Provide the film setting, title, credits, and references, then confirm title data, six shot anchors, and visual tone.",
+          "outputs": "A film fact sheet, six keyframe prompts, credit design, shot prompts, and the suspense title video."
+        }
+      },
       "entry": "SKILL.md",
       "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/suspense-title-sequence-generator/",
       "fileCount": 2,
@@ -4757,6 +6359,28 @@
         ]
       },
       "triggerWords": [],
+      "structuredInfo": {
+        "zh-CN": {
+          "summary": "将创作需求与参考素材转化为可编辑的TouchDesigner实时视觉网络，并交付经过验证的互动媒体。",
+          "bestFor": [
+            "实时视觉",
+            "互动装置",
+            "节点工程"
+          ],
+          "howToUse": "提供创作简报、图像视频参考、设备输入或现有工程，先确认目标效果与交付形式。",
+          "outputs": "可编辑TOE或TOX工程、验证后的预览媒体及修改说明。"
+        },
+        "en-US": {
+          "summary": "Turn creative requirements and references into editable TouchDesigner realtime visual networks with verified interactive media.",
+          "bestFor": [
+            "Realtime Visuals",
+            "Interactive Installations",
+            "Node Projects"
+          ],
+          "howToUse": "Provide a brief, image or video references, device inputs, or an existing project, then confirm the target effect and delivery form.",
+          "outputs": "An editable TOE or TOX project, verified preview media, and revision notes."
+        }
+      },
       "entry": "SKILL.md",
       "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/touchdesigner-workflow/",
       "fileCount": 10,
@@ -4839,6 +6463,32 @@
         "副镜头规划",
         "副镜头生成"
       ],
+      "coverUrl": "https://cdn.hailuoai.com/pre/2026-08-14-21/video/1786713893768400104-1786713893760.mp4",
+      "showcase": [
+        "https://cdn.hailuoai.com/hub-skill-market/showcase/2026-09-08/transcript-broll-planner-01-20260908-1788854461283.mp4"
+      ],
+      "structuredInfo": {
+        "zh-CN": {
+          "summary": "将口播逐字稿按语义拆成可审阅的B-roll镜头方案，并在确认后生成对应的视频素材。",
+          "bestFor": [
+            "B-roll规划",
+            "口播视频",
+            "语义剪辑"
+          ],
+          "howToUse": "提供逐字稿、旁白或数据叙述，先按语义分段并确认镜头路线与缺失素材。",
+          "outputs": "语义分段表、B-roll镜头计划、素材清单、已批准提示词与视频素材。"
+        },
+        "en-US": {
+          "summary": "Turn a transcript or narration into a reviewable semantic B-roll plan and generate the approved supporting video assets.",
+          "bestFor": [
+            "B-roll Planning",
+            "Talking-head Video",
+            "Semantic Editing"
+          ],
+          "howToUse": "Provide the transcript, voiceover, or data-rich narration, then segment it by meaning and confirm the shot route and missing assets.",
+          "outputs": "A semantic segmentation table, B-roll plan, asset list, approved prompts, and video assets."
+        }
+      },
       "entry": "SKILL.md",
       "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/transcript-broll-planner/",
       "fileCount": 2,
@@ -4881,6 +6531,32 @@
         "social app 3D character card",
         "photo-to-3D social UI"
       ],
+      "coverUrl": "https://cdn.hailuoai.com/hailuo-video-web/public_assets/afb24c03-a7fc-48ee-a728-ec0824e667b1.mp4",
+      "showcase": [
+        "https://cdn.hailuoai.com/hub-skill-market/showcase/2026-09-08/trendy-3d-ins-card-01-20260908-1788854461283.mp4"
+      ],
+      "structuredInfo": {
+        "zh-CN": {
+          "summary": "将照片转成带极简社交框的3D手办卡，确认后可延展为固定镜头互动动画短片。",
+          "bestFor": [
+            "3D手办",
+            "社交卡片",
+            "互动动画"
+          ],
+          "howToUse": "提供人物、宠物或角色照片，先确认主体身份、低模风格、社交框文案与互动方向。",
+          "outputs": "主体分析、3D静态卡、互动分镜、固定镜头提示词与可选动画短片。"
+        },
+        "en-US": {
+          "summary": "Turn a photo into a minimalist social-frame 3D figurine card, then optionally extend it into a locked-camera interaction short.",
+          "bestFor": [
+            "3D Figurines",
+            "Social Cards",
+            "Interactive Motion"
+          ],
+          "howToUse": "Provide a person, pet, or character photo, then confirm identity, low-poly style, social copy, and interaction direction.",
+          "outputs": "Subject analysis, 3D still card, interaction storyboard, locked-camera prompt, and optional short."
+        }
+      },
       "entry": "SKILL.md",
       "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/trendy-3d-ins-card/",
       "fileCount": 2,
@@ -4923,6 +6599,32 @@
         "产品TVC",
         "品牌短片"
       ],
+      "coverUrl": "https://cdn.hailuoai.com/hailuo-video-web/public_assets/94816a0d-fb3e-47ce-9004-ec9a07fb6514.mp4",
+      "showcase": [
+        "https://cdn.hailuoai.com/hub-skill-market/showcase/2026-09-08/typography-product-tvc-02-20260908-1788854461283.mp4"
+      ],
+      "structuredInfo": {
+        "zh-CN": {
+          "summary": "将产品与品牌参考编排为带多视角、九宫格分镜、产品贴字和配乐的完整横版TVC。",
+          "bestFor": [
+            "产品TVC",
+            "贴字动画",
+            "品牌排版"
+          ],
+          "howToUse": "提供产品图、品牌参考和卖点文字，先确认产品身份、文字内容、画幅与五步制作范围。",
+          "outputs": "产品多视角图、九宫格分镜、分段视频、贴字方案、配乐与TVC成片。"
+        },
+        "en-US": {
+          "summary": "Turn product and brand references into a horizontal TVC with multi-view assets, a grid storyboard, kinetic type, and music.",
+          "bestFor": [
+            "Product TVCs",
+            "Kinetic Type",
+            "Brand Layout"
+          ],
+          "howToUse": "Provide product images, brand references, and selling-point copy, then confirm identity, exact text, framing, and the five-stage scope.",
+          "outputs": "Product multi-views, a grid storyboard, video segments, type direction, music, and the finished TVC."
+        }
+      },
       "entry": "SKILL.md",
       "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/typography-product-tvc/",
       "fileCount": 4,
@@ -4975,6 +6677,28 @@
         "光标交互",
         "数据面板动画"
       ],
+      "structuredInfo": {
+        "zh-CN": {
+          "summary": "从真实品牌视觉提炼界面语言，制作应用界面动效、产品演示镜头与可合成的品牌化宣传视频。",
+          "bestFor": [
+            "界面动效",
+            "品牌系统",
+            "产品演示"
+          ],
+          "howToUse": "提供产品页面、品牌资产和动效目标，先锁定品牌视觉DNA、功能重点与叙事规格。",
+          "outputs": "品牌分析、界面与镜头方案、故事板、动效片段、声音设计与宣传片。"
+        },
+        "en-US": {
+          "summary": "Extract a real brand language to create UI motion, product-demo shots, and a brand-led promo video ready for assembly.",
+          "bestFor": [
+            "UI Motion",
+            "Brand Systems",
+            "Product Demos"
+          ],
+          "howToUse": "Provide product screens, brand assets, and a motion goal, then lock the visual DNA, feature focus, and narrative spec.",
+          "outputs": "Brand analysis, interface and shot direction, storyboard, motion clips, sound design, and promo video."
+        }
+      },
       "entry": "SKILL.md",
       "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/ui-motion/",
       "fileCount": 19,
@@ -5102,6 +6826,28 @@
         "视频提示词重建",
         "保持结构重制"
       ],
+      "structuredInfo": {
+        "zh-CN": {
+          "summary": "以视频、关键帧或文字证据逐镜拆解镜头、动作、声音与连续性，并编译为可复刻的制作方案。",
+          "bestFor": [
+            "视频拆解",
+            "镜头复刻",
+            "编辑计划"
+          ],
+          "howToUse": "提供参考视频、关键帧或详细描述，先建立证据链并确认复刻范围与交付形式。",
+          "outputs": "逐镜拆解报告、镜头运动与声音证据、复刻合同、生成提示词与编辑计划。"
+        },
+        "en-US": {
+          "summary": "Use video, keyframe, or textual evidence to deconstruct shots, motion, sound, and continuity into a reproducible production plan.",
+          "bestFor": [
+            "Video Deconstruction",
+            "Shot Recreation",
+            "Edit Plans"
+          ],
+          "howToUse": "Provide the reference video, keyframes, or detailed description, then build an evidence chain and confirm recreation scope and deliverable.",
+          "outputs": "A shot-by-shot report, motion and sound evidence, recreation contract, generation prompts, and edit plan."
+        }
+      },
       "entry": "SKILL.md",
       "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/video-deconstruct/",
       "fileCount": 3,
@@ -5154,6 +6900,29 @@
         "video element replacement",
         "replace everything in video"
       ],
+      "coverUrl": "https://cdn.hailuoai.com/hailuo-video-web/public_assets/1c7cb4d2-ec7e-4017-ae9f-5d73a0678bea.mp4",
+      "structuredInfo": {
+        "zh-CN": {
+          "summary": "在保持原片表演、摄影和时序的基础上更换可见元素，让新主体自然适配动作并维持跨镜头连续性。",
+          "bestFor": [
+            "视频换人",
+            "背景替换",
+            "产品替换"
+          ],
+          "howToUse": "上传源视频与替换参考素材，明确更换对象和必须保留的内容。",
+          "outputs": "完成元素替换并经身份、连续性与音画同步检查的视频。"
+        },
+        "en-US": {
+          "summary": "Replace visible elements while retaining the source performance, camera, and timing, adapting new subjects naturally and preserving continuity across shots.",
+          "bestFor": [
+            "Subject Replacement",
+            "Background Replacement",
+            "Product Replacement"
+          ],
+          "howToUse": "Upload the source and replacement references, then identify the targets and details that must remain.",
+          "outputs": "Replacement video reviewed for identity, continuity, and audiovisual synchronization."
+        }
+      },
       "entry": "SKILL.md",
       "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/video-element-replacement/",
       "fileCount": 2,
@@ -5196,6 +6965,28 @@
         "复刻音色",
         "复刻声音"
       ],
+      "structuredInfo": {
+        "zh-CN": {
+          "summary": "在确认说话人授权和源录音质量后创建可复用音色，并完成试听、验收与安全使用说明。",
+          "bestFor": [
+            "音色克隆",
+            "授权音频",
+            "声音验收"
+          ],
+          "howToUse": "提供已获授权的参考录音，先确认授权范围、语种、源质量与预期使用场景。",
+          "outputs": "授权记录、录音检查、克隆音色、试听样本、验收结果与复用说明。"
+        },
+        "en-US": {
+          "summary": "Create a reusable voice from an authorized recording while checking consent, source quality, preview results, and safe downstream use.",
+          "bestFor": [
+            "Voice Cloning",
+            "Authorized Audio",
+            "Voice QA"
+          ],
+          "howToUse": "Provide an authorized reference recording, then confirm consent scope, language, source quality, and intended use.",
+          "outputs": "Consent record, recording check, cloned voice, preview sample, acceptance result, and reuse guidance."
+        }
+      },
       "entry": "SKILL.md",
       "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/voice-clone/",
       "fileCount": 3,
@@ -5249,6 +7040,32 @@
         "Vox-style video",
         "keyframe-to-animation"
       ],
+      "coverUrl": "https://cdn.hailuoai.com/hailuo-video-web/public_assets/3b455fbe-7608-4804-80c7-34411049d7e2.mp4",
+      "showcase": [
+        "https://cdn.hailuoai.com/hub-skill-market/showcase/2026-09-08/vox-style-video-generator-01-20260908-1788867276244.mp4"
+      ],
+      "structuredInfo": {
+        "zh-CN": {
+          "summary": "将主题、文章或研究资料转成先确认方案、再生成旁白字幕和拼贴动效的完整科普解释视频。",
+          "bestFor": [
+            "科普解释",
+            "拼贴动效",
+            "旁白字幕"
+          ],
+          "howToUse": "提供主题、正文或资料，先确认语言、受众、时长、画幅和制作方案。",
+          "outputs": "制作计划、脚本、分镜、关键帧、拼贴动画、旁白字幕与解释视频成片。"
+        },
+        "en-US": {
+          "summary": "Turn a topic, article, or research source into a confirmation-first explainer with narration, subtitles, and collage motion.",
+          "bestFor": [
+            "Explainer Videos",
+            "Collage Motion",
+            "Narration and Captions"
+          ],
+          "howToUse": "Provide the topic, copy, or research, then confirm language, audience, duration, framing, and production plan.",
+          "outputs": "A production plan, script, storyboard, keyframes, collage animation, narration, captions, and finished explainer."
+        }
+      },
       "entry": "SKILL.md",
       "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/vox-style-video-generator/",
       "fileCount": 7,
@@ -5321,6 +7138,32 @@
         "韦斯安德森风格短片",
         "短片生成"
       ],
+      "coverUrl": "https://cdn.hailuoai.com/hailuo-video-web/public_assets/82647356-8853-4892-b355-59fd34142187.mp4",
+      "showcase": [
+        "https://cdn.hailuoai.com/hub-skill-market/showcase/2026-09-08/wes-anderson-style-short-film-generator-01-20260908-1788854461283.mp4"
+      ],
+      "structuredInfo": {
+        "zh-CN": {
+          "summary": "将故事与参考素材转译为原创的中心构图、复古置景和克制奇想短片，并完成音画合成。",
+          "bestFor": [
+            "对称叙事",
+            "复古置景",
+            "原创短片"
+          ],
+          "howToUse": "提供故事、角色或参考素材，先确认原创边界、规格、视觉方向与叙事核心。",
+          "outputs": "故事简报、视觉方向、角色场景资产、分镜、视频片段、声音与短片成片。"
+        },
+        "en-US": {
+          "summary": "Translate a story and references into an original short with centered composition, retro design, restrained whimsy, and finished audio-visual assembly.",
+          "bestFor": [
+            "Symmetrical Stories",
+            "Retro Production",
+            "Original Shorts"
+          ],
+          "howToUse": "Provide the story, characters, or references, then confirm originality boundaries, specs, visual direction, and narrative core.",
+          "outputs": "A story brief, visual direction, character and scene assets, storyboard, video segments, sound, and finished short."
+        }
+      },
       "entry": "SKILL.md",
       "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/wes-anderson-style-short-film-generator/",
       "fileCount": 2,
@@ -5366,6 +7209,33 @@
         "系统弹窗玩法",
         "弹窗叙事"
       ],
+      "coverUrl": "https://cdn.hailuoai.com/hailuo-video-web/public_assets/47648246-ff13-4af7-bd01-edd2894294c6.mp4",
+      "showcase": [
+        "https://cdn.hailuoai.com/hub-skill-market/showcase/2026-09-08/windows-xp-dialog-story-01-20260908-1788854461283.mp4",
+        "https://cdn.hailuoai.com/hub-skill-market/showcase/2026-09-08/windows-xp-dialog-story-02-20260908-1788854461283.mp4"
+      ],
+      "structuredInfo": {
+        "zh-CN": {
+          "summary": "将Windows XP复古弹窗、角色动作和系统状态编排成可读且有因果收束的视觉叙事短剧。",
+          "bestFor": [
+            "复古弹窗",
+            "视觉叙事",
+            "系统状态"
+          ],
+          "howToUse": "提供创意、弹窗素材或角色参考，先确认静态图或视频路线、状态序列与文字内容。",
+          "outputs": "弹窗设计、状态时间线、角色动作、声音方案与视觉短剧成片。"
+        },
+        "en-US": {
+          "summary": "Arrange Windows XP dialog states, character actions, and system events into a readable visual short with clear causality and resolution.",
+          "bestFor": [
+            "Retro Dialogs",
+            "Visual Storytelling",
+            "System States"
+          ],
+          "howToUse": "Provide the concept, dialog assets, or character references, then confirm still or video route, state sequence, and exact text.",
+          "outputs": "Dialog designs, state timeline, character actions, sound direction, and the finished visual short."
+        }
+      },
       "entry": "SKILL.md",
       "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/windows-xp-dialog-story/",
       "fileCount": 2,
@@ -5410,6 +7280,33 @@
         "felt story short",
         "narrated felt video"
       ],
+      "coverUrl": "https://cdn.hailuoai.com/hailuo-video-web/public_assets/a3af6f27-9d65-49b7-b278-73cd7fd5b1ef.mp4",
+      "showcase": [
+        "https://cdn.hailuoai.com/hub-skill-market/showcase/2026-09-08/wool-felt-story-short-01-20260908-1788867276244.mp4",
+        "https://cdn.hailuoai.com/hub-skill-market/showcase/2026-09-08/wool-felt-story-short-02-20260908-1788867276244.mp4"
+      ],
+      "structuredInfo": {
+        "zh-CN": {
+          "summary": "将故事文案转成具有羊毛毡材质、旁白对白时间轴和阶段确认的连续故事短片。",
+          "bestFor": [
+            "羊毛毡动画",
+            "故事短片",
+            "语音时间轴"
+          ],
+          "howToUse": "提供故事文案或剧本及可选角色场景参考，先确认画幅、声音结构和成片版本。",
+          "outputs": "羊毛毡角色场景、故事板、语音时间轴、自然音效与可选配乐成片。"
+        },
+        "en-US": {
+          "summary": "Turn story copy into a continuous wool-felt short with a narration and dialogue timeline and approval gates at each stage.",
+          "bestFor": [
+            "Wool-felt Animation",
+            "Story Shorts",
+            "Voice Timelines"
+          ],
+          "howToUse": "Provide story copy or a script with optional character and scene references, then confirm framing, sound structure, and delivery versions.",
+          "outputs": "Wool-felt character and scene assets, storyboard, voice timeline, natural sound, and an optional music version."
+        }
+      },
       "entry": "SKILL.md",
       "baseUrl": "https://raw.githubusercontent.com/qxryz/wg-dist/skills-dist/skills/wool-felt-story-short/",
       "fileCount": 2,
